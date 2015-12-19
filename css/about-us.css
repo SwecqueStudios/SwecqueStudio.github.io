@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #000004;
-	background-color: #416E66;
+	color: #0000FE;
+	background-color: #5885CF;
 }
 
 .html
@@ -58,7 +58,7 @@
 
 #u5806
 {
-	z-index: 357;
+	z-index: 341;
 	width: 50px;
 	min-height: 25px;
 	left: 1022px;
@@ -67,7 +67,7 @@
 
 #u2514
 {
-	z-index: 255;
+	z-index: 251;
 	width: 573px;
 	left: 549px;
 	margin-top: 17px;
@@ -75,14 +75,14 @@
 
 #u2558
 {
-	z-index: 256;
+	z-index: 252;
 	width: 573px;
 	margin-right: -10000px;
 }
 
 #menuu2515
 {
-	z-index: 257;
+	z-index: 253;
 	width: 573px;
 	margin-right: -10000px;
 }
@@ -616,39 +616,9 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3785
+#u2565,#u3761,#u3775,#u3796
 {
 	width: 172px;
-	padding-bottom: 9px;
-	margin-right: -10000px;
-}
-
-#u3776.MuseMenuActive,#u3785:hover
-{
-	width: 172px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u3786-4
-{
-	width: 96px;
-	min-height: 29px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	margin-right: -10000px;
-	top: 4px;
-	left: 34px;
-}
-
-#u3785:hover #u3786-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 29px;
-	width: 96px;
-	margin: 0px -10000px 0px 0px;
 }
 
 #u3799
@@ -658,7 +628,14 @@
 	margin-right: -10000px;
 }
 
-#u3785.MuseMenuActive,#u3799:hover
+#u3776.MuseMenuActive,#u3799:hover
+{
+	width: 172px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3799.MuseMenuActive
 {
 	width: 172px;
 	min-height: 0px;
@@ -686,53 +663,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u2565,#u3761,#u3775,#u3782,#u3796,#u3789
-{
-	width: 172px;
-}
-
-#u3792
-{
-	width: 172px;
-	padding-bottom: 9px;
-	margin-right: -10000px;
-}
-
-#u3799.MuseMenuActive,#u3792:hover
-{
-	width: 172px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u3792.MuseMenuActive
-{
-	width: 172px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u3794-4
-{
-	width: 140px;
-	min-height: 29px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	margin-right: -10000px;
-	top: 4px;
-	left: 12px;
-}
-
-#u3792:hover #u3794-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 29px;
-	width: 140px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u892-bw
 {
 	z-index: 2;
@@ -741,7 +671,7 @@
 
 #u966-4
 {
-	z-index: 147;
+	z-index: 143;
 	width: 612px;
 	min-height: 59px;
 	background-color: #EFEFEF;
@@ -761,7 +691,7 @@
 
 #u7693
 {
-	z-index: 358;
+	z-index: 342;
 	width: 424px;
 	margin-right: -10000px;
 	margin-top: 12px;
@@ -770,19 +700,19 @@
 
 #u7249
 {
-	z-index: 359;
+	z-index: 343;
 	height: 113px;
 	top: 0px;
 }
 
 #u7249-bw
 {
-	z-index: 359;
+	z-index: 343;
 }
 
 #u971-4
 {
-	z-index: 143;
+	z-index: 139;
 	width: 950px;
 	min-height: 55px;
 	background-color: transparent;
@@ -793,7 +723,7 @@
 
 #u1250
 {
-	z-index: 159;
+	z-index: 155;
 	min-height: 63px;
 	padding-bottom: 362px;
 	background: transparent url("../images/swecqueiswheretheheartis.jpg") no-repeat center center;
@@ -802,7 +732,7 @@
 
 #u1509
 {
-	z-index: 167;
+	z-index: 163;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;
@@ -816,7 +746,7 @@
 
 #u1250-bw
 {
-	z-index: 159;
+	z-index: 155;
 	min-height: 63px;
 }
 
@@ -830,7 +760,7 @@
 
 #u3880
 {
-	z-index: 360;
+	z-index: 344;
 	width: 1017px;
 	top: 402px;
 	left: 5px;
@@ -838,14 +768,14 @@
 
 #u7701
 {
-	z-index: 456;
+	z-index: 440;
 	width: 204px;
 	margin-right: -10000px;
 }
 
 #u3881
 {
-	z-index: 361;
+	z-index: 345;
 	width: 789px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -854,7 +784,7 @@
 
 #menuu5359
 {
-	z-index: 362;
+	z-index: 346;
 	width: 583px;
 	margin-right: -10000px;
 	left: -1px;
@@ -1416,7 +1346,7 @@
 	left: 35px;
 }
 
-#u3785.MuseMenuActive #u3786-4,#u5455:hover #u5458-4
+#u5455:hover #u5458-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -1516,7 +1446,7 @@
 	left: 13px;
 }
 
-#u3792.MuseMenuActive #u3794-4,#u5448:hover #u5450-4
+#u5448:hover #u5450-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -1536,7 +1466,7 @@
 
 #u7286
 {
-	z-index: 457;
+	z-index: 441;
 	width: 168px;
 	border-style: none;
 	border-color: transparent;
@@ -1548,7 +1478,7 @@
 
 #u7287
 {
-	z-index: 458;
+	z-index: 442;
 	width: 168px;
 	background-color: transparent;
 	padding-bottom: 12px;
@@ -1566,7 +1496,7 @@
 
 #u7288-4
 {
-	z-index: 459;
+	z-index: 443;
 	width: 97px;
 	min-height: 32px;
 	background-color: transparent;
@@ -1582,7 +1512,7 @@
 
 #u7289
 {
-	z-index: 463;
+	z-index: 447;
 	overflow: hidden;
 	position: relative;
 	width: 44px;
@@ -1593,7 +1523,7 @@
 
 #u1268-4
 {
-	z-index: 151;
+	z-index: 147;
 	width: 911px;
 	min-height: 32px;
 	background-color: transparent;
@@ -1615,7 +1545,7 @@
 
 #u1259-4
 {
-	z-index: 155;
+	z-index: 151;
 	width: 910px;
 	min-height: 115px;
 	background-color: transparent;
@@ -1628,7 +1558,7 @@
 
 #u3655-4
 {
-	z-index: 234;
+	z-index: 230;
 	width: 168px;
 	min-height: 30px;
 	background-color: transparent;
@@ -1664,7 +1594,7 @@
 
 #u4907
 {
-	z-index: 243;
+	z-index: 239;
 	height: 46px;
 	width: 60px;
 	vertical-align: top;
@@ -1681,7 +1611,7 @@
 
 #u1277
 {
-	z-index: 142;
+	z-index: 138;
 	min-height: 759px;
 	background: #1EBEEA url("../images/u1277-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(38%, #146D93),to(#1EBEEA));
@@ -1718,7 +1648,7 @@
 
 #u1416
 {
-	z-index: 162;
+	z-index: 158;
 	width: 1000px;
 	height: 500px;
 	background-color: transparent;
@@ -1737,13 +1667,13 @@
 
 #u1277-bw
 {
-	z-index: 142;
+	z-index: 138;
 	min-height: 759px;
 }
 
 #u1427-4
 {
-	z-index: 238;
+	z-index: 234;
 	width: 660px;
 	min-height: 77px;
 	border-style: solid;
@@ -1767,7 +1697,7 @@
 
 #u1496-4
 {
-	z-index: 163;
+	z-index: 159;
 	width: 910px;
 	min-height: 114px;
 	background-color: transparent;
@@ -1780,22 +1710,22 @@
 
 #u1587
 {
-	z-index: 168;
+	z-index: 164;
 	height: 415px;
-	background: transparent url("../images/swagpatrick-thimo2.jpg") no-repeat center center;
+	background: transparent url("../images/swagpatrick-thimo.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 #u1587-bw
 {
-	z-index: 168;
+	z-index: 164;
 	margin-top: 2px;
 	height: 415px;
 }
 
 #u2017
 {
-	z-index: 170;
+	z-index: 166;
 	min-height: 668px;
 	background-color: #000000;
 	padding-bottom: 9px;
@@ -1813,7 +1743,7 @@
 
 #u2019-36
 {
-	z-index: 197;
+	z-index: 193;
 	width: 425px;
 	min-height: 251px;
 	background-color: transparent;
@@ -1833,7 +1763,7 @@
 
 #u2016-26
 {
-	z-index: 171;
+	z-index: 167;
 	width: 440px;
 	min-height: 263px;
 	background-color: transparent;
@@ -1860,7 +1790,7 @@
 
 #u2017-bw
 {
-	z-index: 170;
+	z-index: 166;
 	min-height: 668px;
 	margin-top: -2px;
 }
@@ -1883,7 +1813,7 @@
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	visibility: inherit;
-	background: transparent url("../images/michelangelo-71282-u7922-7-fr.png") no-repeat center center;
+	background: transparent url("../images/michelangelo-71282-u1270-7-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1909,7 +1839,7 @@
 
 #u2040
 {
-	z-index: 233;
+	z-index: 229;
 	width: 363px;
 	min-height: 110px;
 	border-style: none;
@@ -1929,7 +1859,7 @@
 
 #u6826
 {
-	z-index: 245;
+	z-index: 241;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 105px;
@@ -1938,7 +1868,7 @@
 
 #u6965-4
 {
-	z-index: 246;
+	z-index: 242;
 	width: 548px;
 	min-height: 77px;
 	border-style: solid;
@@ -1961,7 +1891,7 @@
 
 #u6966-4
 {
-	z-index: 250;
+	z-index: 246;
 	width: 980px;
 	min-height: 70px;
 	background-color: transparent;
@@ -2036,7 +1966,7 @@
 
 #u7696
 {
-	z-index: 140;
+	z-index: 136;
 }
 
 #u3822
@@ -2106,7 +2036,7 @@
 
 #u6561-4
 {
-	z-index: 115;
+	z-index: 111;
 	width: 173px;
 	min-height: 18px;
 	margin-right: -10000px;
@@ -2116,7 +2046,7 @@
 
 #u6889
 {
-	z-index: 127;
+	z-index: 123;
 	width: 259px;
 	margin-right: -10000px;
 	margin-top: 8px;
@@ -2125,14 +2055,14 @@
 
 #u6861
 {
-	z-index: 129;
+	z-index: 125;
 	width: 48px;
 	margin-right: -10000px;
 }
 
 #u6871
 {
-	z-index: 135;
+	z-index: 131;
 	width: 48px;
 	margin-right: -10000px;
 	left: 73px;
@@ -2146,7 +2076,7 @@
 
 #u6883
 {
-	z-index: 138;
+	z-index: 134;
 	height: 40px;
 	width: 40px;
 	margin-right: -10000px;
@@ -2156,7 +2086,7 @@
 
 #u6866
 {
-	z-index: 132;
+	z-index: 128;
 	height: 48px;
 	width: 48px;
 	margin-right: -10000px;
@@ -2265,7 +2195,7 @@
 	margin-top: 5px;
 }
 
-#u3820-4
+#u3830-4
 {
 	z-index: 95;
 	width: 230px;
@@ -2273,15 +2203,7 @@
 	margin-top: 5px;
 }
 
-#u3830-4
-{
-	z-index: 99;
-	width: 230px;
-	min-height: 20px;
-	margin-top: 5px;
-}
-
-#u3809-4:hover,#u3810-4:hover,#u3814-4:hover,#u7637-4:hover,#u3815-4:hover,#u3816-4:hover,#u3819-4:hover,#u3820-4:hover,#u3830-4:hover
+#u3809-4:hover,#u3810-4:hover,#u3814-4:hover,#u7637-4:hover,#u3815-4:hover,#u3816-4:hover,#u3819-4:hover,#u3830-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -2375,7 +2297,7 @@
 
 #u6656
 {
-	z-index: 123;
+	z-index: 119;
 	width: 192px;
 	margin-right: -10000px;
 	left: 409px;
@@ -2383,14 +2305,14 @@
 
 #u6655
 {
-	z-index: 124;
+	z-index: 120;
 	width: 192px;
 	margin-right: -10000px;
 }
 
 #u6543
 {
-	z-index: 125;
+	z-index: 121;
 	width: 67px;
 	margin-bottom: -8px;
 	margin-right: -10000px;
@@ -2400,7 +2322,7 @@
 
 #u4016-4
 {
-	z-index: 103;
+	z-index: 99;
 	width: 285px;
 	min-height: 13px;
 	margin-right: -10000px;
@@ -2426,7 +2348,7 @@
 
 #u6534-4
 {
-	z-index: 107;
+	z-index: 103;
 	width: 111px;
 	min-height: 20px;
 	margin-right: -10000px;
@@ -2445,7 +2367,7 @@
 
 #u6537-4
 {
-	z-index: 111;
+	z-index: 107;
 	width: 111px;
 	min-height: 20px;
 	margin-right: -10000px;
@@ -2464,7 +2386,7 @@
 
 #u6562-4
 {
-	z-index: 119;
+	z-index: 115;
 	width: 289px;
 	min-height: 40px;
 	margin-right: -10000px;

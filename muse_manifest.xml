@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1450539998915">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1450540692282">
   <folder name="css">
     <file name="site_global.css" crc="464585200"/>
     <file name="master_b-master.css" crc="3956660791" ref="the-game:support:about-us"/>
-    <file name="master_a-master.css" crc="461720921" ref="index:the-game:support:about-us"/>
-    <file name="index.css" crc="341477164" ref="index"/>
-    <file name="iefonts_index.css" crc="474241304" ref="index"/>
-    <file name="the-game.css" crc="4200610619" ref="the-game"/>
-    <file name="iefonts_the-game.css" crc="489194899" ref="the-game"/>
-    <file name="support.css" crc="4104409069" ref="support"/>
-    <file name="iefonts_support.css" crc="4041423396" ref="support"/>
-    <file name="about-us.css" crc="71396966" ref="about-us"/>
-    <file name="iefonts_about-us.css" crc="4161247754" ref="about-us"/>
+    <file name="master_a-master.css" crc="4038165461" ref="index:the-game:support:about-us"/>
+    <file name="index.css" crc="4284460669" ref="index"/>
+    <file name="iefonts_index.css" crc="3949115103" ref="index"/>
+    <file name="the-game.css" crc="222260400" ref="the-game"/>
+    <file name="iefonts_the-game.css" crc="3917929407" ref="the-game"/>
+    <file name="support.css" crc="4070465781" ref="support"/>
+    <file name="iefonts_support.css" crc="117570076" ref="support"/>
+    <file name="about-us.css" crc="4267214287" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="98689182" ref="about-us"/>
   </folder>
   <folder name="assets">
     <folder name="theyestablished_mobile">
@@ -154,7 +154,7 @@
     <file name="game55-u4983-fr.png" crc="361035456" ref="phone>index:phone>about-us"/>
     <file name="information68-u4979-fr.png" crc="4275156852" ref="phone>index:phone>about-us"/>
     <file name="swecquestudios_vector.svg" crc="226553437" ref="phone>index:phone>about-us:phone>the-game:phone>more-info:about-us:support:the-game:index"/>
-    <file name="swecquestudios_vector_poster_.png" crc="255868352" ref="phone>index"/>
+    <file name="swecquestudios_vector_poster_.png" crc="3818597206" ref="phone>index:about-us"/>
     <file name="screenshot_2015-06-29-22-45-48-u4422-fr.jpg" crc="4269137202" ref="phone>index"/>
     <file name="screenshot_2015-06-29-22-45-48320x180.jpg" crc="4269137202" seo="true" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:about-us:support:the-game:index"/>
@@ -176,11 +176,11 @@
     <file name="stars-u7074.png" crc="3826154010" ref="phone>index"/>
     <file name="woutrszreview.jpg" crc="3981183923" ref="phone>index:index"/>
     <file name="stars-u7081.png" crc="3826154010" ref="phone>index"/>
-    <file name="janmullerreview-ieu7061-fr.png" crc="205206774" ref="phone>index:index"/>
+    <file name="janmullerreview-ieu7061-fr.png" crc="205206774" ref="phone>index"/>
     <file name="janmullerreview.jpg" crc="4102737447" ref="phone>index:index"/>
     <file name="stars.png" crc="3957148543" seo="true" ref="phone>index:index"/>
     <file name="stars-u7062.png" crc="4166427987" ref="phone>index"/>
-    <file name="swagpatrick-thimo.jpg" crc="4081078012" ref="phone>index:index"/>
+    <file name="swagpatrick-thimo.jpg" crc="4081078012" ref="phone>index:about-us"/>
     <file name="u6893.png" crc="4224733994" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
     <file name="u6893-r.png" crc="46603955" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
     <file name="u6899.png" crc="4135465008" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
@@ -190,15 +190,15 @@
     <file name="u6897.png" crc="4189940729" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
     <file name="u6897-r.png" crc="159563245" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
     <file name="up143.svg" crc="173093212" ref="phone>index:about-us:support:the-game"/>
-    <file name="up143_poster_.png" crc="4249663415" ref="phone>index"/>
+    <file name="up143_poster_.png" crc="4108648810" ref="phone>index:about-us"/>
     <file name="swecqueiswheretheheartis.jpg" crc="3761645589" ref="phone>about-us:about-us"/>
     <file name="down95-u5070.png" crc="3830721130" ref="phone>about-us"/>
     <file name="down95-u5070-r.png" crc="4068267918" ref="phone>about-us"/>
     <file name="u5071-grad.png" crc="4227353914" ref="phone>about-us"/>
-    <file name="swagpatrick-thimo2.jpg" crc="4081078012" ref="phone>about-us:about-us"/>
-    <file name="michelangelo-71282-u7922-7-fr.png" crc="86006003" ref="phone>about-us:about-us"/>
+    <file name="swagpatrick-thimo2.jpg" crc="4081078012" ref="phone>about-us:index"/>
+    <file name="michelangelo-71282-u7922-7-fr.png" crc="86006003" ref="phone>about-us"/>
     <file name="download157.svg" crc="17726325" ref="phone>about-us:about-us"/>
-    <file name="download157_poster_.png" crc="271062347" ref="phone>about-us"/>
+    <file name="download157_poster_.png" crc="3841473640" ref="phone>about-us:about-us"/>
     <file name="street-962796_1920.jpg" crc="3786398740" ref="phone>about-us:about-us"/>
     <file name="nature-sky-sunny-clouds.jpg" crc="374063511" ref="phone>the-game:the-game"/>
     <file name="group66_small-u2543.png" crc="3807774829" ref="about-us:support:the-game:index"/>
@@ -270,6 +270,8 @@
     <file name="stars-u6956.png" crc="4166427987" ref="index"/>
     <file name="label29.png" crc="4027291570" seo="true" ref="index"/>
     <file name="stars-u6433.png" crc="19078197" ref="index"/>
+    <file name="michelangelo-71282-u1270-7-fr.png" crc="86006003" ref="about-us"/>
+    <file name="janmullerreview-ieu6747-fr.png" crc="205206774" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -289,8 +291,8 @@
     <file name="the-game.html" crc="295937603" seo="true" mt="1450276891460" redirect="true"/>
     <file name="more-info.html" crc="3801355019" seo="true" mt="1450124616613" redirect="true"/>
   </folder>
-  <file name="about-us.html" crc="366440243" seo="true" mt="1450125073672" redirect="true"/>
-  <file name="support.html" crc="409974282" seo="true" mt="1450539817433" redirect="true"/>
-  <file name="the-game.html" crc="67457455" seo="true" mt="1450539284929" redirect="true"/>
-  <file name="index.html" crc="388645679" seo="true" mt="1450125073654" redirect="true"/>
+  <file name="about-us.html" crc="3872141497" seo="true" mt="1450540622079" redirect="true"/>
+  <file name="support.html" crc="3826124363" seo="true" mt="1450540622079" redirect="true"/>
+  <file name="the-game.html" crc="486531164" seo="true" mt="1450540622079" redirect="true"/>
+  <file name="index.html" crc="4111851720" seo="true" mt="1450540622079" redirect="true"/>
 </manifest>

@@ -325,35 +325,17 @@
 	visibility: inherit;
 }
 
-#u3785
-{
-	position: relative;
-}
-
-#u3776.MuseMenuActive,#u3785:hover
-{
-	background-color: #EFEFEF;
-}
-
-#u3786-4
-{
-	background-color: transparent;
-	line-height: 29px;
-	position: relative;
-}
-
-#u3785:hover #u3786-4 p,#u3785:hover #u3786-4 h3
-{
-	color: #2BA0AB;
-	visibility: inherit;
-}
-
 #u3799
 {
 	position: relative;
 }
 
-#u3785.MuseMenuActive,#u3799:hover
+#u3776.MuseMenuActive,#u3799:hover
+{
+	background-color: #EFEFEF;
+}
+
+#u3799.MuseMenuActive
 {
 	background-color: #EFEFEF;
 }
@@ -371,35 +353,7 @@
 	visibility: inherit;
 }
 
-#u3792
-{
-	position: relative;
-}
-
-#u3799.MuseMenuActive,#u3792:hover
-{
-	background-color: #EFEFEF;
-}
-
-#u3792.MuseMenuActive
-{
-	background-color: #EFEFEF;
-}
-
-#u3794-4
-{
-	background-color: transparent;
-	line-height: 29px;
-	position: relative;
-}
-
-#u3792:hover #u3794-4 p,#u3792:hover #u3794-4 h3
-{
-	color: #2BA0AB;
-	visibility: inherit;
-}
-
-#u2529.MuseMenuActive #u2532-4 p,#u2529.MuseMenuActive #u2532-4 h3,#u2534.MuseMenuActive #u2536-4 p,#u2534.MuseMenuActive #u2536-4 h3,#u5250.MuseMenuActive #u5252-4 p,#u5250.MuseMenuActive #u5252-4 h3,#u3840.MuseMenuActive #u3842-4 p,#u3840.MuseMenuActive #u3842-4 h3,#u3849.MuseMenuActive #u3851-4 p,#u3849.MuseMenuActive #u3851-4 h3,#u7630.MuseMenuActive #u7632-4 p,#u7630.MuseMenuActive #u7632-4 h3,#u3858.MuseMenuActive #u3860-4 p,#u3858.MuseMenuActive #u3860-4 h3,#u3866.MuseMenuActive #u3868-4 p,#u3866.MuseMenuActive #u3868-4 h3,#u3762.MuseMenuActive #u3764-4 p,#u3762.MuseMenuActive #u3764-4 h3,#u3776.MuseMenuActive #u3779-4 p,#u3776.MuseMenuActive #u3779-4 h3,#u3785.MuseMenuActive #u3786-4 p,#u3785.MuseMenuActive #u3786-4 h3,#u3799.MuseMenuActive #u3800-4 p,#u3799.MuseMenuActive #u3800-4 h3,#u3792.MuseMenuActive #u3794-4 p,#u3792.MuseMenuActive #u3794-4 h3
+#u2529.MuseMenuActive #u2532-4 p,#u2529.MuseMenuActive #u2532-4 h3,#u2534.MuseMenuActive #u2536-4 p,#u2534.MuseMenuActive #u2536-4 h3,#u5250.MuseMenuActive #u5252-4 p,#u5250.MuseMenuActive #u5252-4 h3,#u3840.MuseMenuActive #u3842-4 p,#u3840.MuseMenuActive #u3842-4 h3,#u3849.MuseMenuActive #u3851-4 p,#u3849.MuseMenuActive #u3851-4 h3,#u7630.MuseMenuActive #u7632-4 p,#u7630.MuseMenuActive #u7632-4 h3,#u3858.MuseMenuActive #u3860-4 p,#u3858.MuseMenuActive #u3860-4 h3,#u3866.MuseMenuActive #u3868-4 p,#u3866.MuseMenuActive #u3868-4 h3,#u3762.MuseMenuActive #u3764-4 p,#u3762.MuseMenuActive #u3764-4 h3,#u3776.MuseMenuActive #u3779-4 p,#u3776.MuseMenuActive #u3779-4 h3,#u3799.MuseMenuActive #u3800-4 p,#u3799.MuseMenuActive #u3800-4 h3
 {
 	color: #333333;
 	visibility: inherit;
@@ -762,29 +716,6 @@
 	font-style: normal;
 }
 
-#u3820-4
-{
-	line-height: 17px;
-	position: relative;
-}
-
-#u3820-4:hover p,#u3820-4:hover h5
-{
-	color: #FFFFFF;
-	visibility: inherit;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-left: 0px;
-	padding-right: 0px;
-	font-size: 14px;
-	text-decoration: underline;
-	text-indent: 5px;
-	line-height: 1.2;
-	font-family: raleway, sans-serif;
-	font-weight: 500;
-	font-style: normal;
-}
-
 #u3830-4
 {
 	line-height: 17px;
@@ -942,7 +873,7 @@
 	background-size: contain;
 }
 
-#u2523,#u2526,#u2533,#u5249,#u2516,#u3839,#u3848,#u7629,#u3855,#u3863,#u2563,#u3761,#u3775,#u3782,#u3796,#u3789,#u6543
+#u2523,#u2526,#u2533,#u5249,#u2516,#u3839,#u3848,#u7629,#u3855,#u3863,#u2563,#u3761,#u3775,#u3796,#u6543
 {
 	background-color: transparent;
 	position: relative;
