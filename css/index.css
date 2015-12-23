@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #5FAE7D;
+	color: #0000FA;
+	background-color: #9A3B8A;
 }
 
 .html
@@ -322,14 +322,14 @@
 
 #u3842-4
 {
-	width: 58px;
+	width: 129px;
 	min-height: 29px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 4px;
-	left: 58px;
+	left: 22px;
 }
 
 #u3840:hover #u3842-4
@@ -337,7 +337,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 29px;
-	width: 58px;
+	width: 129px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -346,7 +346,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 29px;
-	width: 58px;
+	width: 129px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -1646,7 +1646,7 @@
 	margin-right: -10000px;
 	margin-top: 17px;
 	left: 14px;
-	background: transparent url("../images/janmullerreview-ieu6747-fr.png") no-repeat center center;
+	background: transparent url("../images/janmullerreview-ieu7061-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/janmullerreview.jpg") no-repeat center center;
 	background-color: transparent;
 	background-size: cover;
@@ -1994,7 +1994,7 @@
 {
 	z-index: 4;
 	min-height: 538px;
-	background: #000000 url("../images/swagpatrick-thimo2.jpg") no-repeat center center;
+	background: #000000 url("../images/swagpatrick-thimo.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -2227,29 +2227,33 @@
 	left: 73px;
 }
 
-#u6861_states,#u6871_states
-{
-	height: 48px;
-	width: 48px;
-}
-
 #u6883
 {
 	z-index: 129;
-	height: 40px;
 	width: 40px;
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 146px;
 }
 
+#u6883_states
+{
+	height: 40px;
+	width: 40px;
+}
+
 #u6866
 {
 	z-index: 123;
-	height: 48px;
 	width: 48px;
 	margin-right: -10000px;
 	left: 211px;
+}
+
+#u6861_states,#u6871_states,#u6866_states
+{
+	height: 48px;
+	width: 48px;
 }
 
 #pu3823

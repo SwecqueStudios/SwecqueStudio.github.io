@@ -159,6 +159,13 @@
 	-pie-background: rgba(51,51,51,0.5);
 }
 
+#u5019-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
+}
+
 .Mob_Subnav
 {
 	border-style: none;
@@ -179,6 +186,13 @@
 	-pie-background: rgba(51,51,51,0.5);
 }
 
+#u5021-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
+}
+
 #u5023-4
 {
 	line-height: 34px;
@@ -190,6 +204,13 @@
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u5023-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
 }
 
 #u4982-4
@@ -240,6 +261,13 @@
 	-pie-background: rgba(51,51,51,0.5);
 }
 
+#u5024-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
+}
+
 #u5025-4
 {
 	line-height: 34px;
@@ -251,6 +279,13 @@
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u5025-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
 }
 
 #u5026-4
@@ -266,6 +301,13 @@
 	-pie-background: rgba(51,51,51,0.5);
 }
 
+#u5026-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
+}
+
 #u5027-4
 {
 	line-height: 34px;
@@ -279,6 +321,13 @@
 	-pie-background: rgba(51,51,51,0.5);
 }
 
+#u5027-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
+}
+
 #u5028-4
 {
 	line-height: 34px;
@@ -290,6 +339,13 @@
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u5028-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
 }
 
 #u4973,#u4981,#u4977
@@ -357,6 +413,13 @@
 	-pie-background: rgba(51,51,51,0.5);
 }
 
+#u5029-4.MuseLinkActive
+{
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
+}
+
 #u5030-4
 {
 	line-height: 34px;
@@ -370,17 +433,11 @@
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u5031-4
+#u5030-4.MuseLinkActive
 {
-	line-height: 34px;
-	position: relative;
-}
-
-#u5031-4:active
-{
-	background-color: #999999;
-	background-color: rgba(51,51,51,0.5);
-	-pie-background: rgba(51,51,51,0.5);
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
 }
 
 #u5033-4
@@ -396,17 +453,18 @@
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u5032-4
+#u5033-4.MuseLinkActive
 {
-	line-height: 34px;
-	position: relative;
+	background-color: #3AD0CF;
+	background-color: rgba(58,208,207,1);
+	-pie-background: rgba(58,208,207,1);
 }
 
-#u5032-4:active
+#u4986
 {
-	background-color: #999999;
-	background-color: rgba(51,51,51,0.5);
-	-pie-background: rgba(51,51,51,0.5);
+	position: absolute;
+	vertical-align: top;
+	background: url("../../images/cross92-u4986.png") no-repeat 0px 0px;
 }
 
 .AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* accordion */
@@ -419,10 +477,74 @@
 	background-color: #2BA0AB;
 }
 
-#u5118,#u5152
+#u8020,#u8017
 {
 	overflow: hidden;
 	position: relative;
+}
+
+#u6905
+{
+	-pie-box-shadow: -4px 7px 7px #AAAAAA;
+	box-shadow: -4px 7px 7px rgba(0,0,0,0.33);
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u6892
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6893
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u6893.png") no-repeat 0px 0px;
+}
+
+#u6893:hover
+{
+	background: url("../../images/u6893-r.png") no-repeat 0px 0px;
+}
+
+#u6899
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u6899.png") no-repeat 0px 0px;
+}
+
+#u6899:hover
+{
+	background: url("../../images/u6899-r.png") no-repeat 0px 0px;
+}
+
+#u6895
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u6895.png") no-repeat 0px 0px;
+}
+
+#u6895:hover
+{
+	background: url("../../images/u6895-r.png") no-repeat 0px 0px;
+}
+
+#u6897
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u6897.png") no-repeat 0px 0px;
+}
+
+#u6897:hover
+{
+	background: url("../../images/u6897-r.png") no-repeat 0px 0px;
 }
 
 .FooterHeading
@@ -488,69 +610,5 @@
 #u4553-4:hover p
 {
 	text-decoration: underline;
-}
-
-#u6905
-{
-	-pie-box-shadow: -4px 7px 7px #AAAAAA;
-	box-shadow: -4px 7px 7px rgba(0,0,0,0.33);
-	background-color: #FFFFFF;
-	position: relative;
-}
-
-#u6892
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-#u6893
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../../images/u6893.png") no-repeat 0px 0px;
-}
-
-#u6893:hover
-{
-	background: url("../../images/u6893-r.png") no-repeat 0px 0px;
-}
-
-#u6899
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../../images/u6899.png") no-repeat 0px 0px;
-}
-
-#u6899:hover
-{
-	background: url("../../images/u6899-r.png") no-repeat 0px 0px;
-}
-
-#u6895
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../../images/u6895.png") no-repeat 0px 0px;
-}
-
-#u6895:hover
-{
-	background: url("../../images/u6895-r.png") no-repeat 0px 0px;
-}
-
-#u6897
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../../images/u6897.png") no-repeat 0px 0px;
-}
-
-#u6897:hover
-{
-	background: url("../../images/u6897-r.png") no-repeat 0px 0px;
 }
 

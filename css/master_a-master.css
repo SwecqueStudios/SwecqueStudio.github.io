@@ -505,11 +505,6 @@
 	background: url("../images/u6861_states-r.png") no-repeat 0px 0px;
 }
 
-#u2378_align_to_page,#u6861,#u6871
-{
-	position: relative;
-}
-
 #u6871_states
 {
 	vertical-align: top;
@@ -521,28 +516,31 @@
 	background: url("../images/u6871_states-r.png") no-repeat 0px 0px;
 }
 
-#u6883
+#u6883_states
 {
 	vertical-align: top;
-	position: relative;
-	background: url("../images/u6883.png") no-repeat 0px 0px;
+	background: url("../images/u6883_states.png") no-repeat 0px 0px;
 }
 
-#u6883:hover
+#u6883:hover #u6883_states
 {
-	background: url("../images/u6883-r.png") no-repeat 0px 0px;
+	background: url("../images/u6883_states-r.png") no-repeat 0px 0px;
 }
 
-#u6866
+#u2378_align_to_page,#u6861,#u6871,#u6883,#u6866
+{
+	position: relative;
+}
+
+#u6866_states
 {
 	vertical-align: top;
-	position: relative;
-	background: url("../images/u6866.png") no-repeat 0px 0px;
+	background: url("../images/u6866_states.png") no-repeat 0px 0px;
 }
 
-#u6866:hover
+#u6866:hover #u6866_states
 {
-	background: url("../images/u6866-r.png") no-repeat 0px 0px;
+	background: url("../images/u6866_states-r.png") no-repeat 0px 0px;
 }
 
 #u3812-2
