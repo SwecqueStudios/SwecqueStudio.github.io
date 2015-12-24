@@ -1,7 +1,7 @@
 .version.the_game /* version checker */
 {
-	color: #00001F;
-	background-color: #D904C9;
+	color: #000003;
+	background-color: #2B0DB6;
 }
 
 .html
@@ -35,18 +35,6 @@
 #page_position_content
 {
 	width: 0.01px;
-}
-
-#u7249
-{
-	z-index: 348;
-	height: 113px;
-	top: 0px;
-}
-
-#u7249-bw
-{
-	z-index: 348;
 }
 
 #pu892
@@ -90,7 +78,7 @@
 
 #u5806
 {
-	z-index: 346;
+	z-index: 358;
 	width: 50px;
 	min-height: 25px;
 	margin-right: -10000px;
@@ -109,7 +97,7 @@
 	z-index: 3;
 	min-height: 604px;
 	padding-bottom: 95px;
-	background: #3AD0CF url("../images/nature-sky-sunny-clouds.jpg") no-repeat center bottom;
+	background: #3AD0CF url("../images/happyholidays.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -220,8 +208,8 @@
 	width: 488px;
 	min-height: 51px;
 	background-color: transparent;
-	color: #EFEFEF;
 	line-height: 72px;
+	color: #EFEFEF;
 	margin-left: 226px;
 	position: relative;
 }
@@ -290,7 +278,7 @@
 
 #u2514
 {
-	z-index: 256;
+	z-index: 268;
 	width: 573px;
 	margin-right: -10000px;
 	margin-top: 87px;
@@ -299,14 +287,14 @@
 
 #u2558
 {
-	z-index: 257;
+	z-index: 269;
 	width: 573px;
 	margin-right: -10000px;
 }
 
 #menuu2515
 {
-	z-index: 258;
+	z-index: 270;
 	width: 573px;
 	margin-right: -10000px;
 }
@@ -862,24 +850,36 @@
 
 #u7693
 {
-	z-index: 347;
+	z-index: 359;
 	width: 424px;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 100px;
 }
 
-#pu3880
+#pu7249
 {
 	width: 0.01px;
-	padding-bottom: 110px;
-	margin-left: 5px;
-	margin-top: -628px;
+	padding-bottom: 512px;
+	margin-left: -100px;
+	margin-top: -1030px;
+}
+
+#u7249
+{
+	z-index: 360;
+	height: 113px;
+	top: 0px;
+}
+
+#u7249-bw
+{
+	z-index: 360;
 }
 
 #u3880
 {
-	z-index: 349;
+	z-index: 361;
 	width: 1017px;
 	top: 402px;
 	left: 5px;
@@ -887,14 +887,14 @@
 
 #u7701
 {
-	z-index: 439;
+	z-index: 451;
 	width: 204px;
 	margin-right: -10000px;
 }
 
 #u3881
 {
-	z-index: 350;
+	z-index: 362;
 	width: 789px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -903,7 +903,7 @@
 
 #menuu5359
 {
-	z-index: 351;
+	z-index: 363;
 	width: 583px;
 	margin-right: -10000px;
 	left: -1px;
@@ -1550,7 +1550,7 @@
 
 #u7280
 {
-	z-index: 440;
+	z-index: 452;
 	width: 168px;
 	border-style: none;
 	border-color: transparent;
@@ -1562,7 +1562,7 @@
 
 #u7281
 {
-	z-index: 441;
+	z-index: 453;
 	width: 168px;
 	background-color: transparent;
 	padding-bottom: 12px;
@@ -1580,12 +1580,12 @@
 
 #u7282-4
 {
-	z-index: 442;
+	z-index: 454;
 	width: 97px;
 	min-height: 32px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1596,7 +1596,7 @@
 
 #u7283
 {
-	z-index: 446;
+	z-index: 458;
 	overflow: hidden;
 	position: relative;
 	width: 44px;
@@ -1632,7 +1632,7 @@
 {
 	z-index: 4;
 	min-height: 547px;
-	background: transparent url("../images/sea-landscape-mountains-nature.jpg") no-repeat center center;
+	background: transparent url("../images/lelijkfotosjopjemarvin.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1668,7 +1668,7 @@
 
 #u7625-4
 {
-	z-index: 251;
+	z-index: 263;
 	width: 1022px;
 	min-height: 113px;
 	background-color: transparent;
@@ -1753,14 +1753,86 @@
 	position: relative;
 }
 
-#u7545_clip,#u7586_clip,#u7595_clip,#u7604_clip
+#u8299
+{
+	z-index: 245;
+	width: 1022px;
+	height: 633px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8308
+{
+	z-index: 247;
+	width: 1022px;
+	height: 633px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8317
+{
+	z-index: 249;
+	width: 1022px;
+	height: 633px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8326
+{
+	z-index: 251;
+	width: 1022px;
+	height: 633px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8335
+{
+	z-index: 253;
+	width: 1022px;
+	height: 633px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u8344
+{
+	z-index: 255;
+	width: 1022px;
+	height: 633px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u7545_clip,#u7586_clip,#u7595_clip,#u7604_clip,#u8299_clip,#u8308_clip,#u8317_clip,#u8326_clip,#u8335_clip,#u8344_clip
 {
 	overflow: hidden;
 	width: 1022px;
 	height: 633px;
 }
 
-#u7545_img,#u7586_img,#u7595_img,#u7604_img
+#u7545_img,#u7586_img,#u7595_img,#u7604_img,#u8299_img,#u8308_img,#u8317_img,#u8326_img,#u8335_img,#u8344_img
 {
 	margin-top: -3px;
 	margin-bottom: -3px;
@@ -1784,7 +1856,7 @@
 
 #u7535-3popup
 {
-	z-index: 245;
+	z-index: 257;
 }
 
 #u7534-3
@@ -1795,9 +1867,9 @@
 	border-style: none;
 	border-color: transparent;
 	padding: 10px;
+	line-height: 20px;
 	color: #999999;
 	text-align: center;
-	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 245px;
 	left: 964px;
@@ -1807,7 +1879,7 @@
 
 #u7534-3popup
 {
-	z-index: 248;
+	z-index: 260;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* pamphlet2 */
@@ -1826,6 +1898,13 @@
 	top: -18px;
 	margin-bottom: -18px;
 	position: relative;
+}
+
+#pu4736
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 26px;
 }
 
 #u4736
@@ -1930,8 +2009,8 @@
 	border-color: #2BA0AB;
 	background-color: #000000;
 	border-radius: 10px 10px 0px 0px ;
-	color: #EFEFEF;
 	line-height: 72px;
+	color: #EFEFEF;
 	position: relative;
 	margin-right: -10000px;
 	left: 398px;
@@ -1950,11 +2029,11 @@
 	position: relative;
 }
 
-#pu4736,#pu2378
+#pu2378
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 26px;
+	margin-top: 50px;
 }
 
 #u2378
@@ -1974,7 +2053,7 @@
 #u2378_position_content
 {
 	margin-top: -33px;
-	padding-bottom: 17px;
+	padding-bottom: 22px;
 }
 
 #ppu7696
@@ -2313,7 +2392,7 @@
 {
 	width: 0.01px;
 	left: 121px;
-	margin-top: 2px;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -2323,32 +2402,6 @@
 	width: 344px;
 	min-height: 25px;
 	margin-right: -10000px;
-	margin-top: 15px;
-}
-
-#u6656
-{
-	z-index: 113;
-	width: 192px;
-	margin-right: -10000px;
-	left: 409px;
-}
-
-#u6655
-{
-	z-index: 114;
-	width: 192px;
-	margin-right: -10000px;
-}
-
-#u6543
-{
-	z-index: 115;
-	width: 67px;
-	margin-bottom: -8px;
-	margin-right: -10000px;
-	margin-top: -5px;
-	left: -31px;
 }
 
 #u4016-4
@@ -2357,7 +2410,7 @@
 	width: 285px;
 	min-height: 13px;
 	margin-right: -10000px;
-	margin-top: 32px;
+	margin-top: 17px;
 	left: 695px;
 }
 
@@ -2367,7 +2420,7 @@
 	padding-bottom: 0px;
 	min-height: 13px;
 	width: 285px;
-	margin: 32px -10000px 0px 0px;
+	margin: 17px -10000px 0px 0px;
 }
 
 #u2378-bw
@@ -2422,6 +2475,32 @@
 	min-height: 40px;
 	margin-right: -10000px;
 	left: 392px;
+}
+
+#u6656
+{
+	z-index: 113;
+	width: 247px;
+	margin-right: -10000px;
+	margin-top: 220px;
+	left: 490px;
+}
+
+#u6655
+{
+	z-index: 114;
+	width: 206px;
+	height: 54px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 41px;
+}
+
+#u6543
+{
+	z-index: 115;
+	width: 77px;
+	margin-right: -10000px;
 }
 
 body
