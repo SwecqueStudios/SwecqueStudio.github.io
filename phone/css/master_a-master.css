@@ -1,7 +1,6 @@
 #u4169
 {
-	background: transparent url("../../images/haylandscape.jpg") no-repeat center top;
-	background-size: cover;
+	background: transparent url("../../images/google%20plus%20cover.jpg") no-repeat right top;
 }
 
 #pamphletu4985,#u4988
@@ -559,10 +558,10 @@
 #u6907-4,#u6906-4,#u6908-4,#u6909-4
 {
 	border-style: solid;
-	line-height: 36px;
-	text-align: center;
-	font-size: 30px;
 	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	line-height: 36px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -574,7 +573,7 @@
 	padding-top: 5px;
 }
 
-#u6892,#u8353
+#u6892,#u8494
 {
 	border-style: none;
 	border-color: transparent;
@@ -582,17 +581,16 @@
 	position: relative;
 }
 
-#u8356
-{
-	border-radius: 0px 10px 10px 0px ;
-	position: relative;
-	background: #000000 url("../../images/en-play-badge-u8356-fr.png") no-repeat right center;
-	background-size: contain;
-}
-
-#u4973,#u4981,#u4977,#u8354
+#u4973,#u4981,#u4977,#u8501,#u8495
 {
 	background-color: transparent;
+	position: relative;
+}
+
+#u8497
+{
+	background-color: transparent;
+	border-radius: 8px;
 	position: relative;
 }
 
@@ -609,8 +607,8 @@
 {
 	background-color: transparent;
 	text-decoration: underline;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
 }

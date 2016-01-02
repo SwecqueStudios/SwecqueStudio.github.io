@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #000004;
-	background-color: #E2AC99;
+	color: #000019;
+	background-color: #AE3125;
 }
 
 .html
@@ -38,18 +38,6 @@
 	width: 0.01px;
 }
 
-#u7249
-{
-	z-index: 343;
-	height: 113px;
-	top: 0px;
-}
-
-#u7249-bw
-{
-	z-index: 343;
-}
-
 #u892
 {
 	z-index: 2;
@@ -70,7 +58,7 @@
 
 #u5806
 {
-	z-index: 341;
+	z-index: 343;
 	width: 50px;
 	min-height: 25px;
 	left: 1022px;
@@ -79,7 +67,7 @@
 
 #u2514
 {
-	z-index: 251;
+	z-index: 253;
 	width: 573px;
 	left: 549px;
 	margin-top: 17px;
@@ -87,14 +75,14 @@
 
 #u2558
 {
-	z-index: 252;
+	z-index: 254;
 	width: 573px;
 	margin-right: -10000px;
 }
 
 #menuu2515
 {
-	z-index: 253;
+	z-index: 255;
 	width: 573px;
 	margin-right: -10000px;
 }
@@ -656,15 +644,15 @@
 
 #u966-4
 {
-	z-index: 143;
+	z-index: 145;
 	width: 612px;
 	min-height: 59px;
 	background-color: #EFEFEF;
 	border-radius: 10px 10px 0px 0px ;
-	color: #000000;
-	text-align: center;
 	font-size: 63px;
 	line-height: 76px;
+	color: #000000;
+	text-align: center;
 	font-family: unifrakturmaguntia, fantasy;
 	font-weight: 400;
 	font-style: normal;
@@ -676,16 +664,28 @@
 
 #u7693
 {
-	z-index: 342;
+	z-index: 344;
 	width: 424px;
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 100px;
 }
 
+#u7249
+{
+	z-index: 345;
+	height: 113px;
+	top: 0px;
+}
+
+#u7249-bw
+{
+	z-index: 345;
+}
+
 #u971-4
 {
-	z-index: 139;
+	z-index: 141;
 	width: 950px;
 	min-height: 55px;
 	background-color: transparent;
@@ -696,7 +696,7 @@
 
 #u1250
 {
-	z-index: 155;
+	z-index: 157;
 	min-height: 63px;
 	padding-bottom: 362px;
 	background: transparent url("../images/swecqueiswheretheheartis.jpg") no-repeat center center;
@@ -705,7 +705,7 @@
 
 #u1509
 {
-	z-index: 163;
+	z-index: 165;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;
@@ -719,7 +719,7 @@
 
 #u1250-bw
 {
-	z-index: 155;
+	z-index: 157;
 	min-height: 63px;
 }
 
@@ -733,7 +733,7 @@
 
 #u3880
 {
-	z-index: 344;
+	z-index: 346;
 	width: 1017px;
 	top: 402px;
 	left: 5px;
@@ -741,14 +741,14 @@
 
 #u7701
 {
-	z-index: 434;
+	z-index: 436;
 	width: 204px;
 	margin-right: -10000px;
 }
 
 #u3881
 {
-	z-index: 345;
+	z-index: 347;
 	width: 789px;
 	margin-right: -10000px;
 	margin-top: 5px;
@@ -757,7 +757,7 @@
 
 #menuu5359
 {
-	z-index: 346;
+	z-index: 348;
 	width: 583px;
 	margin-right: -10000px;
 	left: -1px;
@@ -1404,7 +1404,7 @@
 
 #u7286
 {
-	z-index: 435;
+	z-index: 437;
 	width: 168px;
 	border-style: none;
 	border-color: transparent;
@@ -1416,7 +1416,7 @@
 
 #u7287
 {
-	z-index: 436;
+	z-index: 438;
 	width: 168px;
 	background-color: transparent;
 	padding-bottom: 12px;
@@ -1434,12 +1434,12 @@
 
 #u7288-4
 {
-	z-index: 437;
+	z-index: 439;
 	width: 97px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1450,7 +1450,7 @@
 
 #u7289
 {
-	z-index: 441;
+	z-index: 443;
 	overflow: hidden;
 	position: relative;
 	width: 44px;
@@ -1461,13 +1461,13 @@
 
 #u1268-4
 {
-	z-index: 147;
+	z-index: 149;
 	width: 911px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: justify;
 	font-size: 16px;
+	text-align: justify;
+	line-height: 19px;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	margin-left: 56px;
@@ -1483,7 +1483,7 @@
 
 #u1259-4
 {
-	z-index: 151;
+	z-index: 153;
 	width: 910px;
 	min-height: 115px;
 	background-color: transparent;
@@ -1496,13 +1496,13 @@
 
 #u3655-4
 {
-	z-index: 230;
+	z-index: 232;
 	width: 168px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #3AD0CF;
 	font-size: 24px;
+	line-height: 29px;
 	visibility: inherit;
 	position: relative;
 	margin-right: -10000px;
@@ -1532,7 +1532,7 @@
 
 #u4907
 {
-	z-index: 239;
+	z-index: 241;
 	height: 46px;
 	width: 60px;
 	vertical-align: top;
@@ -1549,7 +1549,7 @@
 
 #u1277
 {
-	z-index: 138;
+	z-index: 140;
 	min-height: 759px;
 	background: #1EBEEA url("../images/u1277-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(38%, #146D93),to(#1EBEEA));
@@ -1586,7 +1586,7 @@
 
 #u1416
 {
-	z-index: 158;
+	z-index: 160;
 	width: 1000px;
 	height: 500px;
 	background-color: transparent;
@@ -1605,13 +1605,13 @@
 
 #u1277-bw
 {
-	z-index: 138;
+	z-index: 140;
 	min-height: 759px;
 }
 
 #u1427-4
 {
-	z-index: 234;
+	z-index: 236;
 	width: 660px;
 	min-height: 77px;
 	border-style: solid;
@@ -1635,7 +1635,7 @@
 
 #u1496-4
 {
-	z-index: 159;
+	z-index: 161;
 	width: 910px;
 	min-height: 114px;
 	background-color: transparent;
@@ -1648,7 +1648,7 @@
 
 #u1587
 {
-	z-index: 164;
+	z-index: 166;
 	height: 415px;
 	background: transparent url("../images/swagpatrick-thimo2.jpg") no-repeat center center;
 	background-size: cover;
@@ -1656,14 +1656,14 @@
 
 #u1587-bw
 {
-	z-index: 164;
+	z-index: 166;
 	margin-top: 2px;
 	height: 415px;
 }
 
 #u2017
 {
-	z-index: 166;
+	z-index: 168;
 	min-height: 668px;
 	background-color: #000000;
 	padding-bottom: 9px;
@@ -1681,15 +1681,15 @@
 
 #u2019-36
 {
-	z-index: 193;
+	z-index: 195;
 	width: 425px;
 	min-height: 251px;
 	background-color: transparent;
-	text-align: right;
 	font-size: 24px;
 	line-height: 34px;
-	color: #EFEFEF;
 	letter-spacing: 3px;
+	color: #EFEFEF;
+	text-align: right;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1701,15 +1701,15 @@
 
 #u2016-26
 {
-	z-index: 167;
+	z-index: 169;
 	width: 440px;
 	min-height: 263px;
 	background-color: transparent;
-	text-align: left;
 	font-size: 24px;
 	line-height: 34px;
-	color: #EFEFEF;
 	letter-spacing: 1px;
+	color: #EFEFEF;
+	text-align: left;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	padding-top: 0px;
@@ -1722,13 +1722,13 @@
 
 #u2016-26 > *
 {
-	padding-top: 0px;
 	padding-top: 5px;
+	padding-top: 0px;
 }
 
 #u2017-bw
 {
-	z-index: 166;
+	z-index: 168;
 	min-height: 668px;
 	margin-top: -2px;
 }
@@ -1743,11 +1743,11 @@
 {
 	z-index: 3;
 	min-height: 378px;
-	text-align: center;
-	font-size: 30px;
-	text-indent: 0px;
-	line-height: 36px;
 	color: #000000;
+	font-size: 30px;
+	text-align: center;
+	line-height: 36px;
+	text-indent: 0px;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	visibility: inherit;
@@ -1777,15 +1777,15 @@
 
 #u2040
 {
-	z-index: 229;
+	z-index: 231;
 	width: 363px;
 	min-height: 110px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	text-align: right;
 	font-size: 48px;
+	text-align: right;
 	line-height: 58px;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
@@ -1797,7 +1797,7 @@
 
 #u6826
 {
-	z-index: 241;
+	z-index: 243;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 105px;
@@ -1806,7 +1806,7 @@
 
 #u6965-4
 {
-	z-index: 242;
+	z-index: 244;
 	width: 548px;
 	min-height: 77px;
 	border-style: solid;
@@ -1829,7 +1829,7 @@
 
 #u6966-4
 {
-	z-index: 246;
+	z-index: 248;
 	width: 980px;
 	min-height: 70px;
 	background-color: transparent;
@@ -1904,7 +1904,7 @@
 
 #u7696
 {
-	z-index: 136;
+	z-index: 134;
 }
 
 #u3822
@@ -1984,7 +1984,7 @@
 
 #u6889
 {
-	z-index: 123;
+	z-index: 121;
 	width: 259px;
 	margin-right: -10000px;
 	margin-top: 8px;
@@ -1993,14 +1993,14 @@
 
 #u6861
 {
-	z-index: 125;
+	z-index: 123;
 	width: 48px;
 	margin-right: -10000px;
 }
 
 #u6871
 {
-	z-index: 131;
+	z-index: 129;
 	width: 48px;
 	margin-right: -10000px;
 	left: 73px;
@@ -2008,7 +2008,7 @@
 
 #u6883
 {
-	z-index: 134;
+	z-index: 132;
 	width: 40px;
 	margin-right: -10000px;
 	margin-top: 3px;
@@ -2023,7 +2023,7 @@
 
 #u6866
 {
-	z-index: 128;
+	z-index: 126;
 	width: 48px;
 	margin-right: -10000px;
 	left: 211px;
@@ -2312,27 +2312,41 @@
 #u6656
 {
 	z-index: 119;
-	width: 247px;
+	width: 190px;
 	margin-right: -10000px;
-	margin-top: 220px;
-	left: 490px;
+	margin-top: 241px;
+	left: 465px;
 }
 
 #u6655
 {
 	z-index: 120;
-	width: 206px;
+	width: 190px;
 	height: 54px;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 41px;
 }
 
-#u6543
+#u8461
 {
-	z-index: 121;
-	width: 77px;
+	z-index: 135;
+	width: 72px;
 	margin-right: -10000px;
+	margin-top: 232px;
+	left: 404px;
+}
+
+#u8490
+{
+	z-index: 137;
+	width: 158px;
+	margin-right: -10000px;
+	margin-top: 241px;
+	left: 660px;
+}
+
+#u8490 .clip_frame
+{
+	-webkit-border-radius: 0px 10px 10px 0px;
 }
 
 body
