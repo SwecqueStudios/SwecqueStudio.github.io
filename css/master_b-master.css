@@ -38,7 +38,7 @@
 	background-color: #FFFFFF;
 }
 
-#menuu5359,#u5396
+#menuu5359
 {
 	border-style: none;
 	border-color: transparent;
@@ -46,21 +46,36 @@
 	position: relative;
 }
 
+#u5396
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 4px;
+}
+
 #u5396:hover
 {
-	background-color: #EFEFEF;
+	border-color: #3AD0CF;
 }
 
-#u5398
+#u5398-4
 {
-	vertical-align: top;
+	border-style: none;
+	border-color: transparent;
+	text-align: left;
+	line-height: 36px;
 	position: relative;
-	background: url("../images/group66_small-u5398.png") no-repeat 0px 0px;
+	background: transparent url("../images/group66_small-u5398-4-fr.png") no-repeat left center;
+	background-size: contain;
 }
 
-#u5396.MuseMenuActive #u5398
+#u5396:hover #u5398-4
 {
-	background: url("../images/group66_small-u5398-a.png") no-repeat 6px 6px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
 }
 
 #u3881,#u5401,#u5410
@@ -141,27 +156,34 @@
 
 #u5361
 {
-	border-style: none;
-	border-color: transparent;
+	border-style: solid;
+	border-color: #FFFFFF;
 	background-color: transparent;
 	position: relative;
+	border-width: 0px 0px 4px;
 }
 
-#u5405.MuseMenuActive,#u5361:hover
+#u5361:hover
 {
-	background-color: #EFEFEF;
+	border-color: #3AD0CF;
 }
 
-#u5364
+#u5364-4
 {
-	vertical-align: top;
+	border-style: none;
+	border-color: transparent;
+	text-align: left;
+	line-height: 36px;
 	position: relative;
-	background: url("../images/game55_small-u5364.png") no-repeat 0px 0px;
+	background: transparent url("../images/game55_small-u5364-4-fr.png") no-repeat left center;
+	background-size: contain;
 }
 
-#u5361.MuseMenuActive #u5364
+#u5396.MuseMenuActive #u5398-4,#u5361:hover #u5364-4
 {
-	background: url("../images/game55_small-u5364-a.png") no-repeat 6px 6px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
 }
 
 #u5366,#u5375
@@ -169,7 +191,7 @@
 	position: relative;
 }
 
-#u5375:hover
+#u5405.MuseMenuActive,#u5375:hover
 {
 	background-color: #EFEFEF;
 }
@@ -281,30 +303,49 @@
 
 #u5461
 {
-	border-style: none;
-	border-color: transparent;
+	border-style: solid;
+	border-color: #FFFFFF;
 	background-color: transparent;
 	position: relative;
+	border-width: 0px 0px 4px;
 }
 
-#u5370.MuseMenuActive,#u5461:hover
+#u5461:hover
 {
-	background-color: #EFEFEF;
+	border-color: #3AD0CF;
 }
 
-#u5464
+#u5396.MuseMenuActive,#u5361.MuseMenuActive,#u5461.MuseMenuActive
 {
-	vertical-align: top;
+	border-color: #2BA0AB;
+}
+
+#u5464-4
+{
+	border-style: none;
+	border-color: transparent;
+	text-align: left;
+	line-height: 36px;
 	position: relative;
-	background: url("../images/information68_small-u5464.png") no-repeat 0px 0px;
+	background: transparent url("../images/information68_small-u5464-4-fr.png") no-repeat left center;
+	background-size: contain;
 }
 
-#u5461.MuseMenuActive #u5464
+#u5361.MuseMenuActive #u5364-4,#u5461:hover #u5464-4
 {
-	background: url("../images/information68_small-u5464-a.png") no-repeat 6px 6px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
 }
 
-#u5396.MuseMenuActive,#u5400,#u5361.MuseMenuActive,#u5365,#u5461.MuseMenuActive,#u5424
+#u5461.MuseMenuActive #u5464-4
+{
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
+}
+
+#u5400,#u5365,#u5424
 {
 	background-color: transparent;
 }
@@ -314,7 +355,7 @@
 	position: relative;
 }
 
-#u5427:hover
+#u5370.MuseMenuActive,#u5427:hover
 {
 	background-color: #EFEFEF;
 }
