@@ -170,6 +170,10 @@ body
 	top: -4px;
 }
 
+#myShop
+{
+	margin-bottom: -5px;
+}
 .customHeader
 {
 	background: #FFFFFF;
@@ -394,7 +398,7 @@ a:visited
 {
 	margin-top: 10px;
 	padding-bottom: 80px !important;
-	margin-bottom: -5px !important;
+	/margin-bottom: -5px !important;
 }
 
 .customFooter, #trusted-footer

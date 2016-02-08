@@ -1,7 +1,7 @@
 .version.merch___swecque_studios /* version checker */
 {
-	color: #000011;
-	background-color: #2C1463;
+	color: #0000E3;
+	background-color: #C11FB5;
 }
 
 @-ms-viewport
@@ -48,13 +48,13 @@
 #u9626
 {
 	z-index: 2;
-	min-height: 626.7845994169734px;
+	min-height: 631.7845994169734px;
 	padding-bottom: 0px;
 }
 
 #u9626_position_content
 {
-	margin-top: -46px;
+	margin-top: -41px;
 	padding-bottom: 79px;
 }
 
@@ -213,8 +213,8 @@
 #u9626-bw
 {
 	z-index: 2;
-	min-height: 626.7845994169734px;
-	margin-top: 3px;
+	min-height: 631.7845994169734px;
+	margin-top: -2px;
 }
 
 #u9627-6
@@ -255,12 +255,6 @@ body
 {
 	position: relative;
 	min-width: 380px;
-	padding-top: 123px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
-	margin-bottom: -2px;
+	padding-top: 17px;
 }
 

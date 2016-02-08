@@ -681,11 +681,15 @@ body
 	padding-top: 0px !important;
 }
 
+#myShop
+{
+	margin-bottom: -5px;
+}
+
 #sprd-main, #sprd-header
 {
 	top: -4px;
 	min-width: 100%;
-
 }
 
 .CustomHtml img
@@ -901,7 +905,6 @@ a:visited
 {
 	margin-top: 10px;
 	padding-bottom: 110px !important;
-	margin-bottom: -5px !important;
 }
 
 .customFooter, #trusted-footer
@@ -954,4 +957,3 @@ a:visited
 	color: white !important;
 	background-color: #3AD0CF !important;
 }
-
