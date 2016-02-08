@@ -28,17 +28,17 @@
 	position: fixed;
 }
 
-#pamphletu8174
+#pamphletu9668
 {
 	position: fixed;
 }
 
-#u8204
+#u9669
 {
 	position: relative;
 }
 
-#u8205
+#u9670
 {
 	position: absolute;
 	border-color: #DEDEDE;
@@ -46,7 +46,7 @@
 	background-size: contain;
 }
 
-#u8205:hover
+#u9670:hover
 {
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -54,12 +54,12 @@
 	background-size: contain;
 }
 
-.nosvg #u8205
+.nosvg #u9670
 {
 	background-image: url('../../images/menu_whiteshadow_poster_u5112.png');
 }
 
-#u8178
+#u9672
 {
 	position: absolute;
 	background-color: #565656;
@@ -67,15 +67,16 @@
 	-pie-background: rgba(68,68,68,0.9);
 }
 
-#u8179
+#u9673
 {
 	border-style: none;
 	border-color: #999999;
 	background-color: transparent;
+	border-radius: 0px;
 	position: relative;
 }
 
-#u8181
+#u9677
 {
 	-pie-box-shadow: -3px 6px 7px #B2B2B2;
 	box-shadow: -3px 6px 7px rgba(0,0,0,0.3);
@@ -84,7 +85,7 @@
 	position: relative;
 }
 
-#u8180-4
+#u9674-4
 {
 	border-style: solid;
 	background-color: #FFFFFF;
@@ -101,7 +102,7 @@
 	border-width: 0px 0px 2px;
 }
 
-#u8182-4
+#u9676-4
 {
 	-pie-box-shadow: -3px 6px 7px #B2B2B2;
 	box-shadow: -3px 6px 7px rgba(0,0,0,0.3);
@@ -112,25 +113,54 @@
 	border-width: 0px 0px 1px;
 }
 
-#u8182-4:active
+#u9676-4:active
 {
 	background-color: #FFFFFF;
 }
 
-#u8182-4:active p,#u8182-4:active h2
+#u9676-4:active p,#u9676-4:active h2
 {
 	color: #2BA0AB;
 	visibility: inherit;
 }
 
-#u8182-2
+#u9676-2
 {
 	padding-left: 5px;
 	padding-top: 8px;
 	color: #333333;
 }
 
-#accordionu8183
+#u9675-4
+{
+	-pie-box-shadow: -3px 6px 7px #B2B2B2;
+	box-shadow: -3px 6px 7px rgba(0,0,0,0.3);
+	border-style: solid;
+	border-color: #EBEAEA;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u9675-4:active
+{
+	background-color: #FFFFFF;
+}
+
+#u9675-4:active p,#u9675-4:active h2
+{
+	color: #2BA0AB;
+	visibility: inherit;
+}
+
+#u9675-2
+{
+	padding-left: 5px;
+	padding-top: 8px;
+	color: #333333;
+}
+
+#accordionu9678
 {
 	-pie-box-shadow: -3px 6px 7px #B2B2B2;
 	box-shadow: -3px 6px 7px rgba(0,0,0,0.3);
@@ -139,7 +169,7 @@
 	position: relative;
 }
 
-#u8191-4
+#u9694-4
 {
 	border-style: solid;
 	border-color: #EBEAEA;
@@ -149,23 +179,23 @@
 	border-width: 0px 0px 1px;
 }
 
-#u8191-4:active
+#u9694-4:active
 {
 	background-color: #FFFFFF;
 }
 
-#u8191-4:active p,#u8191-4:active h2
+#u9694-4:active p,#u9694-4:active h2
 {
 	color: #2BA0AB;
 	visibility: inherit;
 }
 
-#u8191-2
+#u9694-2
 {
 	padding-left: -5px;
 }
 
-#u8192
+#u9695
 {
 	border-style: none;
 	border-color: transparent;
@@ -174,24 +204,17 @@
 	background-size: cover;
 }
 
-#u8194-4
+#u9696-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8194-4:active
+#u9696-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
-}
-
-#u8194-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
 }
 
 .Mob_Subnav
@@ -201,47 +224,33 @@
 	background-color: transparent;
 }
 
-#u8195-4
+#u9697-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8195-4:active
+#u9697-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8195-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8193-4
+#u9698-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8193-4:active
+#u9698-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8193-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8203-4
+#u9686-4
 {
 	border-style: solid;
 	border-color: #EBEAEA;
@@ -251,23 +260,23 @@
 	border-width: 0px 0px 1px;
 }
 
-#u8203-4:active
+#u9686-4:active
 {
 	background-color: #FFFFFF;
 }
 
-#u8203-4:active p,#u8203-4:active h2,#u8203-4.AccordionPanelTabOpen p,#u8203-4.AccordionPanelTabOpen h2
+#u9686-4:active p,#u9686-4:active h2,#u9686-4.AccordionPanelTabOpen p,#u9686-4.AccordionPanelTabOpen h2
 {
 	color: #2BA0AB;
 	visibility: inherit;
 }
 
-#u8203-2
+#u9686-2
 {
 	padding-left: -5px;
 }
 
-#u8197
+#u9680
 {
 	border-style: none;
 	border-color: transparent;
@@ -276,113 +285,78 @@
 	background-size: cover;
 }
 
-#u8201-4
+#u9682-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8201-4:active
+#u9682-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8201-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8200-4
+#u9681-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8200-4:active
+#u9681-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8200-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8202-4
+#u9684-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8202-4:active
+#u9684-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8202-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8198-4
+#u9683-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8198-4:active
+#u9683-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8198-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8199-4
+#u9685-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8199-4:active
+#u9685-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8199-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8190,#u8196,#u8184
+#u9693,#u9679,#u9687
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u8185-4
+#u9692-4
 {
 	border-style: solid;
 	border-color: #EBEAEA;
@@ -392,34 +366,34 @@
 	border-width: 0px 0px 1px;
 }
 
-#u8185-4:active
+#u9692-4:active
 {
 	background-color: #FFFFFF;
 }
 
-#u8182-4.MuseLinkActive,#u8191-4.AccordionPanelTabOpen,#u8203-4.AccordionPanelTabOpen,#u8185-4.AccordionPanelTabOpen
+#u9676-4.MuseLinkActive,#u9675-4.MuseLinkActive,#u9694-4.AccordionPanelTabOpen,#u9686-4.AccordionPanelTabOpen,#u9692-4.AccordionPanelTabOpen
 {
 	background-color: #EBEAEA;
 }
 
-#u8185-4:active p,#u8185-4:active h2
+#u9692-4:active p,#u9692-4:active h2
 {
 	color: #2BA0AB;
 	visibility: inherit;
 }
 
-#u8182-4.MuseLinkActive p,#u8182-4.MuseLinkActive h2,#u8191-4.AccordionPanelTabOpen p,#u8191-4.AccordionPanelTabOpen h2,#u8185-4.AccordionPanelTabOpen p,#u8185-4.AccordionPanelTabOpen h2
+#u9676-4.MuseLinkActive p,#u9676-4.MuseLinkActive h2,#u9675-4.MuseLinkActive p,#u9675-4.MuseLinkActive h2,#u9694-4.AccordionPanelTabOpen p,#u9694-4.AccordionPanelTabOpen h2,#u9692-4.AccordionPanelTabOpen p,#u9692-4.AccordionPanelTabOpen h2
 {
 	color: #177199;
 	visibility: inherit;
 }
 
-#u8185-2
+#u9692-2
 {
 	padding-left: -5px;
 }
 
-#u8186
+#u9688
 {
 	border-style: none;
 	border-color: transparent;
@@ -428,71 +402,50 @@
 	background-size: cover;
 }
 
-#u8188-4
+#u9689-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8188-4:active
+#u9689-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8188-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8189-4
+#u9691-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8189-4:active
+#u9691-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8189-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8187-4
+#u9690-4
 {
 	line-height: 34px;
 	position: relative;
 }
 
-#u8187-4:active
+#u9690-4:active
 {
 	background-color: #999999;
 	background-color: rgba(51,51,51,0.5);
 	-pie-background: rgba(51,51,51,0.5);
 }
 
-#u8187-4.MuseLinkActive
-{
-	background-color: #3AD0CF;
-	background-color: rgba(58,208,207,1);
-	-pie-background: rgba(58,208,207,1);
-}
-
-#u8177
+#u9671
 {
 	position: absolute;
 	vertical-align: top;
-	background: url("../../images/cross92-u8177.png") no-repeat 0px 0px;
+	background: url("../../images/cross92-u9671.png") no-repeat 0px 0px;
 }
 
 .AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* accordion */

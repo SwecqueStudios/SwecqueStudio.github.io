@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #0000EE;
-	background-color: #4C94B5;
+	color: #0000FF;
+	background-color: #DCB591;
 }
 
 .html
@@ -716,9 +716,9 @@
 	min-height: 59px;
 	background-color: #EFEFEF;
 	border-radius: 10px 10px 0px 0px ;
-	text-align: center;
-	font-size: 63px;
 	color: #000000;
+	font-size: 63px;
+	text-align: center;
 	line-height: 76px;
 	font-family: unifrakturmaguntia, fantasy;
 	font-weight: 400;
@@ -1612,8 +1612,8 @@
 	width: 97px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1640,8 +1640,8 @@
 	min-height: 32px;
 	background-color: transparent;
 	line-height: 19px;
-	text-align: justify;
 	font-size: 16px;
+	text-align: justify;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	margin-left: 56px;
@@ -1674,9 +1674,9 @@
 	width: 168px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 29px;
-	font-size: 24px;
 	color: #3AD0CF;
+	font-size: 24px;
+	line-height: 29px;
 	visibility: inherit;
 	position: relative;
 	margin-right: -10000px;
@@ -1824,7 +1824,7 @@
 {
 	z-index: 174;
 	height: 415px;
-	background: transparent url("../images/swagpatrick-thimo.jpg") no-repeat center center;
+	background: transparent url("../images/swagpatrick-thimo2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1859,11 +1859,11 @@
 	width: 425px;
 	min-height: 251px;
 	background-color: transparent;
-	text-align: right;
 	font-size: 24px;
+	text-align: right;
+	letter-spacing: 3px;
 	color: #EFEFEF;
 	line-height: 34px;
-	letter-spacing: 3px;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1880,10 +1880,10 @@
 	min-height: 263px;
 	background-color: transparent;
 	color: #EFEFEF;
-	line-height: 34px;
-	text-align: left;
 	font-size: 24px;
+	text-align: left;
 	letter-spacing: 1px;
+	line-height: 34px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	padding-top: 0px;
@@ -1896,8 +1896,8 @@
 
 #u2016-26 > *
 {
-	padding-top: 0px;
 	padding-top: 5px;
+	padding-top: 0px;
 }
 
 #u2017-bw
@@ -1917,15 +1917,15 @@
 {
 	z-index: 3;
 	min-height: 378px;
-	text-align: center;
-	font-size: 30px;
 	color: #000000;
+	font-size: 30px;
+	text-align: center;
 	text-indent: 0px;
 	line-height: 36px;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	visibility: inherit;
-	background: transparent url("../images/michelangelo-71282-u1270-7-fr.png") no-repeat center center;
+	background: transparent url("../images/michelangelo-71282-u7922-7-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1958,8 +1958,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	text-align: right;
 	font-size: 48px;
+	text-align: right;
 	line-height: 58px;
 	font-family: raleway, sans-serif;
 	font-weight: 700;

@@ -1,7 +1,7 @@
 .version.the_game /* version checker */
 {
-	color: #00000A;
-	background-color: #55AC3A;
+	color: #0000ED;
+	background-color: #1744E0;
 }
 
 .html
@@ -208,8 +208,8 @@
 	width: 488px;
 	min-height: 51px;
 	background-color: transparent;
-	line-height: 72px;
 	color: #EFEFEF;
+	line-height: 72px;
 	margin-left: 226px;
 	position: relative;
 }
@@ -1758,8 +1758,8 @@
 	width: 97px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1993,9 +1993,9 @@
 	border-style: none;
 	border-color: transparent;
 	padding: 10px;
-	line-height: 20px;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 245px;
 	left: 964px;
@@ -2135,8 +2135,8 @@
 	border-color: #2BA0AB;
 	background-color: #000000;
 	border-radius: 10px 10px 0px 0px ;
-	line-height: 72px;
 	color: #EFEFEF;
+	line-height: 72px;
 	position: relative;
 	margin-right: -10000px;
 	left: 398px;

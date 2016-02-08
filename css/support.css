@@ -1,7 +1,7 @@
 .version.support /* version checker */
 {
-	color: #0000F6;
-	background-color: #50A699;
+	color: #0000F2;
+	background-color: #98CBF9;
 }
 
 .html
@@ -787,8 +787,8 @@
 	width: 980px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -811,8 +811,8 @@
 	width: 980px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #EFEFEF;
+	line-height: 36px;
 	position: relative;
 }
 
@@ -822,8 +822,8 @@
 	width: 980px;
 	min-height: 104px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -846,8 +846,8 @@
 	width: 980px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #EFEFEF;
+	line-height: 36px;
 	position: relative;
 }
 
@@ -857,8 +857,8 @@
 	width: 980px;
 	min-height: 43px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -881,8 +881,8 @@
 	width: 980px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #EFEFEF;
+	line-height: 36px;
 	position: relative;
 }
 
@@ -892,8 +892,8 @@
 	width: 980px;
 	min-height: 51px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -916,8 +916,8 @@
 	width: 980px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #EFEFEF;
+	line-height: 36px;
 	position: relative;
 }
 
@@ -927,8 +927,8 @@
 	width: 980px;
 	min-height: 41px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -951,8 +951,8 @@
 	width: 980px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #EFEFEF;
+	line-height: 36px;
 	position: relative;
 }
 
@@ -962,8 +962,8 @@
 	width: 980px;
 	min-height: 89px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -986,8 +986,8 @@
 	width: 980px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #EFEFEF;
+	line-height: 36px;
 	position: relative;
 }
 
@@ -997,8 +997,8 @@
 	width: 980px;
 	min-height: 143px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -1021,8 +1021,8 @@
 	width: 980px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #EFEFEF;
+	line-height: 36px;
 	position: relative;
 }
 
@@ -1032,8 +1032,8 @@
 	width: 980px;
 	min-height: 86px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -1056,8 +1056,8 @@
 	width: 980px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 36px;
 	color: #EFEFEF;
+	line-height: 36px;
 	position: relative;
 }
 
@@ -1067,8 +1067,8 @@
 	width: 980px;
 	min-height: 87px;
 	background-color: transparent;
-	line-height: 24px;
 	color: #EFEFEF;
+	line-height: 24px;
 	padding-top: 0px;
 	visibility: inherit;
 	position: relative;
@@ -1927,8 +1927,8 @@
 	width: 97px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2057,8 +2057,8 @@
 	width: 457px;
 	min-height: 61px;
 	line-height: 36px;
-	text-align: right;
 	font-size: 30px;
+	text-align: right;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -2176,8 +2176,8 @@
 	border-style: solid;
 	border-color: #EFEFEF;
 	background-color: #3AD0CF;
-	line-height: 72px;
 	color: #EFEFEF;
+	line-height: 72px;
 	position: relative;
 	margin-right: -10000px;
 	left: 413px;

@@ -117,6 +117,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+.Edited a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Edited a:link
 {
 	color: #2BA0AB;
@@ -334,9 +340,9 @@ a.nontext /* used to override default properties of 'a' tag */
 .FooterSublineH
 {
 	color: #FFFFFF;
-	font-family: raleway, sans-serif;
-	font-size: 14px;
-	font-weight: 500;
+	font-family: open-sans-condensed, sans-serif;
+	font-size: 17px;
+	font-weight: 300;
 	text-decoration: underline;
 	text-indent: 5px;
 	padding: 0px;

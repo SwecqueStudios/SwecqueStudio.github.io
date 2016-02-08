@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museredirect.js", "jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "about-us.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "museredirect.js", "jquery.musemenu.js", "about-us.css"], "outOfDate":[]};
 </script>
   
   <script src="scripts/museredirect.js?3899419633" type="text/javascript"></script>
@@ -21,12 +21,12 @@
   <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://swecquestudios.com/phone/about-us.html"/>
   <meta http-equiv="X-UA-Compatible" content="chrome=IE8"/>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?45332051"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?414451135"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?3813853620"/>
-  <link rel="stylesheet" type="text/css" href="css/about-us.css?3997996213" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?115656846"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?4257585017"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?16777152"/>
+  <link rel="stylesheet" type="text/css" href="css/about-us.css?4292654481" id="pagesheet"/>
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_about-us.css?484093304"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_about-us.css?4171394208"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -420,7 +420,7 @@ transition:none !important;
          <div class="clearfix colelem" id="pu2377-6"><!-- group -->
           <div class="clearfix grpelem" id="u2377-6"><!-- content -->
            <p>www.swecquestudios.com</p>
-           <p>© 2016; Swecque Studios</p>
+           <p>© 2016 Swecque Studios</p>
           </div>
           <a class="nonblock nontext clearfix grpelem" id="u4016-4" href="http://www.freepik.com/" target="_blank"><!-- content --><p>Icon graphics provided by Freepik</p></a>
          </div>
@@ -468,15 +468,15 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-$('#u7249').registerOpacityScrollEffect([{"in":[-Infinity,399],"opacity":0,"fade":95},{"in":[399,399],"opacity":100},{"in":[399,Infinity],"opacity":100,"fade":50}]);/* scroll effect */
+$('#u7249').registerOpacityScrollEffect([{"in":[-Infinity,399],"fade":95,"opacity":0},{"in":[399,399],"opacity":100},{"in":[399,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.resizeHeight()/* resize height */
-$('#u1250').registerBackgroundPositionScrollEffect([{"in":[-Infinity,214.1],"speed":[0,0]},{"in":[214.1,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#u3880').registerPositionScrollEffect([{"in":[-Infinity,401],"speed":[0,-1]},{"in":[401,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#u7286').registerPositionScrollEffect([{"in":[-Infinity,401],"speed":[0,-1]},{"in":[401,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u1250').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,214.1]},{"speed":[0,0],"in":[214.1,Infinity]}]);/* scroll effect */
+$('#u3880').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,401]},{"speed":[0,0],"in":[401,Infinity]}]);/* scroll effect */
+$('#u7286').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,401]},{"speed":[0,0],"in":[401,Infinity]}]);/* scroll effect */
 Muse.Utils.initializeAnimations();/* animations */
-$('#u1416').registerEdgeAnimateScrollEffect([{"in":[-Infinity,868.1],"play":false},{"in":[868.1,Infinity],"play":true}]);/* scroll effect */
-$('#u1270-7').registerBackgroundPositionScrollEffect([{"in":[-Infinity,3018],"speed":[0,0]},{"in":[3018,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u1416').registerEdgeAnimateScrollEffect([{"play":false,"in":[-Infinity,868.1]},{"play":true,"in":[868.1,Infinity]}]);/* scroll effect */
+$('#u1270-7').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,3018]},{"speed":[0,0],"in":[3018,Infinity]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
