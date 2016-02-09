@@ -1,7 +1,7 @@
 .version.the_game /* version checker */
 {
-	color: #0000ED;
-	background-color: #1744E0;
+	color: #000003;
+	background-color: #D0FE03;
 }
 
 .html
@@ -2651,6 +2651,11 @@
 	left: 660px;
 }
 
+#u8490 .clip_frame
+{
+	-webkit-border-radius: 0px 10px 10px 0px;
+}
+
 body
 {
 	position: relative;
@@ -2660,5 +2665,10 @@ body
 #page .verticalspacer
 {
 	clear: both;
+}
+
+#u3809-4:hover p,#u3809-4:hover h5,#u3810-4:hover p,#u3810-4:hover h5,#u3813-4:hover p,#u3813-4:hover h5,#u3814-4:hover p,#u3814-4:hover h5,#u7637-4:hover p,#u7637-4:hover h5,#u3815-4:hover p,#u3815-4:hover h5,#u3816-4:hover p,#u3816-4:hover h5,#u3818-4:hover p,#u3818-4:hover h5,#u3819-4:hover p,#u3819-4:hover h5,#u3830-4:hover p,#u3830-4:hover h5,#u9536-4:hover p,#u9536-4:hover h5,#u9542-4:hover p,#u9542-4:hover h5,#u9537-4:hover p,#u9537-4:hover h5,#u9539-4:hover p,#u9539-4:hover h5,#u9540-4:hover p,#u9540-4:hover h5,#u9541-4:hover p,#u9541-4:hover h5,#u9544-4:hover p,#u9544-4:hover h5,#u9538-4:hover p,#u9538-4:hover h5,#u3805-4:hover p,#u3805-4:hover h5
+{
+	padding: 0px;
 }
 

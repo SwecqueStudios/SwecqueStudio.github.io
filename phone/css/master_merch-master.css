@@ -104,9 +104,9 @@
 {
 	border-style: solid;
 	color: #FFFFFF;
-	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -143,9 +143,9 @@
 {
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 20px;
 	font-size: 17px;
 	text-align: center;
+	line-height: 20px;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 }
@@ -153,11 +153,11 @@
 #u9628-4
 {
 	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	text-decoration: underline;
-	font-size: 17px;
 	color: #FFFFFF;
+	font-size: 17px;
+	line-height: 20px;
+	text-decoration: underline;
+	text-align: center;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 }

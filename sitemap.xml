@@ -253,12 +253,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://swecquestudios.com/phone/merch---swecque-studios.html</loc>
-    <lastmod>2016-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://swecquestudios.com/about-us.html</loc>
     <lastmod>2016-02-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -274,7 +268,7 @@
   </url>
   <url>
     <loc>http://swecquestudios.com/the-game.html</loc>
-    <lastmod>2016-02-07</lastmod>
+    <lastmod>2016-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://swecquestudios.com/phone/the-game.html"/>
@@ -291,5 +285,6 @@
     <lastmod>2016-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://swecquestudios.com/phone/merch.html"/>
   </url>
 </urlset>

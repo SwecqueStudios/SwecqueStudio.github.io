@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="false" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1455048303635">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="false" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1455050872617">
   <folder name="css">
-    <file name="site_global.css" crc="115656846"/>
+    <file name="site_global.css" crc="105092634"/>
     <file name="master_b-master.css" crc="16777152" ref="the-game:support:about-us"/>
-    <file name="master_a-master.css" crc="4257585017" ref="index:the-game:support:about-us"/>
+    <file name="master_a-master.css" crc="224132455" ref="index:the-game:support:about-us"/>
     <file name="index.css" crc="3858435786" ref="index"/>
     <file name="iefonts_index.css" crc="350572007" ref="index"/>
-    <file name="the-game.css" crc="3977725152" ref="the-game"/>
+    <file name="the-game.css" crc="64028163" ref="the-game"/>
     <file name="iefonts_the-game.css" crc="3920011185" ref="the-game"/>
     <file name="support.css" crc="4070099961" ref="support"/>
     <file name="iefonts_support.css" crc="360137224" ref="support"/>
     <file name="about-us.css" crc="4292654481" ref="about-us"/>
     <file name="iefonts_about-us.css" crc="4171394208" ref="about-us"/>
-    <file name="master_footer-only.css" crc="124483366" ref="merch"/>
+    <file name="master_footer-only.css" crc="3982304693" ref="merch"/>
     <file name="merch.css" crc="535404999" ref="merch"/>
   </folder>
   <folder name="assets">
@@ -130,20 +130,20 @@
     <file name="gpsfeature.png" crc="237897217" seo="true" mt="1451936166000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch:phone>merch---swecque-studios"/>
-    <file name="museutils.js" crc="275725342" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch:phone>merch---swecque-studios"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch:phone>merch"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch:phone>merch"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch:phone>merch---swecque-studios"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:phone>about-us:about-us:support:the-game:index:phone>the-game:phone>support:merch:phone>merch---swecque-studios"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch:phone>merch"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>about-us:about-us:support:the-game:index:phone>the-game:phone>support:merch:phone>merch"/>
     <file name="webpro.js" crc="3883484123" ref="phone>index:phone>about-us:phone>the-game:the-game:index:phone>support"/>
     <file name="musewpdisclosure.js" crc="404074387" ref="phone>index:phone>about-us:phone>the-game:phone>support"/>
     <file name="musewpslideshow.js" crc="360574455" ref="phone>index:phone>about-us:phone>the-game:the-game:index:phone>support"/>
     <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:phone>about-us:phone>the-game:the-game:index:phone>support"/>
     <file name="touchswipe.js" crc="4218319045" ref="phone>index:phone>about-us:phone>the-game:the-game:index:phone>support"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>about-us:about-us:support:the-game:phone>the-game:phone>support"/>
-    <file name="museredirect.js" crc="3899419633" ref="about-us:the-game:index:support"/>
+    <file name="museredirect.js" crc="3899419633" ref="about-us:the-game:index:support:merch"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="about-us:support:the-game:index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="about-us:support:the-game:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about-us:support:the-game:index:merch"/>
   </folder>
   <folder name="images">
     <file name="menu_whiteshadow.svg" crc="4083032139" ref="phone>index:phone>about-us"/>
@@ -151,7 +151,7 @@
     <file name="group66-u4974-fr.png" crc="3894114608" ref="phone>index:phone>about-us"/>
     <file name="game55-u4983-fr.png" crc="361035456" ref="phone>index:phone>about-us"/>
     <file name="information68-u4979-fr.png" crc="4275156852" ref="phone>index:phone>about-us"/>
-    <file name="swecquestudios_vector.svg" crc="226553437" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch:phone>merch---swecque-studios"/>
+    <file name="swecquestudios_vector.svg" crc="226553437" ref="phone>index:phone>about-us:phone>the-game:about-us:support:the-game:index:phone>support:merch:phone>merch"/>
     <file name="swecquestudios_vector_poster_.png" crc="3922145962" ref="phone>index"/>
     <file name="screenshot_2015-06-29-22-45-48-u4422-fr.jpg" crc="4269137202" ref="phone>index"/>
     <file name="screenshot_2015-06-29-22-45-48320x180.jpg" crc="4269137202" seo="true" ref="phone>index"/>
@@ -196,7 +196,7 @@
     <file name="u6861_states-r.png" crc="46603955" ref="about-us:support:the-game:index"/>
     <file name="u6871_states.png" crc="4135465008" ref="about-us:support:the-game:index"/>
     <file name="u6871_states-r.png" crc="4112978159" ref="about-us:support:the-game:index"/>
-    <file name="sharethis.png" crc="4119038236" ref="about-us:merch"/>
+    <file name="sharethis.png" crc="4119038236" ref="about-us:merch:the-game"/>
     <file name="left197.svg" crc="4027820287" ref="support:phone>support"/>
     <file name="left197_poster_u7477.png" crc="3969152947" ref="support:phone>support"/>
     <file name="trailertumbnail.jpg" crc="4206081458" ref="the-game"/>
@@ -237,7 +237,7 @@
     <file name="u6866_states.png" crc="4189940729" ref="about-us:support:the-game:index"/>
     <file name="u6866_states-r.png" crc="159563245" ref="about-us:support:the-game:index"/>
     <file name="arrow621-u7534-3-fr.png" crc="218674536" ref="the-game"/>
-    <file name="en-play-badge.png" crc="3833417742" seo="true" ref="phone>index:index:phone>about-us:phone>the-game:phone>support:phone>merch---swecque-studios"/>
+    <file name="en-play-badge.png" crc="3833417742" seo="true" ref="phone>index:index:phone>about-us:phone>the-game:phone>support:phone>merch"/>
     <file name="lelijkfotosjopjemarvin.jpg" crc="215646390" ref="phone>the-game:the-game"/>
     <file name="screenshot1_xmas.jpg" crc="128653446" seo="true" ref="phone>the-game"/>
     <file name="screenshot3_xmas.jpg" crc="229605279" seo="true" ref="phone>the-game"/>
@@ -246,18 +246,18 @@
     <file name="screenshot6_xmas.jpg" crc="3949613962" seo="true" ref="phone>the-game"/>
     <file name="google plus cover.jpg" crc="4135044453" ref="phone>index"/>
     <file name="pasted image 794x271289x99.jpg" crc="4280098372" seo="true" ref="phone>index"/>
-    <file name="app icon 144.png" crc="510184318" seo="true" ref="phone>index:phone>about-us:phone>the-game:phone>support:about-us:support:the-game:index:merch:phone>merch---swecque-studios"/>
+    <file name="app icon 144.png" crc="510184318" seo="true" ref="phone>index:phone>about-us:phone>the-game:phone>support:about-us:support:the-game:index:merch:phone>merch"/>
     <file name="pasted image 794x271199x68.jpg" crc="57778241" seo="true" ref="phone>index"/>
     <file name="screenshot2_winter.jpg" crc="14974655" seo="true" ref="phone>the-game"/>
-    <file name="en-play-badge-u6655-fr.png" crc="3961601037" ref="about-us"/>
-    <file name="pasted image 794x271159x54.jpg" crc="357773644" seo="true" ref="about-us:merch"/>
+    <file name="en-play-badge-u6655-fr.png" crc="3961601037" ref="about-us:the-game:merch"/>
+    <file name="pasted image 794x271159x54.jpg" crc="357773644" seo="true" ref="about-us:the-game"/>
     <file name="youtube template.jpg" crc="3987057601" ref="the-game"/>
     <file name="pasted image 794x271.jpg" crc="3992504649" seo="true" ref="index"/>
-    <file name="haylandscape.jpg" crc="3970959935" ref="phone>index:index:about-us"/>
-    <file name="group66_small.png" crc="4293342478" ref="about-us"/>
-    <file name="game55_small.png" crc="66188755" ref="about-us"/>
-    <file name="information68_small.png" crc="476549851" ref="about-us"/>
-    <file name="shirt_merch_small.png" crc="3790516741" ref="about-us"/>
+    <file name="haylandscape.jpg" crc="3970959935" ref="phone>index:index:about-us:the-game"/>
+    <file name="group66_small.png" crc="4293342478" ref="about-us:the-game"/>
+    <file name="game55_small.png" crc="66188755" ref="about-us:the-game"/>
+    <file name="information68_small.png" crc="476549851" ref="about-us:the-game"/>
+    <file name="shirt_merch_small.png" crc="3790516741" ref="about-us:the-game"/>
     <file name="u9218_states.png" crc="4224733994" ref="merch"/>
     <file name="u9218_states-r.png" crc="46603955" ref="merch"/>
     <file name="u9222_states.png" crc="4135465008" ref="merch"/>
@@ -269,14 +269,14 @@
     <file name="back53.svg" crc="232642151" ref="merch"/>
     <file name="back53_poster_u9553.png" crc="4081425389" ref="merch"/>
     <file name="cross92-u9671.png" crc="4077327067" ref="phone>about-us:phone>the-game:phone>support"/>
-    <file name="u9633.png" crc="4224733994" ref="phone>merch---swecque-studios"/>
-    <file name="u9633-r.png" crc="46603955" ref="phone>merch---swecque-studios"/>
-    <file name="u9635.png" crc="4135465008" ref="phone>merch---swecque-studios"/>
-    <file name="u9635-r.png" crc="4112978159" ref="phone>merch---swecque-studios"/>
-    <file name="u9631.png" crc="4130806632" ref="phone>merch---swecque-studios"/>
-    <file name="u9631-r.png" crc="126984342" ref="phone>merch---swecque-studios"/>
-    <file name="u9637.png" crc="4189940729" ref="phone>merch---swecque-studios"/>
-    <file name="u9637-r.png" crc="159563245" ref="phone>merch---swecque-studios"/>
+    <file name="u9633.png" crc="4224733994" ref="phone>merch"/>
+    <file name="u9633-r.png" crc="46603955" ref="phone>merch"/>
+    <file name="u9635.png" crc="4135465008" ref="phone>merch"/>
+    <file name="u9635-r.png" crc="4112978159" ref="phone>merch"/>
+    <file name="u9631.png" crc="4130806632" ref="phone>merch"/>
+    <file name="u9631-r.png" crc="126984342" ref="phone>merch"/>
+    <file name="u9637.png" crc="4189940729" ref="phone>merch"/>
+    <file name="u9637-r.png" crc="159563245" ref="phone>merch"/>
     <file name="screenshot1_xmas2.jpg" crc="486822890" seo="true" ref="the-game"/>
     <file name="screenshot2_winter2.jpg" crc="495910619" seo="true" ref="the-game"/>
     <file name="screenshot3_xmas2.jpg" crc="290358114" seo="true" ref="the-game"/>
@@ -291,32 +291,31 @@
     <file name="u9730-r.png" crc="126984342" ref="phone>index:phone>about-us:phone>the-game:phone>support"/>
     <file name="u9732.png" crc="4189940729" ref="phone>index:phone>about-us:phone>the-game:phone>support"/>
     <file name="u9732-r.png" crc="159563245" ref="phone>index:phone>about-us:phone>the-game:phone>support"/>
-    <file name="en-play-badge-u9214-fr.png" crc="3961601037" ref="merch"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_b-master.css" crc="4215236271" ref="phone>about-us:phone>the-game:phone>support"/>
-      <file name="master_a-master.css" crc="498448608" ref="phone>index:phone>about-us:phone>the-game:phone>support"/>
-      <file name="index.css" crc="387473838" ref="phone>index"/>
+      <file name="master_a-master.css" crc="372243953" ref="phone>index:phone>about-us:phone>the-game:phone>support"/>
+      <file name="index.css" crc="82891829" ref="phone>index"/>
       <file name="iefonts_index.css" crc="3890684125" ref="phone>index"/>
-      <file name="about-us.css" crc="412987425" ref="phone>about-us"/>
+      <file name="about-us.css" crc="4153560701" ref="phone>about-us"/>
       <file name="iefonts_about-us.css" crc="32031260" ref="phone>about-us"/>
-      <file name="the-game.css" crc="4247953950" ref="phone>the-game"/>
+      <file name="the-game.css" crc="3992294426" ref="phone>the-game"/>
       <file name="iefonts_the-game.css" crc="535084191" ref="phone>the-game"/>
-      <file name="support.css" crc="3526314" ref="phone>support"/>
+      <file name="support.css" crc="254956015" ref="phone>support"/>
       <file name="iefonts_support.css" crc="4408947" ref="phone>support"/>
-      <file name="master_merch-master.css" crc="491105088" ref="phone>merch---swecque-studios"/>
-      <file name="merch---swecque-studios.css" crc="4117115462" ref="phone>merch---swecque-studios"/>
+      <file name="master_merch-master.css" crc="4014543803" ref="phone>merch"/>
+      <file name="merch.css" crc="4117115462" ref="phone>merch"/>
     </folder>
-    <file name="index.html" crc="4043722252" seo="true" mt="1455048102642" redirect="true"/>
-    <file name="about-us.html" crc="469597998" seo="true" mt="1455048102642" redirect="true"/>
-    <file name="the-game.html" crc="203379091" seo="true" mt="1455048102642" redirect="true"/>
-    <file name="support.html" crc="3942327850" seo="true" mt="1455048102642" redirect="true"/>
-    <file name="merch---swecque-studios.html" crc="6218849" seo="true" mt="1455048211643" redirect="true"/>
+    <file name="index.html" crc="4184030255" seo="true" mt="1455050803352" redirect="true"/>
+    <file name="about-us.html" crc="3773436234" seo="true" mt="1455050803352" redirect="true"/>
+    <file name="the-game.html" crc="3998566019" seo="true" mt="1455050803352" redirect="true"/>
+    <file name="support.html" crc="411829474" seo="true" mt="1455050803352" redirect="true"/>
+    <file name="merch.html" crc="3855810164" seo="true" mt="1455050839993" redirect="true"/>
   </folder>
   <file name="about-us.html" crc="3791686850" seo="true" mt="1454870510476" redirect="true"/>
   <file name="support.html" crc="449585901" seo="true" mt="1454870510476" redirect="true"/>
-  <file name="the-game.html" crc="4062010827" seo="true" mt="1454870510476" redirect="true"/>
+  <file name="the-game.html" crc="4036164483" seo="true" mt="1455050774846" redirect="true"/>
   <file name="index.html" crc="249252738" seo="true" mt="1454870510476" redirect="true"/>
-  <file name="merch.html" crc="528504656" seo="true" mt="1455048131297" redirect="true"/>
+  <file name="merch.html" crc="398404693" seo="true" mt="1455050845946" redirect="true"/>
 </manifest>

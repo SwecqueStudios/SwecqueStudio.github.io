@@ -1,7 +1,7 @@
 .version.the_game /* version checker */
 {
-	color: #0000FD;
-	background-color: #32A21E;
+	color: #0000ED;
+	background-color: #F5941A;
 }
 
 @-ms-viewport
@@ -1154,9 +1154,9 @@
 	border-style: none;
 	border-color: transparent;
 	padding: 10px;
+	color: #999999;
 	text-align: center;
 	line-height: 20px;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 77px;
 	left: 339px;

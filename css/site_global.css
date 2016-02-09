@@ -117,12 +117,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-.Edited a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Edited a:link
 {
 	color: #2BA0AB;

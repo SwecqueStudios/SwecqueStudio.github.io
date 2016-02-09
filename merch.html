@@ -3,16 +3,23 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "merch.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "museredirect.js", "merch.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?3899419633" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', '', 'phone/merch.html');
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2015.0.2.310"/>
   <link rel="shortcut icon" href="images/favicon.ico?68077382"/>
   <title>Merch - Swecque Studios</title>
+  <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://swecquestudios.com/phone/merch.html"/>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?115656846"/>
-  <link rel="stylesheet" type="text/css" href="css/master_footer-only.css?124483366"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?105092634"/>
+  <link rel="stylesheet" type="text/css" href="css/master_footer-only.css?3982304693"/>
   <link rel="stylesheet" type="text/css" href="css/merch.css?535404999" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -21,8 +28,11 @@ var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/bebas-neue:n4:all;open-sans-condensed:n3:all;raleway:n5:all.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/open-sans-condensed:n3:all;raleway:n5:all;bebas-neue:n4:all.js" type="text/javascript">\x3C/script>');
 </script>
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
+  <![endif]-->
     <!--custom head HTML-->
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
