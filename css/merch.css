@@ -1,7 +1,7 @@
 .version.merch /* version checker */
 {
-	color: #0000F6;
-	background-color: #F3F8BA;
+	color: #00001F;
+	background-color: #E9A1C7;
 }
 
 .html
@@ -32,12 +32,22 @@
 	background-color: transparent;
 }
 
-#pu9181
+#pu9713
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: -34px;
 	margin-left: -100px;
+}
+
+#u9713
+{
+	z-index: 2;
+	width: 50px;
+	min-height: 25px;
+	margin-right: -10000px;
+	margin-top: 238px;
+	left: 1059px;
 }
 
 #u9181
@@ -516,13 +526,6 @@
 	-webkit-border-radius: 0px 10px 10px 0px;
 }
 
-#pu9559
-{
-	width: 0.01px;
-	padding-bottom: 5152px;
-	margin: -74px -10000px -4794px -100px;
-}
-
 #u9559
 {
 	z-index: 139;
@@ -554,18 +557,6 @@
 	margin-right: -10000px;
 	margin-top: 11px;
 	left: 7px;
-}
-
-#u9246
-{
-	z-index: 2;
-	width: 1100px;
-	min-height: 5152px;
-	border-style: none;
-	background-color: transparent;
-	position: fixed;
-	top: 0px;
-	right: 0px;
 }
 
 body

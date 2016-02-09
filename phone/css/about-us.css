@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #0000F4;
-	background-color: #06972F;
+	color: #000018;
+	background-color: #9DB021;
 }
 
 @-ms-viewport
@@ -38,17 +38,16 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 2960.4999999999927px;
+	min-height: 2961px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 1px;
 }
 
 #page_position_content
 {
-	margin-bottom: -59px;
+	margin-bottom: -57px;
 	width: 0.01px;
 }
 
@@ -1123,11 +1122,11 @@
 	width: 174px;
 	min-height: 227px;
 	background-color: transparent;
-	font-size: 18px;
+	line-height: 23px;
 	text-align: right;
 	letter-spacing: 2px;
+	font-size: 18px;
 	color: #EFEFEF;
-	line-height: 23px;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1173,11 +1172,11 @@
 {
 	z-index: 5;
 	min-height: 392px;
-	color: #000000;
-	font-size: 30px;
+	line-height: 36px;
 	text-align: center;
 	text-indent: 0px;
-	line-height: 36px;
+	font-size: 30px;
+	color: #000000;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	visibility: inherit;
@@ -1286,41 +1285,41 @@
 	height: 398px;
 }
 
-#pu4179
+#pu9721
 {
 	width: 0.01px;
-	margin-top: -3px;
+	margin-top: -9px;
 }
 
-#u4179
+#u9721
 {
 	z-index: 14;
-	min-height: 625.7845994169729px;
+	min-height: 631.7845994169729px;
 	padding-bottom: 0px;
 }
 
-#u4179_position_content
+#u9721_position_content
 {
-	margin-top: -46px;
-	padding-bottom: 78px;
+	margin-top: -41px;
+	padding-bottom: 79px;
 }
 
-#u8017
+#u9738
 {
 	z-index: 55;
-	margin-left: 82px;
+	margin-left: 83px;
 }
 
-#u6905
+#u9724
 {
 	z-index: 25;
 	width: 299px;
 	padding-bottom: 5px;
-	margin-left: 40px;
+	margin-left: 41px;
 	margin-top: 16px;
 }
 
-#u6892
+#u9725
 {
 	z-index: 26;
 	width: 259px;
@@ -1329,7 +1328,7 @@
 	left: 21px;
 }
 
-#u6893
+#u9726
 {
 	z-index: 28;
 	height: 48px;
@@ -1337,7 +1336,7 @@
 	margin-right: -10000px;
 }
 
-#u6899
+#u9728
 {
 	z-index: 34;
 	height: 48px;
@@ -1346,7 +1345,7 @@
 	left: 73px;
 }
 
-#u6895
+#u9730
 {
 	z-index: 37;
 	height: 40px;
@@ -1356,7 +1355,7 @@
 	left: 146px;
 }
 
-#u6897
+#u9732
 {
 	z-index: 31;
 	height: 48px;
@@ -1365,119 +1364,119 @@
 	left: 211px;
 }
 
-#u6907-4
+#u9735-4
 {
 	z-index: 43;
 	width: 299px;
 	min-height: 34px;
-	margin-left: 40px;
+	margin-left: 41px;
 	margin-top: 9px;
 }
 
-#u6906-4
+#u9734-4
 {
 	z-index: 39;
 	width: 299px;
 	min-height: 34px;
-	margin-left: 40px;
+	margin-left: 41px;
 	margin-top: 5px;
 }
 
-#u9588-4
+#u9747-4
 {
 	z-index: 63;
 	width: 299px;
 	min-height: 34px;
-	margin-left: 40px;
+	margin-left: 41px;
 	margin-top: 5px;
 }
 
-#u6908-4
+#u9736-4
 {
 	z-index: 47;
 	width: 299px;
 	min-height: 34px;
-	margin-left: 40px;
+	margin-left: 41px;
 	margin-top: 5px;
 }
 
-#u6909-4
+#u9737-4
 {
 	z-index: 51;
 	width: 299px;
 	min-height: 34px;
-	margin-left: 40px;
+	margin-left: 41px;
 	margin-top: 5px;
 }
 
-#pu8501
+#pu9740
 {
 	width: 0.01px;
-	margin-left: 21px;
+	margin-left: 22px;
 	margin-top: 26px;
 	position: relative;
 }
 
-#u8501
+#u9740
 {
 	z-index: 56;
 	width: 134px;
 	margin-right: -10000px;
 }
 
-#pu8494
+#pu9742
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 142px;
 }
 
-#u8494
+#u9742
 {
 	z-index: 58;
 	width: 199px;
 }
 
-#u8495
+#u9743
 {
 	z-index: 59;
 	width: 199px;
 	margin-right: -10000px;
 }
 
-#u8497
+#u9745
 {
 	z-index: 61;
 	width: 199px;
 	margin-top: 7px;
 }
 
-#u4179-bw
+#u9721-bw
 {
 	z-index: 14;
-	min-height: 625.7845994169729px;
+	min-height: 631.7845994169729px;
 }
 
-#u4547-6
+#u9722-6
 {
 	z-index: 15;
 	min-height: 34px;
 }
 
-#u4547-6-bw
+#u9722-6-bw
 {
 	z-index: 15;
 	min-height: 34px;
-	margin-top: 588px;
+	margin-top: 592px;
 }
 
-#u4553-4
+#u9723-4
 {
 	z-index: 21;
 	min-height: 12px;
 }
 
-#u4553-4:hover
+#u9723-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1485,11 +1484,11 @@
 	margin: 0px;
 }
 
-#u4553-4-bw
+#u9723-4-bw
 {
 	z-index: 21;
 	min-height: 12px;
-	margin-top: 559px;
+	margin-top: 564px;
 }
 
 #u8371
@@ -1501,7 +1500,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 59px;
+	margin-top: 65px;
 	left: 313px;
 }
 
