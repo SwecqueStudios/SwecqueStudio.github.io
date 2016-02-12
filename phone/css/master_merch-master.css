@@ -1,22 +1,45 @@
-#u9756-4
+#u9973-4
 {
 	background-color: transparent;
 	font-family: raleway, sans-serif;
-	font-weight: 500;
+	font-weight: 400;
 	position: relative;
 }
 
-#u9626
+#u9897
 {
 	background-color: #2BA0AB;
 }
 
-#u9643
+#u9898-6
 {
-	position: relative;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 300;
 }
 
-#u9629
+#u9899-4
+{
+	background-color: transparent;
+	font-size: 17px;
+	text-align: center;
+	text-decoration: underline;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 300;
+}
+
+#u9899-4:hover p
+{
+	text-decoration: underline;
+}
+
+#u9900
 {
 	-pie-box-shadow: -4px 7px 7px #AAAAAA;
 	box-shadow: -4px 7px 7px rgba(0,0,0,0.33);
@@ -24,52 +47,79 @@
 	position: relative;
 }
 
-#u9633
+#u9906
 {
 	vertical-align: top;
 	position: relative;
-	background: url("../../images/u9633.png") no-repeat 0px 0px;
+	background: url("../../images/u9906.png") no-repeat 0px 0px;
 }
 
-#u9633:hover
+#u9906:hover
 {
-	background: url("../../images/u9633-r.png") no-repeat 0px 0px;
+	background: url("../../images/u9906-r.png") no-repeat 0px 0px;
 }
 
-#u9635
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../../images/u9635.png") no-repeat 0px 0px;
-}
-
-#u9635:hover
-{
-	background: url("../../images/u9635-r.png") no-repeat 0px 0px;
-}
-
-#u9631
+#u9902
 {
 	vertical-align: top;
 	position: relative;
-	background: url("../../images/u9631.png") no-repeat 0px 0px;
+	background: url("../../images/u9902.png") no-repeat 0px 0px;
 }
 
-#u9631:hover
+#u9902:hover
 {
-	background: url("../../images/u9631-r.png") no-repeat 0px 0px;
+	background: url("../../images/u9902-r.png") no-repeat 0px 0px;
 }
 
-#u9637
+#u9908
 {
 	vertical-align: top;
 	position: relative;
-	background: url("../../images/u9637.png") no-repeat 0px 0px;
+	background: url("../../images/u9908.png") no-repeat 0px 0px;
 }
 
-#u9637:hover
+#u9908:hover
 {
-	background: url("../../images/u9637-r.png") no-repeat 0px 0px;
+	background: url("../../images/u9908-r.png") no-repeat 0px 0px;
+}
+
+#u9904
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u9904.png") no-repeat 0px 0px;
+}
+
+#u9904:hover
+{
+	background: url("../../images/u9904-r.png") no-repeat 0px 0px;
+}
+
+#u9910
+{
+	overflow: hidden;
+	position: relative;
+}
+
+#u9912,#u9915
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u9917
+{
+	background-color: transparent;
+	border-radius: 8px;
+	position: relative;
+}
+
+#u9901,#u9914,#u9919
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 }
 
 .FooterHeading
@@ -80,91 +130,42 @@
 	border-width: 0px 0px 2px;
 }
 
-#u9640-2
+#u9920-2
 {
 	padding-top: 5px;
 }
 
-#u9639-2
+#u9924-2
 {
 	padding-top: 5px;
 }
 
-#u9652-2
+#u9923-2
 {
 	padding-top: 5px;
 }
 
-#u9641-2
+#u9921-2
 {
 	padding-top: 5px;
 }
 
-#u9640-4,#u9639-4,#u9652-4,#u9641-4,#u9642-4
+#u9920-4,#u9924-4,#u9923-4,#u9921-4,#u9922-4
 {
 	border-style: solid;
-	color: #FFFFFF;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
+	color: #FFFFFF;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
 	border-width: 0px 0px 2px;
 }
 
-#u9642-2
+#u9922-2
 {
 	padding-top: 5px;
-}
-
-#u9630,#u9647
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-#u9645,#u9648
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u9650
-{
-	background-color: transparent;
-	border-radius: 8px;
-	position: relative;
-}
-
-#u9627-6
-{
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 17px;
-	text-align: center;
-	line-height: 20px;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
-}
-
-#u9628-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 17px;
-	line-height: 20px;
-	text-decoration: underline;
-	text-align: center;
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
-}
-
-#u9628-4:hover p
-{
-	text-decoration: underline;
 }
 
 /*custom css*/

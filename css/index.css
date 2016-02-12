@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E5;
-	background-color: #FB0ECA;
+	color: #0000FB;
+	background-color: #E2FBB3;
 }
 
 .html
@@ -1957,8 +1957,8 @@
 	width: 608px;
 	min-height: 87px;
 	border-style: solid;
-	color: #333333;
 	line-height: 72px;
+	color: #333333;
 	position: relative;
 	margin-right: -10000px;
 	left: 306px;
@@ -2019,9 +2019,9 @@
 	min-height: 126px;
 	background-color: transparent;
 	line-height: 120px;
-	color: #FFFFFF;
 	font-size: 100px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -2136,8 +2136,8 @@
 	border-color: #FFFFFF;
 	background-color: #A7A7A7;
 	background-color: rgba(51,51,51,0.43);
-	color: #FFFFFF;
 	text-align: left;
+	color: #FFFFFF;
 	line-height: 72px;
 	left: 120px;
 	position: relative;
@@ -2210,7 +2210,8 @@
 #u2378
 {
 	z-index: 6;
-	min-height: 287px;
+	min-height: 306.8273542600896px;
+	padding-bottom: 0px;
 }
 
 #u2378_align_to_page
@@ -2224,7 +2225,7 @@
 #u2378_position_content
 {
 	margin-top: -33px;
-	padding-bottom: 22px;
+	padding-bottom: 19px;
 }
 
 #ppu7696
@@ -2614,7 +2615,7 @@
 {
 	width: 0.01px;
 	left: 121px;
-	margin-top: 17px;
+	margin-top: 33px;
 	position: relative;
 }
 
@@ -2648,7 +2649,7 @@
 #u2378-bw
 {
 	z-index: 6;
-	min-height: 287px;
+	min-height: 306.8273542600896px;
 	margin-top: 19px;
 }
 
@@ -2666,7 +2667,7 @@
 	z-index: 85;
 	width: 190px;
 	margin-right: -10000px;
-	margin-top: 240px;
+	margin-top: 257px;
 	left: 465px;
 }
 
@@ -2683,7 +2684,7 @@
 	z-index: 101;
 	width: 72px;
 	margin-right: -10000px;
-	margin-top: 231px;
+	margin-top: 248px;
 	left: 404px;
 }
 
@@ -2692,7 +2693,7 @@
 	z-index: 103;
 	width: 158px;
 	margin-right: -10000px;
-	margin-top: 240px;
+	margin-top: 257px;
 	left: 660px;
 }
 
@@ -2705,10 +2706,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-}
-
-#u3809-4:hover p,#u3809-4:hover h5,#u3810-4:hover p,#u3810-4:hover h5,#u3813-4:hover p,#u3813-4:hover h5,#u3814-4:hover p,#u3814-4:hover h5,#u7637-4:hover p,#u7637-4:hover h5,#u3815-4:hover p,#u3815-4:hover h5,#u3816-4:hover p,#u3816-4:hover h5,#u3818-4:hover p,#u3818-4:hover h5,#u3819-4:hover p,#u3819-4:hover h5,#u3830-4:hover p,#u3830-4:hover h5,#u9536-4:hover p,#u9536-4:hover h5,#u9542-4:hover p,#u9542-4:hover h5,#u9537-4:hover p,#u9537-4:hover h5,#u9539-4:hover p,#u9539-4:hover h5,#u9540-4:hover p,#u9540-4:hover h5,#u9541-4:hover p,#u9541-4:hover h5,#u9544-4:hover p,#u9544-4:hover h5,#u9538-4:hover p,#u9538-4:hover h5,#u3805-4:hover p,#u3805-4:hover h5
-{
-	padding: 0px;
 }
 

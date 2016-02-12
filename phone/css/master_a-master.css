@@ -1,6 +1,12 @@
 #u4169
 {
-	background: transparent url("../../images/google%20plus%20cover.jpg") no-repeat right top;
+	background: transparent url("../../images/haylandscape.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#pamphletu4985,#u4988
+{
+	position: relative;
 }
 
 #u4991
@@ -489,19 +495,14 @@
 	cursor: pointer;
 }
 
-#u8020
-{
-	overflow: hidden;
-	position: relative;
-}
-
 #u9721
 {
 	background-color: #2BA0AB;
 }
 
-#pamphletu4985,#u4988,#u9738
+#u8020,#u9738
 {
+	overflow: hidden;
 	position: relative;
 }
 
@@ -592,10 +593,10 @@
 #u9735-4,#u9734-4,#u9747-4,#u9736-4,#u9737-4
 {
 	border-style: solid;
-	color: #FFFFFF;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
+	color: #FFFFFF;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -607,7 +608,7 @@
 	padding-top: 5px;
 }
 
-#u9725,#u9742
+#u9725,#u9858,#u9742
 {
 	border-style: none;
 	border-color: transparent;
@@ -631,10 +632,10 @@
 #u9722-6
 {
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 20px;
 	font-size: 17px;
 	text-align: center;
-	line-height: 20px;
+	color: #FFFFFF;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 }
@@ -642,11 +643,11 @@
 #u9723-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	font-size: 17px;
-	line-height: 20px;
-	text-decoration: underline;
 	text-align: center;
+	text-decoration: underline;
+	line-height: 20px;
+	color: #FFFFFF;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 }
