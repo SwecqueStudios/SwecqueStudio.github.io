@@ -1,54 +1,24 @@
-.textanimation
-{
-	font-family: open-sans-condensed-i3, sans-serif;
-}
-
-.Header,.MobHeader
+.Heading1,.Header,.Paragraph-Style-1
 {
 	font-family: raleway-n8, sans-serif;
 }
 
-.heroquotes
+.ButtonSmall,.Button,.FooterHead
 {
-	font-family: raleway-n4, sans-serif;
+	font-family: bebas-neue-n4, sans-serif;
 }
 
-.Subhead-h3
+.Paragraph-Style,.rss-paragraph,.Paragraph
+{
+	font-family: open-sans-condensed-n3, sans-serif;
+}
+
+.rss-title,.Subhead-h3
 {
 	font-family: raleway-n5, sans-serif;
 }
 
-.Button1,.SubNavFont,.NavFont,.MobSubNavFont,.MobNavFont,.tellmemore,.ButtonSmall
-{
-	font-family: bebas-neue-n4, sans-serif;
-}
-
-.Paragraph,.FooterSubline1,.Mob_Paragraph-offset,.Paragraph-Lines,.FooterSublineH,.Radio-group
-{
-	font-family: open-sans-condensed-n3, sans-serif;
-}
-
-.herotext,.Powerline
-{
-	font-family: raleway-n3, sans-serif;
-}
-
-#u3803-4,#u3812-4,#u3817-4,#u9543-4
-{
-	font-family: bebas-neue-n4, sans-serif;
-}
-
-#u3805-4:hover p,#u3805-4:hover h5,#u3809-4:hover p,#u3809-4:hover h5,#u3810-4:hover p,#u3810-4:hover h5,#u3813-4:hover p,#u3813-4:hover h5,#u3814-4:hover p,#u3814-4:hover h5,#u7637-4:hover p,#u7637-4:hover h5,#u3815-4:hover p,#u3815-4:hover h5,#u3816-4:hover p,#u3816-4:hover h5,#u3818-4:hover p,#u3818-4:hover h5,#u3819-4:hover p,#u3819-4:hover h5,#u3830-4:hover p,#u3830-4:hover h5,#u9536-4:hover p,#u9536-4:hover h5,#u9542-4:hover p,#u9542-4:hover h5,#u9537-4:hover p,#u9537-4:hover h5,#u9539-4:hover p,#u9539-4:hover h5,#u9540-4:hover p,#u9540-4:hover h5,#u9541-4:hover p,#u9541-4:hover h5,#u9544-4:hover p,#u9544-4:hover h5,#u9538-4:hover p,#u9538-4:hover h5,#u2377-6,#u4016-4
-{
-	font-family: open-sans-condensed-n3, sans-serif;
-}
-
-#u7282-4
-{
-	font-family: bebas-neue-n4, sans-serif;
-}
-
-#u4575-2
+.rss-date,.textanimation
 {
 	font-family: open-sans-condensed-i3, sans-serif;
 }
