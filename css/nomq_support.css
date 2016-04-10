@@ -390,8 +390,8 @@
 		z-index: 240;
 		width: 437px;
 		min-height: 46px;
-		line-height: 36px;
 		font-size: 30px;
+		line-height: 36px;
 		top: -8px;
 		margin-bottom: -8px;
 		left: -219px;
@@ -651,11 +651,13 @@
 	#pu30315
 	{
 		position: relative;
+		width: 100%;
 	}
 
 	#u30315
 	{
 		width: 199px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 1.43%;
 	}
@@ -799,6 +801,7 @@
 	{
 		width: 259px;
 		padding-bottom: 0px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 16.08%;
 	}
@@ -915,7 +918,6 @@
 	{
 		z-index: 244;
 		height: 180px;
-		margin-right: -10000px;
 		width: 19.86%;
 		left: 40.08%;
 	}

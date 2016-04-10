@@ -451,12 +451,6 @@
 		left: 10.86%;
 	}
 
-	#pu5340
-	{
-		position: relative;
-		width: 100%;
-	}
-
 	#u5340
 	{
 		z-index: 9;
@@ -719,6 +713,7 @@
 		min-height: 1250px;
 		margin-right: -10000px;
 		margin-top: 40px;
+		left: 20px;
 	}
 
 	#u1471
@@ -783,15 +778,17 @@
 		margin-bottom: -7px;
 	}
 
-	#pu30315
+	#pu5340,#pu30315
 	{
 		position: relative;
+		width: 100%;
 	}
 
 	#u30315
 	{
 		z-index: 13;
 		width: 199px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 1.43%;
 	}
@@ -939,6 +936,7 @@
 		z-index: 37;
 		width: 259px;
 		padding-bottom: 0px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 16.08%;
 	}
@@ -1057,7 +1055,6 @@
 	{
 		z-index: 231;
 		height: 180px;
-		margin-right: -10000px;
 		width: 19.86%;
 		left: 40.08%;
 	}

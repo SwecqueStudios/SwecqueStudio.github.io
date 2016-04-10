@@ -594,11 +594,13 @@
 	#pu30315
 	{
 		position: relative;
+		width: 100%;
 	}
 
 	#u30315
 	{
 		width: 199px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 1.43%;
 	}
@@ -742,6 +744,7 @@
 	{
 		width: 259px;
 		padding-bottom: 0px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 16.08%;
 	}
@@ -858,7 +861,6 @@
 	{
 		z-index: 203;
 		height: 180px;
-		margin-right: -10000px;
 		width: 19.86%;
 		left: 40.08%;
 	}

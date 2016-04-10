@@ -1,7 +1,7 @@
 .version.the_game /* version checker */
 {
-	color: #0000E9;
-	background-color: #1F675F;
+	color: #00000D;
+	background-color: #5A70D3;
 }
 
 .js body
@@ -16,22 +16,22 @@
 
 #page
 {
-	margin-left: auto;
-	width: 100%;
 	border-width: 0px;
-	z-index: 1;
-	background-color: transparent;
 	margin-right: auto;
+	background-color: transparent;
 	border-color: #000000;
+	width: 100%;
+	z-index: 1;
+	margin-left: auto;
 	background-image: none;
 }
 
 #u26871
 {
-	z-index: 2;
-	border-width: 0px;
 	border-color: transparent;
+	border-width: 0px;
 	background-color: transparent;
+	z-index: 2;
 }
 
 #u26871-bw
@@ -41,23 +41,23 @@
 
 .Headerbox
 {
-	border-radius: 10px 10px 0px 0px ;
-	background-color: transparent;
 	border-color: #3AD0CF;
+	background-color: transparent;
+	border-radius: 10px 10px 0px 0px ;
 	border-width: 0px 0px 3px;
 }
 
 #u26875-26
 {
 	background-color: transparent;
-	min-height: 229px;
 	position: relative;
+	min-height: 229px;
 }
 
 #u26875-2
 {
-	font-weight: 300;
 	font-style: italic;
+	font-weight: 300;
 	font-family: open-sans-condensed, sans-serif;
 }
 
@@ -75,8 +75,8 @@
 
 #realstory,#about
 {
-	margin-right: -10000px;
 	width: 22px;
+	margin-right: -10000px;
 	position: relative;
 }
 
@@ -87,20 +87,20 @@
 
 #u26864-4,#u26932-4
 {
-	border-style: solid;
 	position: relative;
-	margin-right: -10000px;
 	border-color: #3AD0CF;
-	background-color: #FFFFFF;
 	margin-bottom: -2px;
+	margin-right: -10000px;
+	border-style: solid;
+	background-color: #FFFFFF;
 	border-width: 0px 0px 3px;
 }
 
 #u26925-4
 {
+	line-height: 19px;
 	background-color: transparent;
 	position: relative;
-	line-height: 19px;
 }
 
 #u26925-2
@@ -110,9 +110,9 @@
 
 #slideshowu26938
 {
-	margin-left: 50%;
 	position: relative;
 	width: 0.01px;
+	margin-left: 50%;
 }
 
 #u26965
@@ -123,10 +123,10 @@
 
 #u27157,#u27177,#u27197,#u27217,#u27237,#u27284
 {
-	margin-right: -10000px;
 	border-width: 0px;
-	position: relative;
+	margin-right: -10000px;
 	background-color: transparent;
+	position: relative;
 	border-color: transparent;
 }
 
@@ -147,12 +147,12 @@
 
 #u27370-4
 {
-	border-style: solid;
 	position: relative;
 	border-color: #2BA0AB;
-	margin-left: 50%;
+	border-style: solid;
 	background-color: #000000;
 	border-radius: 10px 10px 0px 0px ;
+	margin-left: 50%;
 	border-width: 0px 0px 3px;
 }
 
@@ -164,9 +164,9 @@
 
 #u27368-13
 {
-	min-height: 109px;
-	position: relative;
 	background-color: transparent;
+	position: relative;
+	min-height: 109px;
 }
 
 #u27368,#u27368-6,#u27368-10
@@ -176,45 +176,44 @@
 
 #u35318
 {
-	background-color: transparent;
-	min-height: 405px;
 	border-width: 0px;
+	background-color: transparent;
 	border-color: transparent;
+	min-height: 405px;
 }
 
 #u332_align_to_page,#u696_align_to_page,#u26914_align_to_page,#u27367_align_to_page,#u30314_align_to_page
 {
-	margin-left: auto;
 	margin-right: auto;
+	margin-left: auto;
 	position: relative;
 }
 
 #u30313
 {
-	left: 0px;
-	position: relative;
-	z-index: 8;
 	margin-right: -10000px;
+	position: relative;
+	left: 0px;
+	z-index: 8;
 	margin-bottom: -1px;
 }
 
 #u30430-4
 {
-	margin-left: 50%;
 	position: relative;
+	margin-left: 50%;
 }
 
 #u30430-4:hover
 {
-	margin-left: 50%;
 	padding-bottom: 0px;
-	margin-bottom: 0px;
 	padding-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 50%;
 }
 
 #u30315
 {
-	margin-right: -10000px;
 	position: relative;
 	z-index: 9;
 }
@@ -231,49 +230,8 @@
 	z-index: 10;
 }
 
-#u30363
-{
-	position: relative;
-	z-index: 57;
-}
-
-#u30364-4
-{
-	z-index: 77;
-	width: 100%;
-	position: relative;
-}
-
-#menuu30365
-{
-	position: relative;
-	z-index: 58;
-	width: 100%;
-}
-
-#u30366,#u30373
-{
-	width: 100%;
-	margin-top: 2px;
-	position: relative;
-}
-
-#u30381:hover,#u30381.MuseMenuActive,#u30369:hover,#u30369.MuseMenuActive,#u30376:hover,#u30376.MuseMenuActive
-{
-	margin: 0px -10000px 0px 0%;
-}
-
-#u30381:hover #u30384-4,#u30381.MuseMenuActive #u30384-4,#u30369:hover #u30372-4,#u30369.MuseMenuActive #u30372-4,#u30376:hover #u30378-4,#u30376.MuseMenuActive #u30378-4
-{
-	width: 100%;
-	padding-bottom: 0px;
-	padding-top: 0px;
-	margin: 0px -10000px 0px 0%;
-}
-
 #u30339
 {
-	margin-right: -10000px;
 	position: relative;
 	z-index: 33;
 }
@@ -308,8 +266,48 @@
 	margin-top: 0px;
 	margin-right: -10000px;
 	padding-bottom: 0px;
-	margin-bottom: 0px;
 	padding-top: 0px;
+	margin-bottom: 0px;
+}
+
+#u30363
+{
+	position: relative;
+	z-index: 57;
+}
+
+#u30364-4
+{
+	width: 100%;
+	z-index: 77;
+	position: relative;
+}
+
+#menuu30365
+{
+	position: relative;
+	width: 100%;
+	z-index: 58;
+}
+
+#u30366,#u30373
+{
+	margin-top: 2px;
+	width: 100%;
+	position: relative;
+}
+
+#u30381:hover,#u30381.MuseMenuActive,#u30369:hover,#u30369.MuseMenuActive,#u30376:hover,#u30376.MuseMenuActive
+{
+	margin: 0px -10000px 0px 0%;
+}
+
+#u30381:hover #u30384-4,#u30381.MuseMenuActive #u30384-4,#u30369:hover #u30372-4,#u30369.MuseMenuActive #u30372-4,#u30376:hover #u30378-4,#u30376.MuseMenuActive #u30378-4
+{
+	width: 100%;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin: 0px -10000px 0px 0%;
 }
 
 #u30380,#u30388
@@ -320,17 +318,17 @@
 
 #u30384-4,#u30372-4,#u30378-4,#u30389-4
 {
-	margin-right: -10000px;
 	width: 100%;
+	margin-right: -10000px;
 	position: relative;
 }
 
-#pu26871,#pu26914,#pu30315,#u31263,#u31259,#u31265
+#pu26871,#pu26914,#u31263,#u31259,#u31265
 {
 	width: 100%;
 }
 
-#u304,#u5503,#u30326,#u30329-4,#u30321,#u30323-4,#u30335,#u30337-4,#u30381,#u30369,#u30376,#u30345,#u30346-4,#u30357,#u30360-4,#u30352,#u30355-4,#u31262,#u31260,#u31258,#u31264,#u31266
+#u304,#u5503,#u30326,#u30329-4,#u30321,#u30323-4,#u30335,#u30337-4,#u30345,#u30346-4,#u30357,#u30360-4,#u30352,#u30355-4,#u30432,#u30381,#u30369,#u30376,#u31262,#u31260,#u31258,#u31264,#u31266
 {
 	margin-right: -10000px;
 	position: relative;
@@ -338,9 +336,9 @@
 
 #u30431-4
 {
-	margin-left: 50%;
-	min-height: 22px;
 	position: relative;
+	min-height: 22px;
+	margin-left: 50%;
 }
 
 #u30314,#u30314-bw
@@ -353,7 +351,7 @@
 	background-color: #FFFFFF;
 }
 
-#soundtrack,#u30432,#u30325,#u30342,#u31373,#u31257,body
+#soundtrack,#u30325,#u30342,#u31373,#u31257,body
 {
 	position: relative;
 }
@@ -956,11 +954,13 @@
 	#pu30315
 	{
 		position: relative;
+		width: 100%;
 	}
 
 	#u30315
 	{
 		width: 199px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 1.43%;
 	}
@@ -1104,6 +1104,7 @@
 	{
 		width: 259px;
 		padding-bottom: 0px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 16.08%;
 	}
@@ -1220,7 +1221,6 @@
 	{
 		z-index: 203;
 		height: 180px;
-		margin-right: -10000px;
 		width: 19.86%;
 		left: 40.08%;
 	}
@@ -2139,10 +2139,12 @@
 	#pu30315
 	{
 		position: relative;
+		width: 100%;
 	}
 
 	#u30315
 	{
+		margin-right: -10000px;
 		margin-top: 82px;
 		width: 30.21%;
 		left: 2.09%;
@@ -2275,6 +2277,7 @@
 
 	#u30339
 	{
+		margin-right: -10000px;
 		margin-top: 214px;
 		width: 30.21%;
 		left: 2.09%;
@@ -2388,7 +2391,6 @@
 	{
 		z-index: 203;
 		height: 201px;
-		margin-right: -10000px;
 		width: 30.21%;
 		left: 34.9%;
 	}
@@ -3189,24 +3191,13 @@
 		left: -94px;
 	}
 
-	#pu30432
-	{
-		margin-right: -10000px;
-		width: 93.55%;
-		margin-left: 3.23%;
-	}
-
-	#u30432
-	{
-		z-index: 186;
-		height: 170px;
-		width: 40.52%;
-		margin-left: 29.83%;
-	}
-
 	#pu30315
 	{
-		margin-top: 71px;
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 241px;
+		width: 45.17%;
+		margin-left: 3.23%;
 	}
 
 	#menuu30317
@@ -3306,116 +3297,10 @@
 		margin-left: 0%;
 	}
 
-	#u30363
-	{
-		padding-bottom: 0px;
-		margin-right: -10000px;
-		width: 48.28%;
-		left: 51.73%;
-	}
-
-	#u30364-4
-	{
-		min-height: 20px;
-	}
-
-	#menuu30365
-	{
-		margin-top: 2px;
-	}
-
-	#u30381
-	{
-		min-height: 18px;
-		padding-bottom: 10px;
-		width: 99.65%;
-	}
-
-	#u30381:hover
-	{
-		min-height: 18px;
-		width: 99.65%;
-	}
-
-	#u30384-4
-	{
-		min-height: 18px;
-		top: 5px;
-	}
-
-	#u30381:hover #u30384-4
-	{
-		min-height: 18px;
-	}
-
-	#u30369
-	{
-		min-height: 18px;
-		padding-bottom: 10px;
-		width: 99.65%;
-	}
-
-	#u30381.MuseMenuActive,#u30369:hover
-	{
-		min-height: 18px;
-		width: 99.65%;
-	}
-
-	#u30372-4
-	{
-		min-height: 18px;
-		top: 5px;
-	}
-
-	#u30381.MuseMenuActive #u30384-4,#u30369:hover #u30372-4
-	{
-		min-height: 18px;
-	}
-
-	#u30376
-	{
-		min-height: 18px;
-		padding-bottom: 10px;
-		width: 99.65%;
-	}
-
-	#u30369.MuseMenuActive,#u30376:hover
-	{
-		min-height: 18px;
-		width: 99.65%;
-	}
-
-	#u30376.MuseMenuActive
-	{
-		min-height: 18px;
-		width: 99.65%;
-	}
-
-	#u30378-4
-	{
-		min-height: 18px;
-		top: 5px;
-	}
-
-	#u30369.MuseMenuActive #u30372-4,#u30376:hover #u30378-4
-	{
-		min-height: 18px;
-	}
-
-	#u30376.MuseMenuActive #u30378-4
-	{
-		min-height: 18px;
-	}
-
-	#pu30339
+	#u30339
 	{
 		margin-top: 14px;
 		width: 100%;
-	}
-
-	#u30315,#u30339
-	{
-		width: 48.28%;
 	}
 
 	#u30316-4,#u30340-4
@@ -3522,16 +3407,132 @@
 		margin-left: 0%;
 	}
 
+	#u30432
+	{
+		z-index: 186;
+		width: 235px;
+		height: 170px;
+		margin-left: 50%;
+		left: -118px;
+	}
+
+	#pu30363
+	{
+		padding-bottom: 1px;
+		margin-right: -10000px;
+		margin-top: 241px;
+		width: 45.17%;
+		margin-left: 51.62%;
+	}
+
+	#u30363
+	{
+		padding-bottom: 0px;
+		width: 100%;
+	}
+
+	#u30364-4
+	{
+		min-height: 20px;
+	}
+
+	#menuu30365
+	{
+		margin-top: 2px;
+	}
+
+	#u30381
+	{
+		min-height: 18px;
+		padding-bottom: 10px;
+		width: 99.65%;
+	}
+
+	#u30381:hover
+	{
+		min-height: 18px;
+		width: 99.65%;
+	}
+
+	#u30384-4
+	{
+		min-height: 18px;
+		top: 5px;
+	}
+
+	#u30381:hover #u30384-4
+	{
+		min-height: 18px;
+	}
+
+	#u30369
+	{
+		min-height: 18px;
+		padding-bottom: 10px;
+		width: 99.65%;
+	}
+
+	#u30381.MuseMenuActive,#u30369:hover
+	{
+		min-height: 18px;
+		width: 99.65%;
+	}
+
+	#u30372-4
+	{
+		min-height: 18px;
+		top: 5px;
+	}
+
+	#u30381.MuseMenuActive #u30384-4,#u30369:hover #u30372-4
+	{
+		min-height: 18px;
+	}
+
+	#u30376
+	{
+		min-height: 18px;
+		padding-bottom: 10px;
+		width: 99.65%;
+	}
+
+	#u30369.MuseMenuActive,#u30376:hover
+	{
+		min-height: 18px;
+		width: 99.65%;
+	}
+
+	#u30376.MuseMenuActive
+	{
+		min-height: 18px;
+		width: 99.65%;
+	}
+
+	#u30378-4
+	{
+		min-height: 18px;
+		top: 5px;
+	}
+
+	#u30369.MuseMenuActive #u30372-4,#u30376:hover #u30378-4
+	{
+		min-height: 18px;
+	}
+
+	#u30376.MuseMenuActive #u30378-4
+	{
+		min-height: 18px;
+	}
+
 	#u31373
 	{
 		z-index: 97;
 		padding-bottom: 0px;
-		margin-right: -10000px;
-		width: 48.28%;
-		left: 51.73%;
+		margin-top: 15px;
+		width: 100%;
 	}
 
-	#u30325,#u30318,#u30332,#u30342,#u30356,#u30349,#u31373_position_content
+	#u30315,#u30325,#u30318,#u30332,#u30342,#u30356,#u30349,#u31373_position_content
 	{
 		width: 100%;
 	}

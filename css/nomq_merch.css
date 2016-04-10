@@ -35,11 +35,13 @@
 	#pu30315
 	{
 		position: relative;
+		width: 100%;
 	}
 
 	#u30315
 	{
 		width: 199px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 1.43%;
 	}
@@ -183,6 +185,7 @@
 	{
 		width: 259px;
 		padding-bottom: 0px;
+		margin-right: -10000px;
 		margin-top: 72px;
 		left: 16.08%;
 	}
@@ -299,7 +302,6 @@
 	{
 		z-index: 130;
 		height: 180px;
-		margin-right: -10000px;
 		width: 19.86%;
 		left: 40.08%;
 	}
@@ -697,6 +699,104 @@
 	{
 		min-height: 296.80866141732326px;
 		margin-top: -7px;
+	}
+
+	#pamphletu36170
+	{
+		z-index: 131;
+		height: 38px;
+		margin-top: 251px;
+		left: 40.15%;
+	}
+
+	#u36182
+	{
+		z-index: 132;
+		width: 276px;
+		padding-bottom: 38px;
+	}
+
+	#u36183
+	{
+		width: 276px;
+		padding-bottom: 2px;
+		margin-left: -138px;
+	}
+
+	#u36422-4
+	{
+		z-index: 134;
+		width: 259px;
+		margin-top: 10px;
+		left: 3.27%;
+	}
+
+	#u36183.PamphletThumbSelected #u36422-4
+	{
+		margin-top: 10px;
+		width: 259px;
+	}
+
+	#u36173
+	{
+		width: 666px;
+		background-color: #191919;
+		background-color: rgba(0,0,0,0.9);
+		top: -352px;
+		left: -195px;
+	}
+
+	#u36173popup
+	{
+		z-index: 138;
+	}
+
+	#u36176
+	{
+		z-index: 139;
+		width: 622px;
+		height: 325px;
+	}
+
+	#u36177-6
+	{
+		z-index: 140;
+		margin-top: 34px;
+		width: 99.84%;
+	}
+
+	#u36177-5
+	{
+		line-height: 48px;
+	}
+
+	#u36180
+	{
+		width: 114px;
+		padding-bottom: 4px;
+		top: -92px;
+		left: 81px;
+	}
+
+	#u36180:hover
+	{
+		width: 114px;
+	}
+
+	#u36181-4
+	{
+		z-index: 147;
+		min-height: 51px;
+		margin-top: 4px;
+		width: 84.22%;
+		left: 7.9%;
+	}
+
+	#u36181-4:hover
+	{
+		margin-top: 4px;
+		min-height: 51px;
+		width: 84.22%;
 	}
 
 	.verticalspacer
