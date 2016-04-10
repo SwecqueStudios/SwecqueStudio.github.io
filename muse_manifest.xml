@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1460291207488">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1460291952315">
   <folder name="css">
     <file name="site_global.css" crc="4010146067"/>
     <file name="master_a-master.css" crc="223763793" ref="about-us:support:index:the-game"/>
@@ -101,10 +101,10 @@
     <file name="shirt_merch.svg" crc="140488734" ref="index:about-us:the-game:support"/>
     <file name="shirt_merch_poster_.png" crc="3879130059" ref="index"/>
   </folder>
-  <file name="index.html" crc="3838763583" seo="true" mt="1460290678322" redirect="true"/>
-  <file name="about-us.html" crc="325061966" seo="true" mt="1460290769421" redirect="true"/>
-  <file name="the-game.html" crc="3818249471" seo="true" mt="1460290880596" redirect="true"/>
-  <file name="support.html" crc="511190676" seo="true" mt="1460291127490" redirect="true"/>
-  <file name="merch.html" crc="406596415" seo="true" mt="1460291026293" redirect="true"/>
+  <file name="index.html" crc="3838763583" seo="true" mt="1460291566660" redirect="true"/>
+  <file name="about-us.html" crc="325061966" seo="true" mt="1460291566660" redirect="true"/>
+  <file name="the-game.html" crc="347250159" seo="true" mt="1460291914308" redirect="true"/>
+  <file name="support.html" crc="511190676" seo="true" mt="1460291566660" redirect="true"/>
+  <file name="merch.html" crc="406596415" seo="true" mt="1460291566660" redirect="true"/>
   <file name="404.html" crc="25688131" seo="true" mt="1460290014875" redirect="true"/>
 </manifest>
