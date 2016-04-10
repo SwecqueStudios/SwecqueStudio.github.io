@@ -1,7 +1,7 @@
 .version.merch /* version checker */
 {
-	color: #00000A;
-	background-color: #CB262A;
+	color: #0000FC;
+	background-color: #DA3013;
 }
 
 .js body
@@ -240,6 +240,11 @@
 	min-height: 26px;
 	margin-bottom: 0px;
 	margin-left: 0%;
+}
+
+#u36183.PamphletThumbSelected #u36422-4 p
+{
+	text-align: center;
 }
 
 #u36173
@@ -2481,44 +2486,44 @@
 		z-index: 114;
 		height: 38px;
 		margin-top: 527px;
-		left: 25.33%;
+		left: 25.97%;
 	}
 
 	#u36182
 	{
 		z-index: 115;
-		width: 306px;
+		width: 297px;
 		padding-bottom: 38px;
 	}
 
 	#u36183
 	{
-		width: 306px;
+		width: 297px;
 		padding-bottom: 3px;
-		margin-left: -153px;
+		margin-left: -149px;
 	}
 
 	#u36422-4
 	{
 		z-index: 117;
 		margin-top: 9px;
-		width: 89.55%;
-		left: 3.93%;
+		width: 92.26%;
+		left: 4.05%;
 	}
 
 	#u36183.PamphletThumbSelected #u36422-4
 	{
 		margin-top: 9px;
-		width: 89.55%;
+		width: 92.26%;
 	}
 
 	#u36173
 	{
-		width: 357px;
+		width: 315px;
 		background-color: #191919;
 		background-color: rgba(0,0,0,0.9);
-		top: -451px;
-		left: -26px;
+		top: -448px;
+		left: -9px;
 	}
 
 	#u36173popup
@@ -2529,7 +2534,7 @@
 	#u36176
 	{
 		z-index: 122;
-		width: 313px;
+		width: 271px;
 		height: 377px;
 	}
 
@@ -2537,9 +2542,9 @@
 	{
 		z-index: 123;
 		margin-top: 5px;
-		width: 98.09%;
-		margin-left: 0.96%;
-		left: -3px;
+		width: 99.27%;
+		margin-left: 0.37%;
+		left: -1px;
 	}
 
 	#u36177-2
@@ -2557,7 +2562,7 @@
 	{
 		width: 122px;
 		top: -140px;
-		left: 92px;
+		left: 88px;
 	}
 
 	#u36180:hover
@@ -2591,599 +2596,3 @@
 	}
 }
 
-@media (min-width: 768px) {
-/*custom css*/
-body
-{
-	padding-top: 0px !important;
-}
-
-#myShop
-{
-	margin-bottom: -5px;
-}
-
-#sprd-main, #sprd-header
-{
-	top: -4px;
-	min-width: 100%;
-}
-
-.customHeader
-{
-	background: #FFFFFF;
-	box-shadow: 0px 7px 7px rgba(0,0,0,0.3);
-
-}
-
-#sprd-content, .navigation
-{
-	max-width: 1400px;
-	margin: auto;
-}
-
-.navigation
-{
-	color: #000000;
-	border-style: none !important;
-}
-
-.navigation div.Icon {
-	color: black;
-}
-
-div#header-html
-{
-	top: 4px;
-	background-color: #418bb0;
-}
-
-.TileList.articles
-{
-	background-color: transparent;
-	margin-top: 5px;
-	margin-bottom: 200px;
-}
-
-.label.caret, .customFilterBarMenu .text, .customFilterButton, .filters .Label.item
-{
-	font-family: bebas-neue, sans-serif;
-	font-size: 25px;
-	color: #111111;
-}
-.menu
-{
-	border-color: aqua; !important;
-}
-
-.customFilter
-{
-	background-color: white !important;
-	box-shadow: 0px 7px 7px rgba(0,0,0,0.3);
-}
-
-.customFilter .item
-{
-	font-family: bebas-neue, sans-serif;
-	font-size: 20px !important;
-}
-
-.customFilter .item:hover
-{
-	background-color: #EBEAEA !important;
-	color: #000000 !important;
-}
-
-a:link
-{
-	color: inherit;
-	font-size: inherit;
-}
-
-a:visited
-{
-	color: inherit;
-	font-size: inherit;
-}
-
-
-
-.bold.label, .productName
-{
-	font-family: raleway, sans-serif;
-	font-weight: 500;
-	font-style: normal;
-	font-size: 20px;
-	margin-top: 10px;
-	line-height: 20px;
-}
-
-.productName:not(.label)
-{
-	font-size: 35px !important;
-}
-
-.Wrapper.details, .overlayView, .customCounter,  .dialog-message
-{
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
-	font-size: 140%;
-}
-
-.overlayView
-{
-	box-shadow: 0px 7px 7px rgba(0,0,0,0.3);
-}
-
-/*Buttons*/
-.customButton
-{
-	font-family: bebas-neue, sans-serif;
-	font-size: 30px !important;
-	font-weight: 500 !important;
-	padding: 10px !important;
-	box-shadow: none !important;
-	border-style: none !important;
-}
-
-.customButton:not(.primary):not(.item), .delete.customButton
-{
-	background-color: transparent !important;
-	border-style: solid !important;
-	color: #111111;
-}
-
-.customButton .Icon
-{
-	margin: -2px 40px 4px 0px !important;
-
-}
-
-.customButton.primary:hover, .toBasket.customButton:hover
-{
-	background-color: #3AD0CF !important;
-	color: #FFFFFF !important;
-}
-
-.button.delete .label
-{
-	margin-left: 0px !important;
-}
-
-.button.toBasket
-{
-	min-width: 250px !important;
-}
-
-.customButton:hover, .filters .Label.item:hover
-{
-	color: #2BA0AB !important;
-	border-color: #2BA0AB !important;
-	text-decoration: none;
-}
-
-.checkout.customButton
-{
-	margin-bottom: 8px !important;
-}
-
-.largeFont, #myShop h2
-{
-	font-family: raleway, sans-serif;
-	font-weight: 500;
-	font-style: normal;
-	font-size: 150% !important;
-	margin-bottom: 10px;
-	margin-top: 10px;
-}
-
-.overlayView .customHeader
-{
-	box-shadow: none;
-	background-color: #2BA0AB;
-	position: absolute;
-	visibility: hidden;
-}
-
-.basket .favorite::after
-{
-	color: #2BA0AB;
-}
-
-.basket .inputWrapper.inputElement
-{
-	max-width: 100px;
-	padding-left: 0px !important;
-}
-
-.basket .inputElement
-{
-	font-size: 80% !important;
-}
-
-.TileOverlay
-{
-	border-style: none !important;
-	box-shadow: 0px 2px 15px rgba(0,0,0,0.6) !important;
-}
-
-.Wrapper.content
-{
-	margin-bottom: 50px !important;
-}
-
-.TapPreventer
-{
-	opacity: 0 !important;
-}
-
-/*footer*/
-.customFooter
-{
-	margin-top: -100px;
-	padding-bottom: 10px !important;
-}
-
-.customFooter, #trusted-footer
-{
-	background: #444444;
-	color: white;
-	border-color: white;
-	line-height: 22px;
-}
-
-.verticalspacer {
-	max-height: 0px;
-	margin-bottom: -40px;
-}
-
-/*Mobile menu*/
-.customFilterBarMenu .subline
-{
-	margin-top: 0px !important;
-	margin-bottom: 10px;
-	color: #2BA0AB;
-}
-
-.customMobileFilterButton.active
-{
-	box-shadow: 0px 4px 0px rgba(76,178,197,1) !important;
-}
-
-.filters .button
-{
-	padding: 0px !important;
-}
-
-.filters .button:hover
-{
-	transition-duration: 0s !important;
-	color: #2BA0AB !important;
-	background-color: transparent !important;
-	border-color: #2BA0AB !important;
-}
-
-.filters .button.active
-{
-	border-color: #2BA0AB !important;
-}
-
-.filters .button.active .Label.item
-{
-	color: white !important;
-	background-color: #2BA0AB !important;
-}
-
-.filters .button.active .Label.item:hover
-{
-	color: white !important;
-	background-color: #3AD0CF !important;
-}
-}
-
-@media (max-width: 767px) {
-/*custom css*/
-body
-{
-	padding-top: 0px !important;
-}
-
-#sprd-main, #sprd-header
-{
-	top: -4px;
-}
-
-#myShop
-{
-	margin-bottom: -5px;
-}
-.customHeader
-{
-	background: #FFFFFF;
-}
-
-.navigation
-{
-	color: #000000;
-	/border-style: none !important;
-}
-
-
-.navigation div.Icon
-{
-	color: black;
-}
-
-
-div#header-html/
-{
-	top: 4px;
-	margin-bottom: 3px;
-}
-
-.TileList.articles/
-{
-	background-color: transparent;
-	margin-top: 5px;
-}
-
-.customFilterBarMenu, .customFilterButton, .filters .Label.item
-{
-	font-family: bebas-neue, sans-serif;
-	font-size: 25px;
-	color: #111111;
-}
-
-#filterBar
-{
-	margin-top: -4px;
-	box-shadow: 0px 7px 7px rgba(0,0,0,0.3);
-}
-
-.customFilter
-{
-	background-color: white !important;
-}
-
-.customFilter .item
-{
-	font-family: bebas-neue, sans-serif;
-	font-size: 20px !important;
-}
-
-.customFilter .item:hover
-{
-	background-color: #EBEAEA !important;
-	color: #000000 !important;
-}
-
-a:link
-{
-	color: inherit;
-	font-size: inherit;
-}
-
-a:visited
-{
-	color: inherit;
-	font-size: inherit;
-}
-
-.bold.label, #detail-title, .subline, .productTypeName
-{
-	font-family: raleway, sans-serif;
-	font-weight: 700;
-	font-style: normal;
-	font-size: 22px;
-	line-height: 30px;
-}
-
-#detail-title
-{
-	font-size: 26px;
-}
-
-.productTypeName
-{
-	margin-top: 10px !important;
-	font-weight: 700 !important;
-	font-size: 20px !important;
-}
-
-.Wrapper.details, .overlayView, .customCounter, .dialog-message, #myShop p, #myShop h4
-{
-	font-family: open-sans-condensed, sans-serif;
-	font-weight: 300;
-	font-size: 120%;
-}
-
-.overlayView
-{
-	box-shadow: 0px 7px 7px rgba(0,0,0,0.3);
-}
-
-/*Buttons*/
-.customButton
-{
-	font-family: bebas-neue, sans-serif;
-	font-size: 26px !important;
-	font-weight: 500 !important;
-	padding: 10px !important;
-	box-shadow: none !important;
-	border-style: none !important;
-}
-
-.customButton:not(.primary):not(.item), .delete.customButton
-{
-	background-color: transparent !important;
-	border-style: solid !important;
-	color: #111111;
-}
-
-.delete.customButton
-{
-	min-width: 70px !important;
-}
-
-.customButton .Icon
-{
-	margin-right: 39px !important;
-
-}
-
-.Filter .button
-{
-	border-bottom-width: 1px !important;
-}
-
-.customButton.primary:hover, .toBasket.customButton:hover
-{
-	background-color: #3AD0CF !important;
-	color: #FFFFFF !important;
-}
-
-.button.delete .label
-{
-	margin-left: 0px !important;
-}
-
-.button.toBasketBottom .label
-{
-	vertical-align: top;
-	margin: 14px;
-	font-size: 30px;
-}
-
-.button.favorite
-{
-	margin-right: 0px !important;
-}
-
-.customButton:hover, .filters .customFilterText.active
-{
-	color: #2BA0AB;
-	border-color: #2BA0AB;
-	font-weight: 500;
-	text-decoration: none;
-}
-
-.checkout.customButton
-{
-	margin-bottom: 8px !important;
-}
-
-.quantityControl
-{
-	padding-left: 0px !important;
-	max-width: 100%;
-}
-
-#myShop h2
-{
-	font-family: raleway, sans-serif;
-	font-weight: 700;
-	font-style: normal;
-	font-size: 160% !important;
-	margin-bottom: 10px;
-	margin-top: 10px;
-}
-
-.overlayView .customHeader
-{
-	box-shadow: none;
-	background-color: #2BA0AB;
-	position: absolute;
-	visibility: hidden;
-}
-
-.basket .favorite::after
-{
-	color: #2BA0AB;
-}
-
-.basket .inputWrapper.inputElement
-{
-	max-width: 100px;
-	padding-left: 0px !important;
-}
-
-.basket .inputElement
-{
-	font-size: 80% !important;
-}
-
-.TileOverlay
-{
-	border-style: none !important;
-	box-shadow: 0px 2px 15px rgba(0,0,0,0.6) !important;
-}
-
-.Wrapper.content
-{
-	margin-bottom: 50px !important;
-}
-
-/*footer*/
-.customFooter
-{
-	margin-top: 10px;
-	padding-bottom: 80px !important;
-	/margin-bottom: -5px !important;
-}
-
-.customFooter, #trusted-footer
-{
-	background: #444444;
-	color: white;
-	border-color: white;
-	line-height: 22px;
-}
-
-.customFooter .item
-{
-	border-style: none !important;
-	padding: 4px !important;
-}
-
-/*Mobile menu*/
-.customFilterBarMenu .subline
-{
-	margin-top: -4px;
-	color: #2BA0AB;
-}
-
-.customMobileFilterButton.active
-{
-	box-shadow: 0px 4px 0px rgba(76,178,197,1) !important;
-}
-
-.filters .button
-{
-	padding: 0px !important;
-}
-
-.filters .button:hover
-{
-	transition-duration: 0s !important;
-	color: #2BA0AB !important;
-	background-color: transparent !important;
-	border-color: #2BA0AB !important;
-}
-
-.filters .button.active
-{
-	border-color: #2BA0AB !important;
-}
-
-.filters .button.active .Label.item
-{
-	color: white !important;
-	background-color: #2BA0AB !important;
-}
-
-.filters .button.active .Label.item:hover
-{
-	color: white !important;
-	background-color: #3AD0CF !important;
-}
-}
