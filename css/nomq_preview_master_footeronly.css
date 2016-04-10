@@ -39,85 +39,6 @@
 		font-size: 16px;
 	}
 
-	#menuu30401
-	{
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-	}
-
-	#u30416,#u30417
-	{
-		background-color: transparent;
-	}
-
-	#u30419-4
-	{
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		line-height: 19px;
-		color: #333333;
-		font-size: 16px;
-		text-align: center;
-		font-family: open-sans-condensed, sans-serif;
-		font-weight: 300;
-	}
-
-	#u30423,#u30424
-	{
-		background-color: transparent;
-	}
-
-	#u30425-4
-	{
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		line-height: 19px;
-		color: #333333;
-		font-size: 16px;
-		text-align: center;
-		font-family: open-sans-condensed, sans-serif;
-		font-weight: 300;
-	}
-
-	#u30409,#u30410
-	{
-		background-color: transparent;
-	}
-
-	#u30411-4
-	{
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		line-height: 19px;
-		color: #333333;
-		font-size: 16px;
-		text-align: center;
-		font-family: open-sans-condensed, sans-serif;
-		font-weight: 300;
-	}
-
-	#u30402,#u30403
-	{
-		background-color: transparent;
-	}
-
-	#u30406-4
-	{
-		border-width: 0px;
-		border-color: transparent;
-		background-color: transparent;
-		line-height: 19px;
-		color: #333333;
-		font-size: 16px;
-		text-align: center;
-		font-family: open-sans-condensed, sans-serif;
-		font-weight: 300;
-	}
-
 	#u30432
 	{
 		background-image: url("../images/swecque%20heraldic_small.png");
@@ -144,6 +65,85 @@
 	#u30316-4,#u30340-4,#u30364-4,#u30389-4
 	{
 		line-height: 31px;
+	}
+
+	#menuu30401
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+	}
+
+	#u30416,#u30417
+	{
+		background-color: transparent;
+	}
+
+	#u30419-4
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		color: #333333;
+		line-height: 19px;
+		font-size: 16px;
+		text-align: center;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u30423,#u30424
+	{
+		background-color: transparent;
+	}
+
+	#u30425-4
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		color: #333333;
+		line-height: 19px;
+		font-size: 16px;
+		text-align: center;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u30409,#u30410
+	{
+		background-color: transparent;
+	}
+
+	#u30411-4
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		color: #333333;
+		line-height: 19px;
+		font-size: 16px;
+		text-align: center;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
+	}
+
+	#u30402,#u30403
+	{
+		background-color: transparent;
+	}
+
+	#u30406-4
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		color: #333333;
+		line-height: 19px;
+		font-size: 16px;
+		text-align: center;
+		font-family: open-sans-condensed, sans-serif;
+		font-weight: 300;
 	}
 
 

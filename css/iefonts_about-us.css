@@ -1,8 +1,3 @@
-.Heading1,.Header,.Paragraph-Style-1
-{
-	font-family: raleway-n8, sans-serif;
-}
-
 .ButtonSmall,.Button,.FooterHead
 {
 	font-family: bebas-neue-n4, sans-serif;
@@ -21,5 +16,10 @@
 .rss-date,.textanimation
 {
 	font-family: open-sans-condensed-i3, sans-serif;
+}
+
+.Heading1,.Header,.Paragraph-Style-1,.Header-Mobile
+{
+	font-family: raleway-n8, sans-serif;
 }
 
