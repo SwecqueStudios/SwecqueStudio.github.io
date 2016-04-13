@@ -116,7 +116,7 @@ body
 	font-feature-settings: 'liga';
 }
 
-a
+a,.Edited a
 {
 	color: inherit;
 	text-decoration: inherit;

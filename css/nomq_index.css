@@ -22,7 +22,7 @@
 
 	#u1091
 	{
-		z-index: 141;
+		z-index: 135;
 		width: 14.29%;
 	}
 
@@ -425,7 +425,7 @@
 
 	#u5478
 	{
-		z-index: 224;
+		z-index: 225;
 		top: -8px;
 		margin-bottom: -8px;
 		left: 47.65%;
@@ -433,7 +433,7 @@
 
 	#u838-6
 	{
-		z-index: 135;
+		z-index: 219;
 		min-height: 127px;
 		line-height: 58px;
 		font-size: 48px;
@@ -444,7 +444,7 @@
 
 	#u2682-7
 	{
-		z-index: 142;
+		z-index: 136;
 		line-height: 29px;
 		font-size: 24px;
 		width: 78.29%;
@@ -469,7 +469,7 @@
 
 	#u5324
 	{
-		z-index: 222;
+		z-index: 216;
 		margin-right: -10000px;
 		margin-top: 172px;
 		width: 22.22%;
@@ -478,7 +478,7 @@
 
 	#u4065-4
 	{
-		z-index: 192;
+		z-index: 186;
 		margin-right: -10000px;
 		left: -94px;
 	}
@@ -492,7 +492,7 @@
 
 	#u5312
 	{
-		z-index: 220;
+		z-index: 214;
 		margin-right: -10000px;
 		margin-top: 172px;
 		width: 19.15%;
@@ -523,7 +523,7 @@
 
 	#u6054
 	{
-		z-index: 207;
+		z-index: 201;
 		width: 711px;
 		padding-bottom: 0px;
 		margin-top: 92px;
@@ -532,7 +532,7 @@
 
 	#u4848-4
 	{
-		z-index: 212;
+		z-index: 206;
 		width: 711px;
 		min-height: 77px;
 		line-height: 72px;
@@ -540,7 +540,7 @@
 
 	#u4851-4
 	{
-		z-index: 216;
+		z-index: 210;
 		width: 670px;
 		min-height: 88px;
 		line-height: 29px;
@@ -549,7 +549,7 @@
 
 	#u4849-4
 	{
-		z-index: 208;
+		z-index: 202;
 		width: 234px;
 		top: -1px;
 		margin-bottom: -1px;
@@ -570,7 +570,7 @@
 
 	#slideshowu5037
 	{
-		z-index: 196;
+		z-index: 190;
 		height: 500px;
 		margin-top: 778px;
 		left: 58%;
@@ -584,33 +584,33 @@
 
 	#u5039popup
 	{
-		z-index: 197;
+		z-index: 191;
 	}
 
 	#u5042
 	{
-		z-index: 198;
+		z-index: 192;
 		width: 480px;
 		height: 500px;
 	}
 
 	#u5219
 	{
-		z-index: 200;
+		z-index: 194;
 		width: 480px;
 		height: 500px;
 	}
 
 	#u5250
 	{
-		z-index: 202;
+		z-index: 196;
 		width: 480px;
 		height: 500px;
 	}
 
 	#u5281
 	{
-		z-index: 204;
+		z-index: 198;
 		width: 480px;
 		height: 500px;
 	}
@@ -634,7 +634,7 @@
 
 	#u2691
 	{
-		z-index: 149;
+		z-index: 143;
 		width: 670px;
 		background-image: url("../images/u2691-grad.png");
 		background: -webkit-gradient(linear, left center, right center, from(rgba(0,0,0,0)),color-stop(46%, rgba(0,0,0,0.39)));
@@ -648,7 +648,7 @@
 
 	#u34115
 	{
-		z-index: 178;
+		z-index: 172;
 		width: 661px;
 		margin-top: 11px;
 		margin-left: 100%;
@@ -657,7 +657,7 @@
 
 	#u1381-4
 	{
-		z-index: 183;
+		z-index: 177;
 		width: 661px;
 		min-height: 77px;
 		line-height: 72px;
@@ -667,7 +667,7 @@
 
 	#u2686-4
 	{
-		z-index: 187;
+		z-index: 181;
 		width: 660px;
 		min-height: 87px;
 		line-height: 29px;
@@ -678,7 +678,7 @@
 
 	#u1389-4
 	{
-		z-index: 179;
+		z-index: 173;
 		width: 188px;
 		left: -188px;
 	}
@@ -708,7 +708,7 @@
 
 	#u3315
 	{
-		z-index: 191;
+		z-index: 185;
 		width: 899px;
 		min-height: 1250px;
 		margin-right: -10000px;
@@ -717,7 +717,7 @@
 
 	#u1471
 	{
-		z-index: 206;
+		z-index: 200;
 		min-height: 1115px;
 		margin-right: -10000px;
 		margin-top: 41px;
@@ -733,23 +733,23 @@
 
 	#u3309
 	{
-		z-index: 150;
+		z-index: 144;
 		margin-top: 91px;
 	}
 
 	#u3310-23
 	{
-		z-index: 151;
+		z-index: 145;
 	}
 
 	#u3314
 	{
-		z-index: 161;
+		z-index: 155;
 	}
 
 	#u3312
 	{
-		z-index: 169;
+		z-index: 163;
 	}
 
 	#u2695-4

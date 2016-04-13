@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1460297281351">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1460564864688">
   <folder name="css">
-    <file name="site_global.css" crc="3939499540"/>
-    <file name="master_a-master.css" crc="335115565" ref="about-us:support:index:the-game"/>
-    <file name="nomq_preview_master_a-master.css" crc="55179497" ref="about-us:support:index:the-game"/>
-    <file name="master_footeronly.css" crc="168664835" ref="merch:about-us:support:index:the-game"/>
-    <file name="nomq_preview_master_footeronly.css" crc="178084155" ref="merch:about-us:support:index:the-game"/>
-    <file name="merch.css" crc="4242157587" ref="merch"/>
-    <file name="nomq_merch.css" crc="24931699" ref="merch"/>
+    <file name="site_global.css" crc="4010146067"/>
+    <file name="master_a-master.css" crc="142939854" ref="about-us:support:index:the-game"/>
+    <file name="nomq_preview_master_a-master.css" crc="4190489382" ref="about-us:support:index:the-game"/>
+    <file name="master_footeronly.css" crc="337331750" ref="merch:about-us:support:index:the-game"/>
+    <file name="nomq_preview_master_footeronly.css" crc="53290803" ref="merch:about-us:support:index:the-game"/>
+    <file name="merch.css" crc="3955352069" ref="merch"/>
+    <file name="nomq_merch.css" crc="3766385340" ref="merch"/>
     <file name="about-us.css" crc="325352607" ref="about-us"/>
     <file name="nomq_about-us.css" crc="373778054" ref="about-us"/>
     <file name="iefonts_about-us.css" crc="3958270523" ref="about-us"/>
@@ -14,13 +14,12 @@
     <file name="nomq_support.css" crc="506189156" ref="support"/>
     <file name="iefonts_support.css" crc="3958270523" ref="support"/>
     <file name="404.css" crc="3908053425" ref="404"/>
-    <file name="index.css" crc="168465843" ref="index"/>
-    <file name="nomq_index.css" crc="329432312" ref="index"/>
+    <file name="index.css" crc="534619546" ref="index"/>
+    <file name="nomq_index.css" crc="487690330" ref="index"/>
     <file name="iefonts_index.css" crc="3958270523" ref="index"/>
     <file name="the-game.css" crc="224030931" ref="the-game"/>
     <file name="nomq_the-game.css" crc="344975291" ref="the-game"/>
     <file name="iefonts_the-game.css" crc="3958270523" ref="the-game"/>
-    <file name="iefonts_merch.css" crc="3958270523" ref="merch"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about-us:the-game:support:merch:404"/>
@@ -28,12 +27,12 @@
     <file name="whatinput.js" crc="84559013" ref="index:about-us:the-game:support:merch:404"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:about-us:the-game:404"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index:about-us:the-game:support:merch:404"/>
-    <file name="pie.js" crc="3827607177" ref="index:about-us:the-game:support:merch"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-us:the-game:support"/>
     <file name="jquery.musemenu.js" crc="238543590" ref="index:about-us:the-game:support:merch"/>
-    <file name="webpro.js" crc="329496574" ref="index:the-game:merch"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="index:the-game:merch"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:the-game:merch"/>
-    <file name="touchswipe.js" crc="497316881" ref="index:the-game:merch"/>
+    <file name="webpro.js" crc="329496574" ref="index:the-game"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:the-game"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:the-game"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:the-game"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about-us:the-game:support:merch:404"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index:about-us:the-game:support:merch"/>
   </folder>
@@ -102,10 +101,10 @@
     <file name="shirt_merch.svg" crc="140488734" ref="index:about-us:the-game:support"/>
     <file name="shirt_merch_poster_.png" crc="3879130059" ref="index"/>
   </folder>
-  <file name="index.html" crc="4033381064" seo="true" mt="1460297182721" redirect="true"/>
+  <file name="index.html" crc="96999786" seo="true" mt="1460564198661" redirect="true"/>
   <file name="about-us.html" crc="407589392" seo="true" mt="1460296184577" redirect="true"/>
   <file name="the-game.html" crc="4109510502" seo="true" mt="1460296184577" redirect="true"/>
   <file name="support.html" crc="527926942" seo="true" mt="1460296184577" redirect="true"/>
-  <file name="merch.html" crc="48461460" seo="true" mt="1460297251947" redirect="true"/>
+  <file name="merch.html" crc="3838637063" seo="true" mt="1460563248530" redirect="true"/>
   <file name="404.html" crc="25688131" seo="true" mt="1460290014875" redirect="true"/>
 </manifest>
