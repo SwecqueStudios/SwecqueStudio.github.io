@@ -6,9 +6,9 @@
 
 #u696
 {
-	-pie-box-shadow: 1px 5px 8px #ADADAD;
-	background-color: #FFFFFF;
 	box-shadow: 1px 5px 8px rgba(0,0,0,0.32);
+	background-color: #FFFFFF;
+	-pie-box-shadow: 1px 5px 8px #ADADAD;
 }
 
 #u304,#u5503

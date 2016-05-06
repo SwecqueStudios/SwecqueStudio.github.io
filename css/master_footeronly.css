@@ -5,27 +5,27 @@
 
 #u30313
 {
-	border-style: solid;
 	background-color: transparent;
+	border-style: solid;
 	border-color: #333333;
 	border-width: 1px 0px;
 }
 
 #u30430-4
 {
-	transition-timing-function: ease;
-	line-height: 29px;
-	background-image: url("../images/blank.gif");
-	transition-delay: 0s;
 	background-color: transparent;
-	transition-duration: 0.3s;
-	border-color: #2BA0AB;
-	border-radius: 10px;
-	-webkit-transition-timing-function: ease;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-duration: 0.3s;
-	border-width: 2px;
 	border-style: solid;
+	transition-timing-function: ease;
+	border-color: #2BA0AB;
+	-webkit-transition-delay: 0s;
+	line-height: 29px;
+	transition-duration: 0.3s;
+	transition-delay: 0s;
+	border-radius: 10px;
+	border-width: 2px;
+	-webkit-transition-timing-function: ease;
+	background-image: url("../images/blank.gif");
+	-webkit-transition-duration: 0.3s;
 }
 
 #u30430-4:hover
@@ -51,8 +51,8 @@
 
 #u30432
 {
-	background-color: #FFFFFF;
 	background-repeat: no-repeat;
+	background-color: #FFFFFF;
 	background-position: center center;
 	background-size: contain;
 }
@@ -69,16 +69,16 @@
 
 #u30316-4,#u30340-4,#u30364-4,#u30389-4
 {
-	border-style: solid;
 	background-color: transparent;
+	border-style: solid;
 	border-color: #333333;
 	border-width: 0px 0px 1px;
 }
 
 #u30315,#menuu30317,#u30329-4,#u30323-4,#u30337-4,#u30339,#menuu30341,#u30346-4,#u30360-4,#u30355-4,#u30363,#menuu30365,#u30384-4,#u30372-4,#u30378-4,#u31373,#u30388,#u31257
 {
-	border-width: 0px;
 	background-color: transparent;
+	border-width: 0px;
 	border-color: transparent;
 }
 
@@ -94,13 +94,13 @@
 
 #u30431-4
 {
-	font-size: 16px;
 	color: #333333;
-	font-family: open-sans-condensed, sans-serif;
-	line-height: 19px;
-	font-weight: 300;
 	background-color: transparent;
+	font-size: 16px;
+	font-family: open-sans-condensed, sans-serif;
 	text-align: center;
+	font-weight: 300;
+	line-height: 19px;
 }
 
 @media (min-width: 961px)
@@ -148,7 +148,7 @@
 
 	#u30432
 	{
-		background-image: url("../images/swecque%20heraldic_small.png");
+		background-image: url("../images/swecque%20heraldic_small-u30432-fr.png");
 	}
 
 	#u30384-4
@@ -300,7 +300,7 @@
 
 	#u30432
 	{
-		background-image: url("../images/swecque%20heraldic_small.png");
+		background-image: url("../images/swecque%20heraldic_small-u30432-fr2.png");
 	}
 
 	#u30384-4
@@ -452,7 +452,7 @@
 
 	#u30432
 	{
-		background-image: url("../images/swecque%20heraldic_small-u30432-fr.png");
+		background-image: url("../images/swecque%20heraldic_small-u30432-fr3.png");
 	}
 
 	#u30316-4,#u30340-4,#u30364-4
