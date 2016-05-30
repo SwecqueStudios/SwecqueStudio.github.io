@@ -1,24 +1,24 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1462541683744">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1464636867466">
   <folder name="css">
-    <file name="site_global.css" crc="4010146067"/>
-    <file name="master_a-master.css" crc="158746253" ref="about-us:support:index:the-game"/>
-    <file name="nomq_preview_master_a-master.css" crc="4190489382" ref="about-us:support:index:the-game"/>
-    <file name="master_footeronly.css" crc="3911516442" ref="merch:about-us:support:index:the-game"/>
-    <file name="nomq_preview_master_footeronly.css" crc="4119056276" ref="merch:about-us:support:index:the-game"/>
-    <file name="merch.css" crc="3878278054" ref="merch"/>
-    <file name="nomq_merch.css" crc="364094712" ref="merch"/>
-    <file name="about-us.css" crc="4085397286" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="491903456" ref="about-us"/>
+    <file name="site_global.css" crc="473601823"/>
+    <file name="master_a-master.css" crc="3924617628" ref="about-us:support:index:the-game"/>
+    <file name="nomq_preview_master_a-master.css" crc="55179497" ref="about-us:support:index:the-game"/>
+    <file name="master_footeronly.css" crc="391424537" ref="merch:about-us:support:index:the-game"/>
+    <file name="nomq_preview_master_footeronly.css" crc="3789666462" ref="merch:about-us:support:index:the-game"/>
+    <file name="merch.css" crc="4194109426" ref="merch"/>
+    <file name="nomq_merch.css" crc="4210960509" ref="merch"/>
+    <file name="about-us.css" crc="3844012120" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="4259532475" ref="about-us"/>
     <file name="iefonts_about-us.css" crc="3958270523" ref="about-us"/>
-    <file name="support.css" crc="252581387" ref="support"/>
-    <file name="nomq_support.css" crc="484801286" ref="support"/>
+    <file name="support.css" crc="4110972365" ref="support"/>
+    <file name="nomq_support.css" crc="3853130932" ref="support"/>
     <file name="iefonts_support.css" crc="3958270523" ref="support"/>
     <file name="404.css" crc="3908053425" ref="404"/>
-    <file name="index.css" crc="472406766" ref="index"/>
-    <file name="nomq_index.css" crc="3829428704" ref="index"/>
+    <file name="index.css" crc="200443897" ref="index"/>
+    <file name="nomq_index.css" crc="3960211651" ref="index"/>
     <file name="iefonts_index.css" crc="3958270523" ref="index"/>
-    <file name="the-game.css" crc="154938354" ref="the-game"/>
-    <file name="nomq_the-game.css" crc="242791090" ref="the-game"/>
+    <file name="the-game.css" crc="3796032854" ref="the-game"/>
+    <file name="nomq_the-game.css" crc="4253215826" ref="the-game"/>
     <file name="iefonts_the-game.css" crc="3958270523" ref="the-game"/>
   </folder>
   <folder name="scripts">
@@ -81,7 +81,6 @@
     <file name="model3-crop-u5250.png" crc="507779074" ref="index"/>
     <file name="model4-crop-u5281.png" crc="4264439846" ref="index"/>
     <file name="u2691-grad3.png" crc="374076948" ref="index"/>
-    <file name="swecque heraldic_small-u30432-fr.png" crc="511961962" ref="index"/>
     <file name="swecqueiswheretheheartis.jpg" crc="23122061" ref="about-us"/>
     <file name="swagpatrick-thimo2.jpg" crc="4081078012" ref="about-us"/>
     <file name="download157.svg" crc="17726325" ref="about-us"/>
@@ -99,13 +98,13 @@
     <file name="404 page.jpg" crc="4229793875" ref="404"/>
     <file name="shirt_merch.svg" crc="140488734" ref="index:about-us:the-game:support"/>
     <file name="shirt_merch_poster_.png" crc="3879130059" ref="index"/>
-    <file name="swecque heraldic_small-u30432-fr2.png" crc="293126446" ref="index"/>
-    <file name="swecque heraldic_small-u30432-fr3.png" crc="4175174138" ref="index"/>
+    <file name="swecque-heraldic.svg" crc="4207121329" ref="index:about-us:the-game:support:merch"/>
+    <file name="swecque heraldic_poster_.png" crc="531282123" ref="index"/>
   </folder>
-  <file name="index.html" crc="380233739" seo="true" mt="1462541624828" redirect="true"/>
-  <file name="about-us.html" crc="4143065219" seo="true" mt="1462541472411" redirect="true"/>
-  <file name="the-game.html" crc="3892014955" seo="true" mt="1462541472411" redirect="true"/>
-  <file name="support.html" crc="498020266" seo="true" mt="1462541472411" redirect="true"/>
-  <file name="merch.html" crc="3834156131" seo="true" mt="1462541472411" redirect="true"/>
+  <file name="index.html" crc="467976350" seo="true" mt="1464636807435" redirect="true"/>
+  <file name="about-us.html" crc="458913631" seo="true" mt="1464636807435" redirect="true"/>
+  <file name="the-game.html" crc="494760395" seo="true" mt="1464636807435" redirect="true"/>
+  <file name="support.html" crc="3828398026" seo="true" mt="1464636807435" redirect="true"/>
+  <file name="merch.html" crc="423346517" seo="true" mt="1464636807435" redirect="true"/>
   <file name="404.html" crc="25688131" seo="true" mt="1460290014875" redirect="true"/>
 </manifest>

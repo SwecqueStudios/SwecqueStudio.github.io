@@ -1,31 +1,26 @@
-#u30314
-{
-	background-color: #FFFFFF;
-}
-
 #u30313
 {
+	border-color: #333333;
 	background-color: transparent;
 	border-style: solid;
-	border-color: #333333;
 	border-width: 1px 0px;
 }
 
 #u30430-4
 {
-	background-color: transparent;
-	border-style: solid;
-	transition-timing-function: ease;
-	border-color: #2BA0AB;
 	-webkit-transition-delay: 0s;
+	transition-timing-function: ease;
 	line-height: 29px;
-	transition-duration: 0.3s;
-	transition-delay: 0s;
-	border-radius: 10px;
-	border-width: 2px;
-	-webkit-transition-timing-function: ease;
-	background-image: url("../images/blank.gif");
+	border-style: solid;
 	-webkit-transition-duration: 0.3s;
+	border-radius: 10px;
+	transition-delay: 0s;
+	border-width: 2px;
+	border-color: #2BA0AB;
+	background-image: url("../images/blank.gif");
+	transition-duration: 0.3s;
+	background-color: transparent;
+	-webkit-transition-timing-function: ease;
 }
 
 #u30430-4:hover
@@ -49,12 +44,9 @@
 	cursor: pointer;
 }
 
-#u30432
+#u30314,#u40343
 {
-	background-repeat: no-repeat;
 	background-color: #FFFFFF;
-	background-position: center center;
-	background-size: contain;
 }
 
 #u30326:hover #u30329-4 p,#u30326:hover #u30329-4 span,#u30321:hover #u30323-4 p,#u30321:hover #u30323-4 span,#u30335:hover #u30337-4 p,#u30335:hover #u30337-4 span,#u30345:hover #u30346-4 p,#u30345:hover #u30346-4 span,#u30357:hover #u30360-4 p,#u30357:hover #u30360-4 span,#u30352:hover #u30355-4 p,#u30352:hover #u30355-4 span,#u30381:hover #u30384-4 p,#u30381:hover #u30384-4 span,#u30369:hover #u30372-4 p,#u30369:hover #u30372-4 span,#u30376:hover #u30378-4 p,#u30376:hover #u30378-4 span
@@ -69,16 +61,16 @@
 
 #u30316-4,#u30340-4,#u30364-4,#u30389-4
 {
+	border-color: #333333;
 	background-color: transparent;
 	border-style: solid;
-	border-color: #333333;
 	border-width: 0px 0px 1px;
 }
 
 #u30315,#menuu30317,#u30329-4,#u30323-4,#u30337-4,#u30339,#menuu30341,#u30346-4,#u30360-4,#u30355-4,#u30363,#menuu30365,#u30384-4,#u30372-4,#u30378-4,#u31373,#u30388,#u31257
 {
-	background-color: transparent;
 	border-width: 0px;
+	background-color: transparent;
 	border-color: transparent;
 }
 
@@ -87,7 +79,7 @@
 	background-color: transparent;
 }
 
-#u31263,#u31261,#u31259,#u31265,#u31267
+#u40339,#u31263,#u31261,#u31259,#u31265,#u31267
 {
 	display: block;
 }
@@ -95,12 +87,12 @@
 #u30431-4
 {
 	color: #333333;
-	background-color: transparent;
 	font-size: 16px;
+	line-height: 19px;
+	background-color: transparent;
+	font-weight: 300;
 	font-family: open-sans-condensed, sans-serif;
 	text-align: center;
-	font-weight: 300;
-	line-height: 19px;
 }
 
 @media (min-width: 961px)
@@ -112,61 +104,56 @@
 
 	#u30329-4
 	{
-		line-height: 20px;
 		font-size: 17px;
+		line-height: 20px;
 	}
 
 	#u30323-4
 	{
-		line-height: 20px;
 		font-size: 17px;
+		line-height: 20px;
 	}
 
 	#u30337-4
 	{
-		line-height: 20px;
 		font-size: 17px;
+		line-height: 20px;
 	}
 
 	#u30346-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30360-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30355-4
 	{
-		line-height: 19px;
 		font-size: 16px;
-	}
-
-	#u30432
-	{
-		background-image: url("../images/swecque%20heraldic_small-u30432-fr.png");
+		line-height: 19px;
 	}
 
 	#u30384-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30372-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30378-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30316-4,#u30340-4,#u30364-4,#u30389-4
@@ -191,8 +178,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
@@ -209,8 +196,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
@@ -227,8 +214,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
@@ -245,8 +232,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
@@ -264,61 +251,56 @@
 
 	#u30329-4
 	{
-		line-height: 20px;
 		font-size: 17px;
+		line-height: 20px;
 	}
 
 	#u30323-4
 	{
-		line-height: 20px;
 		font-size: 17px;
+		line-height: 20px;
 	}
 
 	#u30337-4
 	{
-		line-height: 20px;
 		font-size: 17px;
+		line-height: 20px;
 	}
 
 	#u30346-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30360-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30355-4
 	{
-		line-height: 19px;
 		font-size: 16px;
-	}
-
-	#u30432
-	{
-		background-image: url("../images/swecque%20heraldic_small-u30432-fr2.png");
+		line-height: 19px;
 	}
 
 	#u30384-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30372-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30378-4
 	{
-		line-height: 19px;
 		font-size: 16px;
+		line-height: 19px;
 	}
 
 	#u30316-4,#u30340-4,#u30364-4,#u30389-4
@@ -343,8 +325,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
@@ -361,8 +343,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
@@ -379,8 +361,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
@@ -397,8 +379,8 @@
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
@@ -416,84 +398,69 @@
 
 	#u30329-4
 	{
-		line-height: 18px;
 		font-size: 15px;
+		line-height: 18px;
 	}
 
 	#u30323-4
 	{
-		line-height: 18px;
 		font-size: 15px;
+		line-height: 18px;
 	}
 
 	#u30337-4
 	{
-		line-height: 18px;
 		font-size: 15px;
+		line-height: 18px;
 	}
 
 	#u30346-4
 	{
-		line-height: 18px;
 		font-size: 15px;
+		line-height: 18px;
 	}
 
 	#u30360-4
 	{
-		line-height: 18px;
 		font-size: 15px;
+		line-height: 18px;
 	}
 
 	#u30355-4
 	{
-		line-height: 18px;
 		font-size: 15px;
-	}
-
-	#u30432
-	{
-		background-image: url("../images/swecque%20heraldic_small-u30432-fr3.png");
-	}
-
-	#u30316-4,#u30340-4,#u30364-4
-	{
-		line-height: 26px;
-	}
-
-	#u30316-2,#u30340-2,#u30364-2
-	{
-		font-size: 22px;
+		line-height: 18px;
 	}
 
 	#u30384-4
 	{
-		line-height: 18px;
 		font-size: 15px;
+		line-height: 18px;
 	}
 
 	#u30372-4
 	{
-		line-height: 18px;
 		font-size: 15px;
+		line-height: 18px;
 	}
 
 	#u30378-4
 	{
-		line-height: 18px;
 		font-size: 15px;
+		line-height: 18px;
 	}
 
-	#u30389-4
+	#u30316-4,#u30340-4,#u30364-4,#u30389-4
 	{
-		line-height: 26px;
 		font-size: 22px;
+		line-height: 26px;
 	}
 
 	#u31199-4,#u31200-4
 	{
 		background-color: transparent;
-		line-height: 19px;
 		color: #333333;
+		line-height: 19px;
 		font-size: 16px;
 		text-align: center;
 		font-family: open-sans-condensed, sans-serif;
