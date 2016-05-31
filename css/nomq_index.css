@@ -17,7 +17,7 @@
 	#page_position_content
 	{
 		margin-top: -34px;
-		padding-bottom: 8px;
+		margin-bottom: -7px;
 	}
 
 	#u1091
@@ -766,14 +766,14 @@
 	#u30314
 	{
 		z-index: 11;
-		min-height: 297px;
+		min-height: 304.74109311740904px;
+		padding-bottom: 0px;
 	}
 
 	#u30314_align_to_page
 	{
-		padding-top: 24px;
-		padding-bottom: 3px;
-		margin-bottom: -7px;
+		padding-top: 7px;
+		padding-bottom: 27px;
 	}
 
 	#pu5340,#pu30315
@@ -784,23 +784,23 @@
 
 	#u30315
 	{
-		z-index: 13;
+		z-index: 38;
 		width: 199px;
 		margin-right: -10000px;
-		margin-top: 66px;
+		margin-top: 67px;
 		left: 1.43%;
 	}
 
 	#u30316-4
 	{
-		z-index: 33;
+		z-index: 58;
 		width: 199px;
 		min-height: 31px;
 	}
 
 	#menuu30317
 	{
-		z-index: 14;
+		z-index: 39;
 		width: 199px;
 		margin-top: 5px;
 	}
@@ -903,9 +903,9 @@
 
 	#u30313
 	{
-		z-index: 12;
+		z-index: 37;
 		padding-bottom: 7px;
-		margin-top: 97px;
+		margin-top: 98px;
 		width: 97.15%;
 		margin-left: 1.43%;
 	}
@@ -931,24 +931,24 @@
 
 	#u30339
 	{
-		z-index: 37;
+		z-index: 62;
 		width: 259px;
 		padding-bottom: 0px;
 		margin-right: -10000px;
-		margin-top: 66px;
+		margin-top: 67px;
 		left: 16.08%;
 	}
 
 	#u30340-4
 	{
-		z-index: 57;
+		z-index: 82;
 		width: 259px;
 		min-height: 31px;
 	}
 
 	#menuu30341
 	{
-		z-index: 38;
+		z-index: 63;
 		width: 259px;
 		margin-top: 5px;
 	}
@@ -1063,22 +1063,22 @@
 
 	#u30363
 	{
-		z-index: 61;
+		z-index: 86;
 		margin-right: -10000px;
-		margin-top: 66px;
+		margin-top: 67px;
 		width: 14.22%;
 		left: 65.36%;
 	}
 
 	#u30364-4
 	{
-		z-index: 81;
+		z-index: 106;
 		min-height: 31px;
 	}
 
 	#menuu30365
 	{
-		z-index: 62;
+		z-index: 87;
 		margin-top: 6px;
 	}
 
@@ -1169,7 +1169,7 @@
 	{
 		z-index: 118;
 		margin-right: -10000px;
-		margin-top: 66px;
+		margin-top: 67px;
 		width: 18.58%;
 		left: 80%;
 	}
@@ -1283,7 +1283,7 @@
 
 	#menuu30401
 	{
-		z-index: 85;
+		z-index: 12;
 		width: 665px;
 		position: relative;
 		margin-right: -10000px;
@@ -1461,7 +1461,6 @@
 	#u30314-bw
 	{
 		z-index: 11;
-		min-height: 297px;
-		margin-top: -7px;
+		min-height: 304.74109311740904px;
 	}
 

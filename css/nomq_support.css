@@ -10,9 +10,14 @@
 
 	#page
 	{
-		min-height: 2245px;
-		padding-bottom: 8px;
+		min-height: 2253px;
 		max-width: 1400px;
+	}
+
+	#page_position_content
+	{
+		margin-bottom: -7px;
+		width: 100%;
 	}
 
 	#u332
@@ -390,8 +395,8 @@
 		z-index: 240;
 		width: 437px;
 		min-height: 46px;
-		font-size: 30px;
 		line-height: 36px;
+		font-size: 30px;
 		top: -8px;
 		margin-bottom: -8px;
 		left: -219px;
@@ -636,10 +641,16 @@
 		left: -476px;
 	}
 
+	#u30314
+	{
+		min-height: 304.7410931174088px;
+		padding-bottom: 0px;
+	}
+
 	#u30314_align_to_page
 	{
-		padding-top: 24px;
-		padding-bottom: 3px;
+		padding-top: 7px;
+		padding-bottom: 27px;
 	}
 
 	#pu30315
@@ -650,20 +661,24 @@
 
 	#u30315
 	{
+		z-index: 30;
 		width: 199px;
+		padding-bottom: 0px;
 		margin-right: -10000px;
-		margin-top: 66px;
+		margin-top: 67px;
 		left: 1.43%;
 	}
 
 	#u30316-4
 	{
+		z-index: 50;
 		width: 199px;
 		min-height: 31px;
 	}
 
 	#menuu30317
 	{
+		z-index: 31;
 		width: 199px;
 		margin-top: 5px;
 	}
@@ -766,8 +781,9 @@
 
 	#u30313
 	{
+		z-index: 29;
 		padding-bottom: 7px;
-		margin-top: 97px;
+		margin-top: 98px;
 		width: 97.15%;
 		margin-left: 1.43%;
 	}
@@ -793,21 +809,24 @@
 
 	#u30339
 	{
+		z-index: 54;
 		width: 259px;
 		padding-bottom: 0px;
 		margin-right: -10000px;
-		margin-top: 66px;
+		margin-top: 67px;
 		left: 16.08%;
 	}
 
 	#u30340-4
 	{
+		z-index: 74;
 		width: 259px;
 		min-height: 31px;
 	}
 
 	#menuu30341
 	{
+		z-index: 55;
 		width: 259px;
 		margin-top: 5px;
 	}
@@ -922,19 +941,22 @@
 
 	#u30363
 	{
+		z-index: 78;
 		margin-right: -10000px;
-		margin-top: 66px;
+		margin-top: 67px;
 		width: 14.22%;
 		left: 65.36%;
 	}
 
 	#u30364-4
 	{
+		z-index: 98;
 		min-height: 31px;
 	}
 
 	#menuu30365
 	{
+		z-index: 79;
 		margin-top: 6px;
 	}
 
@@ -1025,7 +1047,7 @@
 	{
 		z-index: 110;
 		margin-right: -10000px;
-		margin-top: 66px;
+		margin-top: 67px;
 		width: 18.58%;
 		left: 80%;
 	}
@@ -1134,7 +1156,7 @@
 
 	#menuu30401
 	{
-		z-index: 77;
+		z-index: 4;
 		width: 665px;
 		position: relative;
 		margin-right: -10000px;
@@ -1309,8 +1331,9 @@
 		margin: 0px -10000px 0px 0px;
 	}
 
-	#u30314,#u30314-bw
+	#u30314-bw
 	{
-		min-height: 297px;
+		min-height: 304.7410931174088px;
+		margin-top: 7px;
 	}
 
