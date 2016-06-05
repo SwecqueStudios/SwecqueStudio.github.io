@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #0000F7;
-	background-color: #CCC674;
+	color: #000003;
+	background-color: #06DC35;
 }
 
 .js body
@@ -16,14 +16,14 @@
 
 #page
 {
-	z-index: 1;
-	background-image: none;
-	margin-left: auto;
+	border-width: 0px;
 	background-color: transparent;
 	border-color: #000000;
 	width: 100%;
 	margin-right: auto;
-	border-width: 0px;
+	margin-left: auto;
+	background-image: none;
+	z-index: 1;
 }
 
 #u22183
@@ -40,9 +40,9 @@
 
 #u22230
 {
-	z-index: 4;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#2D000000, endColorstr=#75000000, GradientType=0);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#2D000000', endColorstr='#75000000', GradientType=0)";
+	z-index: 4;
 }
 
 #u22208-5
@@ -73,16 +73,16 @@
 
 .Headerbox
 {
-	border-radius: 10px 10px 0px 0px ;
-	background-color: transparent;
 	border-color: #3AD0CF;
+	background-color: transparent;
+	border-radius: 10px 10px 0px 0px ;
 	border-width: 0px 0px 3px;
 }
 
 #u22227-4
 {
-	position: relative;
 	background-color: transparent;
+	position: relative;
 }
 
 #u22233
@@ -105,43 +105,43 @@
 
 #u22245-36
 {
-	letter-spacing: 3px;
 	color: #EFEFEF;
-	font-style: italic;
-	position: relative;
-	min-height: 251px;
-	margin-right: -10000px;
-	text-align: right;
-	font-family: open-sans-condensed, sans-serif;
-	background-color: transparent;
-	font-weight: 300;
 	margin-left: 50%;
+	letter-spacing: 3px;
+	margin-right: -10000px;
+	font-weight: 300;
+	position: relative;
+	font-family: open-sans-condensed, sans-serif;
+	font-style: italic;
+	min-height: 251px;
+	text-align: right;
+	background-color: transparent;
 }
 
 #u22244-26
 {
-	letter-spacing: 1px;
-	position: relative;
-	min-height: 263px;
-	margin-right: -10000px;
 	background-color: transparent;
+	margin-right: -10000px;
 	font-weight: 400;
+	position: relative;
+	letter-spacing: 1px;
+	min-height: 263px;
 	margin-left: 50%;
 }
 
 #u22244-13
 {
-	text-align: left;
 	color: #EFEFEF;
 	font-family: bebas-neue, sans-serif;
+	text-align: left;
 }
 
 #u22244-2,#u22244-3,#u22244-4,#u22244-5,#u22244-6,#u22244-8,#u22244-9,#u22244-10,#u22244-11,#u22244-12,#u22244-15,#u22244-16,#u22244-17,#u22244-18,#u22244-19,#u22244-21,#u22244-22,#u22244-24
 {
-	text-align: left;
 	color: #EFEFEF;
-	padding-top: 0px;
 	font-family: bebas-neue, sans-serif;
+	text-align: left;
+	padding-top: 0px;
 }
 
 #u22224-bw
@@ -152,9 +152,9 @@
 #u22289
 {
 	background-color: transparent;
-	margin-left: 50%;
 	position: relative;
 	margin-right: -10000px;
+	margin-left: 50%;
 }
 
 #u22290
@@ -164,22 +164,22 @@
 
 #u22285-4
 {
+	margin-left: 50%;
 	position: relative;
 	border-color: #3AD0CF;
 	border-style: solid;
 	background-color: #FFFFFF;
-	margin-left: 50%;
 	border-width: 0px 0px 3px;
 }
 
 #u22255-7
 {
 	color: #000000;
-	text-indent: 0px;
 	font-family: open-sans-condensed, sans-serif;
-	z-index: 6;
-	text-align: center;
 	font-weight: 300;
+	text-indent: 0px;
+	text-align: center;
+	z-index: 6;
 	background: transparent url("../images/michelangelo-71282-u22255-7-fr.png") no-repeat center center;
 	background-size: cover;
 }
@@ -203,15 +203,15 @@
 
 #u22281-4
 {
-	position: relative;
 	background-color: transparent;
+	position: relative;
 	min-height: 70px;
 }
 
 #u22270
 {
-	height: 398px;
 	z-index: 13;
+	height: 398px;
 	background: transparent url("../images/street-962796_1920.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -231,24 +231,24 @@
 
 #u30313
 {
-	margin-bottom: -1px;
 	left: 0px;
-	margin-right: -10000px;
+	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u30430-4
 {
-	position: relative;
 	margin-left: 50%;
+	position: relative;
 }
 
 #u30430-4:hover
 {
-	margin-bottom: 0px;
-	padding-top: 0px;
 	padding-bottom: 0px;
+	margin-bottom: 0px;
 	margin-left: 50%;
+	padding-top: 0px;
 }
 
 #u30318,#u30332,#u30356,#u30349
@@ -259,18 +259,18 @@
 
 #u30326:hover,#u30326.MuseMenuActive,#u30321:hover,#u30321.MuseMenuActive,#u30335:hover,#u30335.MuseMenuActive,#u30345:hover,#u30345.MuseMenuActive,#u30357:hover,#u30357.MuseMenuActive,#u30352:hover,#u30352.MuseMenuActive
 {
-	margin-bottom: 0px;
-	margin-right: -10000px;
 	margin-top: 0px;
+	margin-right: -10000px;
+	margin-bottom: 0px;
 }
 
 #u30326:hover #u30329-4,#u30326.MuseMenuActive #u30329-4,#u30321:hover #u30323-4,#u30321.MuseMenuActive #u30323-4,#u30335:hover #u30337-4,#u30335.MuseMenuActive #u30337-4,#u30345:hover #u30346-4,#u30345.MuseMenuActive #u30346-4,#u30357:hover #u30360-4,#u30357.MuseMenuActive #u30360-4,#u30352:hover #u30355-4,#u30352.MuseMenuActive #u30355-4
 {
-	margin-bottom: 0px;
-	margin-top: 0px;
 	padding-bottom: 0px;
-	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 	margin-right: -10000px;
+	padding-top: 0px;
 }
 
 #u30366,#u30373
@@ -287,9 +287,9 @@
 
 #u30381:hover #u30384-4,#u30381.MuseMenuActive #u30384-4,#u30369:hover #u30372-4,#u30369.MuseMenuActive #u30372-4,#u30376:hover #u30378-4,#u30376.MuseMenuActive #u30378-4
 {
-	padding-top: 0px;
 	padding-bottom: 0px;
 	width: 100%;
+	padding-top: 0px;
 	margin: 0px -10000px 0px 0%;
 }
 
@@ -319,9 +319,9 @@
 
 #u30431-4
 {
+	margin-left: 50%;
 	position: relative;
 	min-height: 22px;
-	margin-left: 50%;
 }
 
 .html
@@ -803,8 +803,8 @@
 	{
 		z-index: 180;
 		width: 236px;
-		font-size: 24px;
 		line-height: 34px;
+		font-size: 24px;
 		margin-top: 5px;
 		left: -246px;
 	}
@@ -892,8 +892,8 @@
 	#u22255-7
 	{
 		min-height: 371px;
-		font-size: 30px;
 		line-height: 36px;
+		font-size: 30px;
 	}
 
 	#u22255-7-bw
@@ -1981,8 +1981,8 @@
 	{
 		z-index: 180;
 		width: 236px;
-		font-size: 24px;
 		line-height: 34px;
+		font-size: 24px;
 		margin-top: 14px;
 		left: -246px;
 	}
@@ -2070,8 +2070,8 @@
 	#u22255-7
 	{
 		min-height: 378px;
-		font-size: 30px;
 		line-height: 36px;
+		font-size: 30px;
 	}
 
 	#u22255-7-bw
@@ -3043,8 +3043,8 @@
 	{
 		z-index: 164;
 		width: 150px;
-		font-size: 14px;
 		line-height: 20px;
+		font-size: 14px;
 		margin-top: 18px;
 		left: -154px;
 	}
@@ -3126,8 +3126,8 @@
 	#u22255-7
 	{
 		min-height: 255px;
-		font-size: 20px;
 		line-height: 24px;
+		font-size: 20px;
 	}
 
 	#u22255-7-bw

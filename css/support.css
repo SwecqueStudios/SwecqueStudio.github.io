@@ -1,7 +1,7 @@
 .version.support /* version checker */
 {
-	color: #0000E6;
-	background-color: #77C06D;
+	color: #000004;
+	background-color: #F6A801;
 }
 
 .js body
@@ -16,14 +16,14 @@
 
 #page
 {
-	z-index: 1;
-	background-image: none;
-	margin-left: auto;
+	border-width: 0px;
 	background-color: transparent;
 	border-color: #000000;
 	width: 100%;
 	margin-right: auto;
-	border-width: 0px;
+	margin-left: auto;
+	background-image: none;
+	z-index: 1;
 }
 
 #u29016
@@ -34,28 +34,28 @@
 
 #u28891-4
 {
-	color: #FFFFFF;
 	border-color: transparent;
-	margin-left: 50%;
-	border-radius: 0px 0px 0px 10px ;
-	position: relative;
+	color: #FFFFFF;
 	border-width: 0px;
+	position: relative;
+	border-radius: 0px 0px 0px 10px ;
+	margin-left: 50%;
 }
 
 .Headerbox
 {
-	border-radius: 10px 10px 0px 0px ;
-	background-color: transparent;
 	border-color: #3AD0CF;
+	background-color: transparent;
+	border-radius: 10px 10px 0px 0px ;
 	border-width: 0px 0px 3px;
 }
 
 #u29042-4
 {
 	color: #FFFFFF;
+	background-color: transparent;
 	position: relative;
 	margin-left: 50%;
-	background-color: transparent;
 }
 
 #u28914-4
@@ -103,8 +103,8 @@
 #u28912-4,#u28919-4,#u28904-4,#u28917-4,#u28909-4,#u28922-4
 {
 	color: #EFEFEF;
-	position: relative;
 	background-color: transparent;
+	position: relative;
 }
 
 #u28923-20
@@ -117,16 +117,16 @@
 #u28898,#u28911,#u28918,#u28902,#u28915,#u28908,#u28921,#u28899
 {
 	border-width: 0px;
-	position: relative;
 	background-color: transparent;
+	position: relative;
 	border-color: transparent;
 }
 
 #u28901-4
 {
 	color: #EFEFEF;
-	position: relative;
 	background-color: transparent;
+	position: relative;
 	min-height: 36px;
 }
 
@@ -139,11 +139,11 @@
 
 #u29019-4
 {
+	margin-left: 50%;
 	position: relative;
 	border-color: #3AD0CF;
 	border-style: solid;
 	background-color: #FFFFFF;
-	margin-left: 50%;
 	border-width: 0px 0px 3px;
 }
 
@@ -154,8 +154,8 @@
 
 #u29033-13
 {
-	position: relative;
 	background-color: transparent;
+	position: relative;
 	min-height: 87px;
 }
 
@@ -183,24 +183,24 @@
 
 #u30313
 {
-	margin-bottom: -1px;
 	left: 0px;
-	margin-right: -10000px;
+	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u30430-4
 {
-	position: relative;
 	margin-left: 50%;
+	position: relative;
 }
 
 #u30430-4:hover
 {
-	margin-bottom: 0px;
-	padding-top: 0px;
 	padding-bottom: 0px;
+	margin-bottom: 0px;
 	margin-left: 50%;
+	padding-top: 0px;
 }
 
 #u30318,#u30332,#u30356,#u30349
@@ -211,18 +211,18 @@
 
 #u30326:hover,#u30326.MuseMenuActive,#u30321:hover,#u30321.MuseMenuActive,#u30335:hover,#u30335.MuseMenuActive,#u30345:hover,#u30345.MuseMenuActive,#u30357:hover,#u30357.MuseMenuActive,#u30352:hover,#u30352.MuseMenuActive
 {
-	margin-bottom: 0px;
-	margin-right: -10000px;
 	margin-top: 0px;
+	margin-right: -10000px;
+	margin-bottom: 0px;
 }
 
 #u30326:hover #u30329-4,#u30326.MuseMenuActive #u30329-4,#u30321:hover #u30323-4,#u30321.MuseMenuActive #u30323-4,#u30335:hover #u30337-4,#u30335.MuseMenuActive #u30337-4,#u30345:hover #u30346-4,#u30345.MuseMenuActive #u30346-4,#u30357:hover #u30360-4,#u30357.MuseMenuActive #u30360-4,#u30352:hover #u30355-4,#u30352.MuseMenuActive #u30355-4
 {
-	margin-bottom: 0px;
-	margin-top: 0px;
 	padding-bottom: 0px;
-	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 	margin-right: -10000px;
+	padding-top: 0px;
 }
 
 #u30366,#u30373
@@ -239,9 +239,9 @@
 
 #u30381:hover #u30384-4,#u30381.MuseMenuActive #u30384-4,#u30369:hover #u30372-4,#u30369.MuseMenuActive #u30372-4,#u30376:hover #u30378-4,#u30376.MuseMenuActive #u30378-4
 {
-	padding-top: 0px;
 	padding-bottom: 0px;
 	width: 100%;
+	padding-top: 0px;
 	margin: 0px -10000px 0px 0%;
 }
 
@@ -271,9 +271,9 @@
 
 #u30431-4
 {
+	margin-left: 50%;
 	position: relative;
 	min-height: 22px;
-	margin-left: 50%;
 }
 
 #u30314,#u30314-bw

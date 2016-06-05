@@ -1,26 +1,26 @@
 #u30313
 {
-	background-color: transparent;
 	border-color: #333333;
 	border-style: solid;
+	background-color: transparent;
 	border-width: 1px 0px;
 }
 
 #u30430-4
 {
-	-webkit-transition-duration: 0.3s;
 	transition-delay: 0s;
-	transition-duration: 0.3s;
-	border-radius: 10px;
-	border-style: solid;
-	border-width: 2px;
 	-webkit-transition-timing-function: ease;
-	-webkit-transition-delay: 0s;
-	background-image: url("../images/blank.gif");
+	transition-duration: 0.3s;
 	line-height: 29px;
-	background-color: transparent;
+	-webkit-transition-delay: 0s;
+	border-width: 2px;
+	background-image: url("../images/blank.gif");
 	border-color: #2BA0AB;
+	background-color: transparent;
+	border-radius: 10px;
 	transition-timing-function: ease;
+	border-style: solid;
+	-webkit-transition-duration: 0.3s;
 }
 
 #u30430-4:hover
@@ -61,17 +61,17 @@
 
 #u30316-4,#u30340-4,#u30364-4,#u30389-4
 {
-	background-color: transparent;
 	border-color: #333333;
 	border-style: solid;
+	background-color: transparent;
 	border-width: 0px 0px 1px;
 }
 
 #u30315,#menuu30317,#u30329-4,#u30323-4,#u30337-4,#u30339,#menuu30341,#u30346-4,#u30360-4,#u30355-4,#u30363,#menuu30365,#u30384-4,#u30372-4,#u30378-4,#u31373,#u30388,#u31257
 {
-	background-color: transparent;
 	border-color: transparent;
 	border-width: 0px;
+	background-color: transparent;
 }
 
 #u30325,#u30326,#u30318,#u30321,#u30332,#u30335,#u30342,#u30345,#u30356,#u30357,#u30349,#u30352,#u30380,#u30381,#u30366,#u30369,#u30373,#u30376,#u31262,#u31260,#u31258,#u31264,#u31266
@@ -86,12 +86,12 @@
 
 #u30431-4
 {
-	text-align: center;
-	color: #333333;
 	font-size: 16px;
-	font-family: open-sans-condensed, sans-serif;
-	line-height: 19px;
+	color: #333333;
 	background-color: transparent;
+	font-family: open-sans-condensed, sans-serif;
+	text-align: center;
+	line-height: 19px;
 	font-weight: 300;
 }
 
